@@ -1,0 +1,1103 @@
+SCHOOL OF ENGINEERING 
+DEPARTMENT OF CIVIL ENGINEERING 
+ACADEMIC YEAR: 2019-20 
+
+   YEAR: II 
+
+              SEMESTER: I 
+
+REGULATION: R18 
+
+Course Name: Surveying & Geomatics 
+
+                 Course Code: CE301PC 
+
+CO1 
+
+CO2 
+
+Able to Summarize the types of surveying and their measuring techniques of determining the 
+distances and directions.. 
+Able to Survey for the construction of road, canals and contours  by using different types of 
+leveling techniques 
+Able to evaluate the areas and volumes using different methods 
+
+CO3 
+CO4  Able to extend the knowledge of theodolite in tacheometric surveying and curve setting and 
+
+understand the advanced surveying like Geodetic surveying, Total Station, GPS and GIS 
+Able to explain the concept of Photogrammetry Surveying 
+
+CO5 
+
+Course Name:  Engineering Geology 
+
+         Course Code: CE302PC  
+
+CO1 
+CO2 
+
+CO3 
+
+CO4 
+
+CO5 
+
+Able to Explain the difference between physical and mechanical weathering. 
+Able to determine the compressive strength of rock granite and other rocks 
+Able to evaluate the various types of geo physical methods, geological formations, 
+structures, textures. 
+Able to distinguish dykes and sills, folds, faults, weathering and erosion and igneous, 
+sedimentary and metamorphic rocks.  
+Able to list out and classify the various types of dams, reservoirs and tunnels. 
+
+Course Name:   Strength of Materials-I 
+
+                      Course Code: CE303PC 
+Able  to  determine  the  stresses  and  strains  in  the  members  subjected  to  axial  and  bending 
+loads. 
+Able  to  construct  the  Shear  Force  and  Bending  Moment  diagrams  for  different  beams 
+subjected to various loads. 
+Able to determine the shear stresses and flexural stresses in structural members. 
+Able to determine the principal stresses and strains in structural members 
+Able to evaluate the slope and deflection of beams subjected to various loads 
+
+Course Name:   Probability & Statistics 
+
+                    Course Code:  MA304BS 
+Able  to  Analyze  random  variables  involved  in  the  probability  models  and  apply  them  for 
+various branches of engineering 
+Able to Understand the basic ideas of probability and random variables and various discrete 
+probability distributions and their properties. 
+Able  to  Understand  the  basic  ideas  of  probability  and  random  variables  and  various 
+Continuous probability distributions and their properties. 
+Able  to  Understand  the  basic  ideas  of  statistics  including  measures  of  central  tendency, 
+correlation and regression. 
+Able  to  calculate  mean  and  proportion  (small  and  large  sample)  and  to  make  important 
+decisions  from  few samples which are taken out of unimaginably huge populations which is 
+useful for non circuit branches of engineering. 
+
+CO1 
+
+CO2 
+
+CO3 
+CO4 
+CO5 
+
+CO1 
+
+CO2 
+
+CO3 
+
+CO4 
+
+CO5 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Course Name:   Fluid Mechanics 
+
+                     Course Code: CE305PC 
+
+CO1 
+CO2 
+
+CO3 
+
+CO4 
+CO5 
+
+Able to Understand the properties of  Fluid Mechanics and apply them for Fluid Statics. 
+Able to Classify the fluid flows and use momentum principles in Fluid Dynamics. 
+Able to Apply the Bernoulli’s equation practically and also Understand the flow over Notches 
+and Weirs 
+Able to Understand the concept of flow through pipes and Analyze the pipe Network 
+Able to Apply boundary layer theory Concepts for Laminar and Turbulent flows. 
+
+Course Name:  Surveying Lab 
+CO1 
+CO2 
+CO3 
+CO4 
+
+Able to Apply the principle of surveying for civil engineering applications. 
+Able to Calculate areas using chain and compass survey, plane table and plot them. 
+Able to  evaluate the levels of grounds using theodolite and perform trigonometrical leveling 
+Able to understand the usage of Total station and determine various parameters. 
+
+           Course Code: CE306PC 
+
+Course Name:  Strength of Materials Lab 
+CO1  Able to Determine hardness of metals. 
+CO2  Able to Classify the materials like steel, concrete, etc. depending upon the strength. 
+CO3  Able to Find out the compression strength of spring, wood and concrete 
+CO4  Able to Determine the Elastic Constants of steel by conducting flexural and torsion tests 
+CO5  Able to Find out the Tensile strength of Materials like steel, etc. by Tension test 
+
+                     Course Code: CE307PC 
+
+Course Name:  Engineering Geology Lab 
+CO1  Able to Understand the properties of Rocks 
+CO2  Able to Understand the properties of minerals 
+CO3  Able to Measure the strike and dip of the bedding planes. 
+CO4  Able to Interpret the geological maps 
+CO5  Able to Solve the geological problems. 
+
+                     Course Code: CE308PC 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+YEAR: II 
+
+                   SEMESTER: II 
+
+REGULATION: R18 
+
+Course Name:  BEEE  
+
+Course Code: EE401ES 
+
+CO1  Able to Recall fundamentals of electrical circuits and outline measuring instruments 
+CO2  Able to Discuss DC generators and types of DC motors 
+CO3  Able to Explain the working of transformers and AC machines 
+CO4  Able to Analyze characteristics of diodes rectifiers and transistors 
+CO5  Able to Explain construction of cathode ray oscilloscope 
+
+Course Name:  BMECE 
+CO1  Able to Distinguish between various engineering materials and understand their applications 
+CO2  Able to Compare and select various power transmission elements and understand their usage in 
+
+Course Code: CE402PC 
+
+civil engineering equipment 
+
+CO3  Able to Explain the various principles of Thermal engineering and their applications 
+CO4  Able to classify various manufacturing processes and choose suitable process for civil engineering 
+
+applications 
+
+CO5  Able to Differentiate between various machine tools and select appropriate machine tool based on 
+
+the requirement. 
+
+CO1 
+
+CO2 
+
+Course Name:  BMCP 
+
+Course Code: CE403PC 
+Able  to  understand  the  types  of  building  stones  and  bricks  and  their  composition  and 
+characteristics. 
+Able  to  discuss  the  manufacturing  process  of  timber,  aluminum,  glass,  paints,  plastics,  cement, 
+different  tests on cement and various types of admixtures.  
+Able  to  explain  building  components  like  lintels,  arches,  walls,  vaults,  stair  cases,  floors  and 
+building services of plumbing, sanitary, ventilation, etc., 
+CO4  Able to discuss about mortars, masonry, finishes and formwork. 
+CO5  Able to understand about building planning and bye-laws. 
+
+CO3 
+
+Course Name:  SoM-II 
+CO1  Able to explain the theory of torsion and springs. 
+CO2  Able to understand the concept of columns and struts. 
+CO3  Able to understand the concept of direct and bending stresses. 
+CO4  Able to Summarize about unsymmetrical bending moment and beams used in the plan. 
+CO5  Able to distinguish between thin Cylinders and thick Cylinders. 
+
+Course Code: CE404PC 
+
+Course Name:  HHM   
+CO1  Able to Compare the types of open channel flows and most economical sections 
+CO2  Able to Extend the knowledge on non-uniform flow and dynamic equation for Gradually Varied 
+
+Course Code: CE405PC 
+
+Flow 
+
+CO3  Able to Interpret about dimensional analysis, similitude, hydraulic models and numbers 
+CO4  Able to Distinguish between different types of hydrodynamic forces on jets 
+CO5  Able to Summarize the different types of turbines and pumps and study their properties in 
+
+hydropower plant. 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Course Name:  SA-I 
+CO1  Able to Solve the forces in members for prefect frames 
+
+Course Code: CE406PC 
+
+CO2 
+
+Able to  calculate  the deflections of beams using  energy theorems   and  analyze the three hinged 
+arches 
+
+CO3  Analyze the propped cantilevers and fixed beams. 
+
+CO4 
+
+Able to Analyze continuous beams by clapeyron’s three moment theorem and analyze beams, and 
+portal frames using Slope deflection method  
+
+CO5  Able to Sketch influence line diagrams for the moving loads. 
+
+Course Code: CE407PC 
+Course Name:  CADCED Lab 
+CO1  Able to explain and use the Autocad commands for drawing 2D & 3D building drawings required 
+
+for different civil engineering applications. 
+
+CO2  Able to Plan and construct the Civil Engineering Buildings as per aspect and orientation 
+CO3  Able to present drawings as per user requirements and preparation of technical report 
+
+Course Name:  BEEE LAB 
+CO1  Able to analyze and solve electrical circuits using network laws and theorems. 
+CO2  Able to understand and analyze basic Electric and Magnetic circuits 
+CO3  Able to study the working principles of Electrical Machines 
+CO4  Able to understand components of Low Voltage Electrical Installations 
+CO5  Able to identify and characterize diodes and various types of transistors. 
+
+Course Code: EE409ES 
+
+Course Name: HHM Lab 
+CO1  Able to Describe the basic measurement techniques of fluid mechanics and its appropriate 
+
+Course Code: CE409PC 
+
+application. 
+
+CO2  Able to Interpret the results obtained in the laboratory for various experiments 
+CO3  Able  to  Discover  the  practical  working  of  Hydraulic  machines-  different  types  of  Turbines, 
+
+Pumps, and other miscellaneous hydraulics machines 
+
+CO4  Able to Compare the results of analytical models introduced in lecture to the actual behavior of 
+
+real fluid flows and draw correct and sustainable conclusions 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+YEAR: III 
+
+SEMESTER: I  
+
+REGULATION: R16 
+
+Course Name:  Concrete Technology   
+CO1  Able to compare the types of cement, admixtures and aggregates and can identify their usage. 
+CO2  Able to explain workability of fresh concrete and tests conducted to determine it. 
+CO3  Able to understand the concept of the hardened concrete. 
+CO4  Able to design mix proportions for different grades of concretes using different methods 
+CO5  Able to understand the properties of various special concretes 
+
+Course Code: CE501PC 
+
+Course Name:  DRCS   
+CO1  Able to Design RC Structural elements 
+CO2  Able to Design the Reinforced Concrete beams using limit state 
+CO3  Able to Design Reinforced Concrete slabs 
+CO4  Able to Design the Reinforced Concrete Columns and footings Design structures for serviceability 
+CO5  Able to Design staircases and canopy 
+
+           Course Code: CE502PC 
+
+Course Name:  WRE   
+CO1  Able to explain about hydrological cycle, types of formation of precipitation, rain gauges, and 
+
+Course Code: CE503PC 
+
+runoff 
+
+CO2  Able to define hydrograph analysis, limitations and applications. S-hydrograph, synthetic unit 
+
+hydrograph 
+
+CO3  Able to examine the ground water occurrence, porosity, specific yield, permeability, transmissivity   
+
+and storage coefficient 
+
+CO4  Able to understand the necessity and importance of irrigation, advantages and its effects 
+CO5  Able to classify the canals and design  by Kennedy’s and lacey’s theories 
+
+Course Name: FoM  
+CO1  Able to Understand the significance of management in their profession 
+CO2  Able to Define and summarize the importance of planning and decision making techniques 
+CO3  Able to Describe the organizational structures and effective utilization of Human resources in the 
+
+          Course Code: SM504MS 
+
+organization. 
+
+CO4  Able to identify Importance of leadership and motivation to reach the organizational goals 
+CO5  Able to Define controlling and enlist its features, process and different controlling techniques 
+
+Course Name:  NCPG  
+CO1  Able to explain renewable energy sources and systems. 
+CO2  Able to apply engineering techniques to build solar, wind, tidal,geothermal,biofuel,fuel cell, 
+
+         Course Code: EE511OE 
+
+hydrogen and sterling engine. 
+
+CO3  Able to analyze and evaluate the implication of renewable energy, concepts in solving numerical 
+
+problems pertaining to solar radiation geometry and wind energy systems. 
+
+CO4  Able to demonstrate self learning capability to design and establish renewable energy systems. 
+CO5  Able to conduct experiments to assess the performance of solar PV, solar thermal and biodiesel 
+
+systems. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Course Name: CT LAB  
+CO1  Able to understand the properties of cement. 
+CO2  Able to understand the workability and other fresh concrete properties. 
+CO3  Able to understand the properties of hardened concrete. 
+CO4  Able to understand the tests on the self compacting concrete. 
+CO5  Able to Perform the Non Destructive tests of concrete. 
+
+Course Name:  GIS LAB 
+CO1  Able to study the toposheets and cadastral maps. 
+CO2  Able to develop the GIS interface to field problems through geofencing 
+CO3  Able to explain the digitization and GIS Coordination. 
+CO4  Able to explain the usage of GIS software with a case example. 
+
+Course Code: CE505PC 
+
+Course Code: CE506PC 
+
+Course Code: CE507PC 
+Course Name:  HHM LAB 
+CO1  Able to Analyze the performance of Pelton wheel, Francis turbine and Kaplan turbine by drawing 
+
+its performance curves. 
+
+CO2  Able to Analyze the performance of centrifugal pump and reciprocating pump by drawing its 
+
+performance curves. 
+
+CO3  Able to Study of the flow in open channel and find the discharge using various weirs. 
+CO4  Able to Understand the evaluation of the impact of jet on vanes. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+YEAR: III 
+
+SEMESTER: I I 
+
+REGULATION: R16 
+
+Course Name:  DSS 
+CO1  Able to Design the bolted, welded connections and tension members 
+CO2  Able to Design the compression members for column splice and column base 
+CO3  Able to Extend the knowledge of plastic moment of beams and design them 
+CO4  Able to Design the eccentric connections for unstiffened and stiffened seated connections 
+CO5  Able to Interpret the knowledge of beams on welded plate girder and connections between flange 
+
+Course Code: CE601PC 
+
+and splice. 
+
+Course Name:  EE 
+CO1  Able to Acquire the knowledge of the water borne diseases 
+CO2  Able to Acquire the knowledge of sources of water 
+CO3  Able to Develop skills in designing the water treatment plant 
+CO4  Able to Develop skills in control of Air pollution 
+CO5  Able to Develop an understanding of sources of water and water supply. 
+
+Course Code: CE602PC 
+
+Course Name:  Soil Mechanics  
+CO1  Able to Interpret the basic and index properties of the soils. 
+CO2  Able to Explain the properties and factors affecting permeability and demonstrate the properties of flow 
+
+Course Code: CE603PC 
+
+nets and its uses 
+
+CO3  Able to Understand the concept of compaction and stress distribution in soils. 
+CO4  Able to explain the concepts of consolidation & analyze the Terzaghi’s one dimensional consolidation 
+
+theory. 
+
+CO5  Able to understand the concept and Determine the shear strength of soil. 
+
+Course Name:  ERDSS 
+CO1  Able to Describe the behavior of natural and engineered soil slopes under various weather and 
+
+Course Code: CE614PC 
+
+engineering conditions. 
+
+CO2  Able to Explain the factors that may affect the stability of slopes 
+CO3  Able to Select an appropriate slope stability analysis method subject to geometry of slope, material 
+
+properties, and uncertainty of observations 
+CO4  Able to Assess the potential landslide risk of slopes. 
+CO5  Able to Design earth and rock fill dams, get familiarity with slope stability Calculations and 
+
+prevention techniques for slope failures. 
+
+Course Name: Fabrication Process   
+CO1  Able to understand casting process and interpret foundry practices and  inspection of defects. 
+CO2  Able to select appropriate joining process to join work piece. 
+CO3  Able to differentiate various metals forming process. 
+CO4  Able to classify different plastic deformation of extrusion of metals 
+CO5  Able to understand the different forging operations, principles, tools and forging methods 
+
+           Course Code: ME623OE 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Course Name:  SM LAB 
+CO1  Able to Perform Atterberg limits test and sieve analysis for quality control 
+CO2  Able to Analyze the behavior of soil by CBR test and tri-axial test 
+CO3  Able to Interpret Direct shear test , Vane shear strength parameters and unconfined compression 
+CO4  Able to Conduct Constant head and variable head test for permeability. 
+CO5  Able to Conduct One Dimensional consolidation Test and compaction Test 
+
+Course Code: CE604PC 
+
+Course Name:  CAD –II LAB   
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+
+Sketch the reinforcement in different types of beams 
+Sketch the reinforcement in Columns & footings 
+Sketch the reinforcement in different types of Slabs 
+Sketch the bolted and welded connections of steel 
+Sketch different steel members 
+
+Course Code: CE605PC 
+
+Course Name:  AECS LAB 
+CO1  Able to Acquire vocabulary and use it contextually 
+CO2  Able to Use Listening and speaking skills effectively 
+CO3  Able to Develop proficiency in academic reading and writing 
+CO4  Able to Increase possibilities of Job prospects 
+CO5  Able to Communicate confidently in formal and informal contexts. 
+
+Course Code: EN606HS 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+YEAR: IV 
+
+SEMESTER: I  
+
+REGULATION: R16 
+
+Course Name: Transportation Engineering  
+Course Code: CE701PC 
+CO1  Able to Explain about Highway development and planning and evaluate the highway cross section 
+
+elements 
+
+CO2  Able to Construct the different types of Curves, Gradients, Super elevation and extra widening for 
+
+highways. 
+
+CO3  Able  to  Understand  the  Traffic  Parameters,  Traffic  signs,  Road  markings  and  Traffic  signal 
+
+phasing timings 
+
+CO4  Able to Define Intersections and choose the intersections for controlling of traffic in pavements 
+CO5  Able to Explain about Highway materials and  maintenance for the construction of Highways 
+
+Course Name:  EQSV   
+CO1  Able to estimate the quantities of buildings using the two standard methods and calculate the cost. 
+
+Course Code: CE702PC 
+
+CO2  Able to estimate the quantities for roads and earth works 
+CO3  Able to determine the different kinds of analysis of rates. 
+CO4  Able to develop Bar Bending Schedule for different kinds of bars. 
+CO5  Able to evaluate the buildings which are helpful for the Revenue Department 
+
+Course Name:  FE 
+CO1  Able to Analyze the need and methods of soil exploration and to learn the field test and soil 
+
+            Course Code: CE723PE 
+
+investigation 
+
+CO2  Able to Apply knowledge for stability of slopes of earth dams under different conditions 
+CO3  Able to interpret the earth pressure theories and design of retaining walls 
+CO4  Able to explain the theory of shallow foundation and to understanding the concept of pile 
+
+foundation 
+
+CO5  Able to Describe the properties of pile and well foundation and their functions 
+
+Course Name:  GIT 
+CO1  Able to understand the basic concepts of Ground Improvement Techniques 
+CO2  Able to explain the concept of mechanical and hydraulic modifications 
+CO3  Able to explain the concept of physical and chemical modifications 
+CO4  Able to explain the concept of modification by inclusions and confinement. 
+CO5  Able to identify the suitable ground improvement techniques for specific project and its 
+
+             Course Code: CE733PE 
+
+implications. 
+
+Course Name:  Traffic Engineering 
+CO1  Able to Understand the basic principles of Traffic engineering 
+CO2  Able to analyze parking data and model accidents. 
+CO3  Able to explain the Capacity and LOS. 
+CO4  Able to design signals considering various parameters. 
+CO5  Able to explain the transportation system management 
+
+Course Code: CE714PE 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Course Name:  TE LAB 
+CO1  Able to determine the properties of Aggregate by applying loads gradually and suddenly. 
+
+Course Code: CE703PC  
+
+Aggregate Impact test, Aggregate Crushing test and Abrasion test 
+CO2  Able to Demonstrate Shape tests and find Elongation and flakiness index 
+CO3  Able to Illustrate Penetration, Ductility, Softening, flash and fire point tests. 
+CO4  Able to determine strength of bitumen by means of Marshall stability test. 
+CO5  Able to conduct the traffic volume counting and speed of vehicles by means of modern 
+
+equipment. 
+
+Course Name:  EE LAB 
+CO1  Able to Quantify the water and wastewater pollutant. 
+CO2  Able to Measure the concentration of air pollutants 
+CO3  Able to Analyze the characteristics of water 
+CO4  Able to Analyze the characteristics of  wastewater 
+CO5  Able to Study the growth  of microorganism and its quantification 
+
+Course Code: CE704PC 
+
+Course Name:  MINI PROJECT 
+CO1  Able to Apply the basic principles in Civil Engineering to fulfill the requirements. 
+CO2  Able to Explain technical ideas, strategies and methodologies in an optimum manner 
+CO3  Able to Demonstrate the outputs in an efficient manner. 
+
+Course Code: CE705PC 
+
+Identify the relevant topics related to Civil Engineering Subjects. 
+
+Course Name:  SEMINAR 
+CO1 
+CO2  Evaluate the topics in a planned manner. 
+CO3  Defend the presentations with a suitable answers. 
+
+            Course Code: CE706PC 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+YEAR: IV 
+
+SEMESTER: I I 
+
+REGULATION: R16 
+
+Course Name: Organizational Behavior 
+CO1  Able to understand the concept of organizational behavior. 
+CO2  Able to analyze the Job satisfaction levels and motivational theories. 
+CO3  Able to evaluate the decision making techniques on organizational behavior 
+CO4  Able to analyze  the importance of group versus teams 
+CO5  Able to examine the level of performances in Organizational behavior. 
+
+Course Code: EE833OE 
+
+Course Name:  Pavement Design 
+CO1  Able to Characterize the response characteristics of soil, aggregate, asphalt, and asphalt mixes 
+CO2  Able to Analyze flexible pavements 
+CO3  Able to Analyze rigid pavements 
+CO4  Able to Design a flexible pavement using IRC, Asphalt Institute, and AASHTO methods 
+CO5  Able to Design a rigid pavement using IRC and AASHTO methods 
+
+Course Code: CE852PE 
+
+Course Name:  IWWT  
+CO1  Able to identify the characteristics of industrial waste water. 
+CO2  Able to describe pollution effects of disposal of industrial effluent. 
+CO3  Able to identify and design the treatment options for industrial waste water. 
+CO4  Able to formulate environmental management plan. 
+CO5  Able to understand the characteristics and composition of industries. 
+
+             Course Code: CE864PE 
+
+Course Name:  MAJOR PROJECT 
+CO1  Able to Apply the basic principles in Civil Engineering to fulfill the requirements. 
+CO2  Able to Explain technical ideas, strategies and methodologies in an optimum manner 
+CO3  Able to Demonstrate the outputs in an efficient manner. 
+
+Course Code: CE801PC 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

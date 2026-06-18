@@ -1,0 +1,922 @@
+ACADEMIC YEAR 
+
+2019-20 
+
+YEAR: II 
+
+SEMISTER: I 
+
+REGULATION: R18 
+
+Course Name: Analog and Digital Electronics 
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+
+Differentiate various components and devices with characteristics. 
+Analyze and design various transistor amplifiers using BJTs and FETs 
+Utilize the postulates of the Boolean Algebra to minimize the Combinational circuits. 
+Design and Analyze Combinational and Sequential circuits 
+Design the logic gates using different Logic families. 
+
+Course Code: CS301ES 
+
+Course Name:  Data Structures 
+
+Course Code: CS302PC 
+
+CO1 
+CO2 
+CO3 
+
+CO4 
+CO5 
+
+Understand the concept of ADT. 
+Ability to select the data structures that efficiently model the information in a problem. 
+Ability to assess efficiency trade-offs among different data structure implementations or 
+combinations. 
+Implement and know the application of algorithms for sorting and pattern matching. 
+Design programs using a variety of data structures, including hash tables, binary and 
+general tree structures, search trees, tries, heaps, graphs, and AVL-trees. 
+
+Course Name:   Computer Oriented Statistical Methods 
+
+Course Code: MA303BS 
+
+CO1 
+CO2 
+CO3 
+CO4 
+
+CO5 
+
+Distinguish between discrete and continuous probability. Distributions 
+Analyze and interpret statistical data using appropriate probability distributions. . 
+Apply sampling distributions concept in various fields in real world problems. 
+Estimate the value for a given parameter by choosing appropriate method and apply 
+suitable test to accept or reject a given hypothesis 
+Apply Stochastic process and Markov process to solve various problems 
+
+Course Name:   Computer Organization and Architecture 
+
+Course Code:  CS304PC 
+
+CO1 
+
+CO2 
+CO3 
+CO4 
+
+CO5 
+
+Ability to Demonstrate an understanding of the design of the functional units of a digital 
+computer system 
+Ability to design of control unit and Explain the instruction set, instruction formats and 
+Addressing modes of CPU 
+Ability to Recognize and manipulate representations of numbers stored in digital computers 
+and perform Basic arithmetic Operations. 
+Ability to analyze memory hierarchy and its impact on computer Cost/performance. 
+
+ 
+ 
+ 
+ 
+ 
+Course Name:   Object Oriented Programming using C++ 
+Define Object Oriented Programming concepts. 
+Demonstrate C++ classes and data abstraction. 
+Develop C++ programs with reusability concept. 
+Explain File handling in C++ 
+Handle exceptions in programming 
+
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+
+Course Code: CS305PC 
+
+Course Name:  Analog and Digital Electronics Lab 
+
+Course Code: CS306ES 
+
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+
+Design and test rectifiers with filters 
+Design, construct and test amplifier circuits and interpret the results. 
+Utilize the postulates of the Boolean Algebra to minimize the Combinational circuits. 
+Design and Analyze Combinational and Sequential circuits and verify the functionality. 
+Realize the logic gates using different Logic families and verify the functionality. 
+
+Course Name:   Data Structures Lab 
+
+Course Code: CS307PC 
+
+CO1 
+
+CO2 
+CO3 
+
+CO4 
+
+CO5 
+
+Appreciate the importance of structure and Abstract data type, and their basic usability in 
+different applications. 
+Able to implement linear and non-linear data structures using linked lists. 
+Able to understand and apply various data structures such as stacks, queues, trees, graphs etc. 
+to solve various computing problems. 
+Able to implement various kinds of searching and sorting techniques, and decide when to 
+choose which technique. 
+Able to identify and use a suitable data structure and algorithm to solve a real world problem. 
+
+Course Name:   IT Workshop Lab 
+
+Course Code: CS308PC 
+
+CO1 
+
+CO2 
+CO3 
+CO4 
+CO5 
+
+Apply knowledge for computer assembling and software installation and solve trouble 
+shooting problems 
+Ability to effectively use of internet and World Wide Web 
+Ability to effectively use of internet, www and web browsers 
+Apply the tools for documentation 
+Apply the tools for ppt, Budget sheet etc 
+
+Course Name:  C++ Programming Lab 
+
+Course Code: CS309PC 
+
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+
+Explain polymorphism and develop C++ programs 
+Develop C++ programs with reusability concept. 
+Compare classes & structures and develop C++ programs using classes & structures 
+Write C++ programs to handle exceptions in programming 
+Solve different type of problems using object-oriented programming Techniques 
+
+ 
+ 
+ 
+ 
+YEAR: II 
+
+SEMISTER: II 
+
+REGULATION: R18 
+
+Course Name: Discrete Mathematics 
+
+Course Code: CS401PC 
+
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+
+Illustrate various formal proof methods for validating the arguments 
+Discuss various types of relations, functions and algebraic structures 
+Apply counting techniques to solve computational problems 
+List various techniques to solve the recurrence relations 
+Justify the graph theory techniques to solve real world problems 
+
+Course Name:   Business Economics & Financial Analysis 
+
+Course Code: SM402MS 
+
+CO1 
+
+CO2 
+
+CO3 
+
+CO4 
+
+CO5 
+
+Understand the relative importance of Business Economics and structure of Business Firms 
+ranging from types, formation, entry and exit from markets and output decisions. 
+Be equipped with the tools for analyzing Demand and costs as well as in forecasting product 
+demand and to develop critical and integrative thinking in the Analysis of consumer behavior 
+Able to identify key domestic as well as global economic factors and analyze the impact of 
+fast changing global economic factors with domestic macroeconomic policies 
+To develop the students to understand the accounting language and to have a basic 
+understanding of preparation of financial statement. 
+To assess the company profitability and financial position by suing financial tools and 
+techniques and to explore opportunities for future merger and acquisition and expansion 
+
+Course Name:   Operating System 
+
+Course Code: CS403PC 
+
+CO1 
+CO2 
+
+CO3 
+CO4 
+CO5 
+
+Able to explain the basic concepts of operating systems 
+Able to compare different process scheduling algorithms and interpret the concurrency 
+problem to overcome it by using different solutions 
+Able to estimate the memory allocated for a process 
+Able to interpret the structure of a file system and disk and also able to manage them 
+Able to analyze sharing of resources among multiple processes in order to detect, prevent and 
+avoid a deadlock 
+
+Course Name:  Database Management Systems 
+
+Course Code: CS404PC 
+
+CO1 
+CO2 
+
+CO3 
+CO4 
+CO5 
+
+Define the basic concepts of database management systems 
+Ability to design entity relationship model and convert entity relationship diagrams into 
+RDBMS and formulate SQL queries on the data. 
+Able to demonstrate transaction processing and concurrency control 
+Able to apply normalization technique for schema refinement 
+Ability to compare different storage structures 
+
+ 
+ 
+ 
+ 
+Course Name:   Java Programming 
+
+Course Code: CS405PC 
+
+CO1 
+CO2 
+CO3 
+
+CO4 
+CO5 
+
+Able to Define OOPs concepts & basics of java programming 
+Able to Identify the use of classes, interface, packages in solving specific problems 
+Able to Analyze the use of Single threading and multithreading programs using 
+Synchronization and handle the exceptions to increase the performance of program. 
+Able to know the importance of collection framework in developing effective programs. 
+Analyze and Design GUI based applications using swings and applets 
+
+Course Name:  Operating Systems Lab 
+
+Course Code: CS406PC 
+
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+
+Able to implement different CPU scheduling algorithms using C-language 
+Able to create c programs for different file allocation and file organization techniques 
+Able to develop c programs for various memory allocation strategies like MVT and MFT 
+Able to implement c programs for prevention and avoidance of deadlocks 
+Able to develop c programs for paging technique and page replacement algorithms 
+
+Course Name:   Database Management Systems Lab 
+
+Course Code: CS407PC 
+
+CO1 
+CO2 
+CO3 
+CO4 
+
+CO5 
+
+Able to choose appropriate database schema for a given problem 
+Able to design an E-R model for real world problem 
+Able to develop relational model for schema refinement 
+Able to build a database for roadway travels and formulate quires using DDl, DMl, DCL 
+commands 
+Able to create triggers, cursors for given problem 
+
+Course Name:   Java Programming Lab 
+
+Course Code: CS408PC 
+
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+
+Able to apply OOP in problem solving and develop basic programs. 
+Able to develop basic programs on multithreading and exception handling 
+Able to implement code for accessing the information from files 
+Able to implement code for data structures and sorting techniques 
+Able to create GUI based applications using swings and applets 
+
+ 
+ 
+ 
+YEAR: III 
+
+SEMISTER: I 
+
+REGULATION: R16 
+
+Course Name: Design and Analysis of Algorithms 
+Describe different types of Algorithms 
+Estimate performance of an Algorithm 
+Compare different types of design techniques of Algorithms 
+Choose Appropriate design techniques or Algorithms for solving problems 
+Develop Algorithms for real time scenarios 
+
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+
+Course Code: CS501PC 
+
+Course Name:  Data Communication and Computer Networks Course Code: CS502PC 
+
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+
+Define Network and its components 
+Illustrate the functionality of OSI and TCP/IP reference models 
+Compare different network layer protocols 
+Evaluate Architecture for Application layer protocols 
+Choose appropriate protocol for desired communication service 
+
+Course Name:   Software Engineering 
+
+Course Code: CS503PC 
+
+CO1 
+
+CO2 
+CO3 
+CO4 
+CO5 
+
+Able to define software engineering process and practices, and demonstrate various process 
+models 
+Able to identify different types of risks in software development 
+Able to distinguish different testing strategies and it’s working 
+Able to Estimate the quality of software process 
+Able to develop the SRS document for project. 
+
+Course Name:   Fundamentals of Management 
+
+Course Code: SM504MS 
+
+CO1 
+CO2 
+CO3 
+
+CO4 
+CO5 
+
+Understand the significance of management in their profession. 
+Define and summarize the importance of planning and decision making techniques. 
+Describe the organizational structures and effective utilization of Human resources in the 
+organization 
+Importance of leadership and motivation to reach the organizational goals 
+Define controlling and enlist its features, process and different controlling techniques 
+
+Course Name:  Computer Graphics 
+
+Course Code: ME512OE 
+
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+
+Able to Define basics of Computer Graphics, display devices along with output primitives 
+Able to Outline various 2D, 3D geometric transformations and viewing 
+Able to Compare and Contrast various object representation 
+Able to List various algorithms to detect hidden surfaces and rendering 
+Able to Create animation scenes 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Course Name:  Design and Analysis of Algorithms Lab 
+
+Course Code: CS505PC 
+
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+
+Able to write programs in java to solve problems using divide and conquer strategy. 
+Able to write programs in java to solve problems on graph traversals. 
+Able to write programs in java to solve problems using backtracking strategy. 
+Able to write programs in java to solve problems using greedy techniques 
+Able to write programs in java to solve problems using dynamic programming. 
+
+Course Name:  Computer Networks Lab 
+
+Course Code: CS506PC 
+
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+
+Ability to implement error detection techniques. 
+Ability to apply appropriate algorithm for finding of shortest route. 
+Ability to configure the routing table. 
+Ability to understand the encryption and decryption concepts in Linux environment 
+Ability to implement client/server communication 
+
+Course Name:  Software Engineering Lab 
+
+Course Code: CS507PC 
+
+CO1 
+CO2 
+CO3 
+CO4 
+
+CO5 
+
+Able to Plan a software engineering process life cycle. 
+Able to elicit, analyze and specify software requirements. 
+Able to Analyze and translate a specification into a design. 
+Able to Built an SRS documents :Realize design practically, using an appropriate software 
+engineering 
+Develop prototype model for a given case study using modern engineering tools. 
+
+YEAR: III 
+
+SEMISTER: II 
+
+REGULATION: R16 
+
+Course Name: Compiler Design 
+
+Course Code: CS601PC 
+
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+
+Able to define different types of translators used in programming 
+Explain symbol table organization and role of semantic analysis in compiler design 
+Able to construct a top down and bottom up parser 
+List various code generation techniques 
+Able to design a Lexical analyzer 
+
+Course Name:   Web Technologies 
+
+Course Code: CS602PC 
+
+CO1 
+
+CO2 
+
+CO3 
+
+CO4 
+
+CO5 
+
+Able to explain server side scripting and make use of PHP 
+Able to define client side scripting and make use of JavaScript and AJAX to validate at client 
+side. 
+Able to define XML and choose appropriate parser techniques (DOM and SAX). 
+Able demonstrate Server side programming and adopt to build applications with java Servlets 
+and JSP’s. 
+Able to contrast server side scripting and Server side programming and develop database 
+connectivity by make use of java and PHP. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Course Name:  Cryptography and Network Security 
+
+CO1 
+
+CO2 
+
+CO3 
+
+CO4 
+
+CO5 
+
+Course Code: CS603PC 
+Understand and apply the cryptographic algorithms to safeguard from intruders 
+Compare and contrast symmetric and asymmetric encryption systems and their vulnerability 
+to attack 
+Implement the various key distribution, management and message authentication schemes to 
+send the messages with security 
+Identify information system requirements for Transport level, wireless network, E-Mail and 
+IP 
+Design a network security system by implementing all the concepts of encryption and 
+decryption algorithms 
+
+Course Name: 
+
+Intellectual Property Rights 
+
+Course Code: CE623OE 
+
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+
+Able to Define different types of Intellectual Property Rights. 
+Able to Classify different Intellectual Property Rights 
+Able to Identify importance of Trademark & Copy Right Laws. 
+Able to Explain importance of Patents, Trade Secret Laws 
+Able to Create new Intellectual Properties 
+
+Course Name:  Design Patterns 
+
+Course Code: CS612PE 
+
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+
+Define the design patterns that are common in software applications. 
+Ability to interpret common design patterns to incremental or iterative development 
+Apply the core solutions to object- oriented design problems 
+Ability to analyze appropriate patterns for design of given problem 
+Design knowledge of the principles of object- oriented design problems in real world 
+
+Course Name:   Cryptography and Network Security Lab 
+
+Course Code: CS604PC 
+
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+
+Use C language to develop simple XOR operation for encryption of data 
+Make use of C/Java to implement Symmetric cryptography 
+Choose C/Java to develop Asymmetric cryptography 
+Implement Diffie-Hellman Key exchange using HTML and Javascript 
+Develop java programs on MD-5 and SHA-1 algorithms 
+
+Course Name:   Web Technologies Lab 
+
+Course Code: CS605PC 
+
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+
+Able to build a static website using HTML 
+Able to include JavaScript for validations 
+Able to use XML to store and forwarding data. 
+Students able to implement dynamic websites using PHP 
+Able to develop Web applications by using JSP with Database Connectivity. 
+
+ 
+ 
+ 
+ 
+Course Name: Advanced English Communication Skills Lab Course Code: EN606HS 
+
+CO1 
+
+CO2 
+
+CO3 
+
+CO4 
+
+CO5 
+
+Develops confidence to use relevant vocabulary, using apt kinesics or body language in 
+communication 
+Infer the meaning of the text easily through comprehension techniques like, skimming, 
+scanning and effective reading through proper vocabulary 
+Analyze the writing skills through letters, reports and resume writing from the text and use for 
+all professional settings 
+Gather ideas, information and organize them relevantly in making presentations 
+Self assured to organize and deliver discussions, presentations and strategies to face the 
+interviews effectively 
+
+YEAR: IV 
+
+SEMISTER: I 
+
+REGULATION: R16 
+
+Course Name: Data Mining 
+
+Course Code: CS701PC 
+
+CO1 
+CO2 
+CO3 
+
+CO4 
+
+CO5 
+
+Utilize the existing tool and perform data pre-processing 
+Ability to analyze the data and apply appropriate algorithm for decision making 
+Ability to add mining algorithms as a component to the existing tool 
+Ability to develop a system to help a loan officer to decide whether the credit of a customer is 
+good or bad using mining algorithms 
+Ability to classify web pages, extracting knowledge from the web 
+
+Course Name:  Principles of Programming Languages 
+
+Course Code: CS702PC 
+
+CO1 
+
+CO2 
+CO3 
+
+CO4 
+
+CO5 
+
+Able to Explain the important features of the Programming Languages 
+Able to Compare different Programming Domains 
+Ability to Evaluate Merits and Demerits of a Particular Programming Language. 
+Able to Choose Specific Programming Language for the Development of Specific 
+Applications 
+Able to Understand and Analyze the Importance of Implementation Process 
+
+Course Name:  Python Programming 
+
+Course Code: CS721PE 
+
+CO1 
+
+CO2 
+
+CO3 
+
+CO4 
+CO5 
+
+Examine Python syntax and semantics and be fluent in the use of Python flow control and 
+functions. 
+Demonstrate proficiency in handling Threads, File and Exceptions. 
+Create, run and manipulate Python Programs using core data structures like Lists, 
+Dictionaries and use Regular Expressions 
+Interpret the concepts of GUI and WEB Programming as used in Python 
+Implement exemplary applications related to Database Programming with ORM in Python. 
+
+ 
+ 
+ 
+ 
+Course Name:   Software Process and Project Management  Course Code: CS734PE 
+
+CO1 
+CO2 
+CO3 
+CO4 
+
+CO5 
+
+Able to Explain Conventional Software Management Process to Develop Software 
+Able to Identify factors for Improving Software Economics 
+Ability to find the Relationships among Different Life Cycle Phases 
+Compare and Differentiate Organization Structure and Project Structure 
+Able to Predict Metrics and forecasting guidelines for Project Cost Schedule and Quality 
+Control 
+
+Course Name:  Cloud Computing 
+
+Course Code: CS742PE 
+
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+
+Able to explain and examine various computing paradigms 
+Able to define cloud computing and explain fundamental concepts of cloud 
+Able to describe cloud architecture, deployment and management 
+Able to explain the basics of cloud computing stack and cloud service models 
+Able to Identify various cloud service providers , their services and tools 
+
+Course Name:  Data Mining Lab 
+
+Course Code: CS703PC 
+
+CO1 
+CO2 
+CO3 
+CO4 
+
+CO5 
+
+Ability to explain different kinds of data warehouse tools. 
+Utilize the existing tool and perform data pre-processing. 
+Ability to analyze the data and apply appropriate algorithm for decision making 
+Ability to add mining algorithms as a component to the existing tool 
+Ability to develop a system to help a loan officer to decide whether the credit of a customer is 
+good or bad using mining algorithms 
+
+Course Name:  Python Programming Lab 
+
+Course Code: CS751PE 
+
+CO1 
+
+CO2 
+
+CO3 
+CO4 
+
+CO5 
+
+Student should be able to understand the basic concepts scripting and the contributions of 
+scripting language 
+Examine the core data structures like lists, dictionaries, tuples and sets in Python to store, 
+process and sort the data. 
+Identify the external modules and import specific methods form them 
+Demonstrate proficiency in handling Strings and File Systems. 
+Ability to explore python especially the object oriented concepts, and the built in objects of 
+Python 
+
+Course Name: 
+
+Industry Oriented Mini Project 
+
+Course Code: CS705PC 
+
+CO1 
+
+CO2 
+
+CO3 
+
+CO4 
+
+CO5 
+
+Graduates will be able to identify and define problems in the area of Computer science 
+Graduates will be able to explain and illustrate their practical skills needed to understand and 
+modify problems related to programming and designing. 
+Graduates will get a chance to apply current technologies and develop applications for the 
+problems 
+Graduates will get opportunities to practice as teams on multidisciplinary projects with 
+effective writing and communication skills 
+Able to apply the engineering and management principles to achieve the goal of the project 
+
+ 
+ 
+ 
+ 
+ 
+Course Name:  Seminar 
+
+Course Code: CS706PC 
+
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+
+The students will be able to recall existing technologies in the area of computer science 
+The students will be able to describe, compare and evaluate different technologies 
+The students will be able to decide the area of interest 
+The students will be able to develop their communication skills 
+The students will be able to write technical reports. 
+
+YEAR: IV 
+
+SEMISTER: II 
+
+REGULATION: R16 
+
+Course Name:Data Analytics 
+
+Course Code: EM831OE 
+
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+
+Understand the impact of data analytics for business decisions and strategy 
+Carry out data analysis/statistical analysis 
+To carry out standard data visualization and formal inference procedures 
+Design Data Architecture 
+Understand various Data Sources 
+
+Course Name:  Real-Time Systems 
+
+Course Code: CS852PE 
+
+CO1 
+
+CO2 
+CO3 
+CO4 
+CO5 
+
+Able to explain real-time concepts such as preemptive multitasking, task priorities, priority 
+inversions, mutual exclusion, context 
+switching, and synchronization, interrupt latency and response time, and semaphores 
+Able describe how a real-time operating system kernel is implemented. 
+Able explain how tasks are managed 
+Explain how the real-time operating system implements time management. 
+Discuss how tasks can communicate using semaphores, mailboxes, and queues 
+
+Course Name:   Computer Forensics 
+
+Course Code:  CS863PE 
+
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+
+Understand the real time computer forensic issue 
+Understand data recovery, forensics lab certification and physical requirements. 
+Identify different storage formats for data acquisition 
+Analyze various data acquisition tools for collecting digital evidence 
+Identify and apply various computer forensics tools to solve the computer forensic cases. 
+
+Course Name:  Major Project 
+
+Course Code:  CS801PC 
+
+CO1 
+
+CO2 
+
+CO3 
+
+CO4 
+
+CO5 
+
+Graduates will be able to identify and define problems in the area of Computer science 
+Graduates will be able to explain and illustrate their practical skills needed to understand and 
+modify problems related to programming and designing 
+Graduates will get a chance to apply current technologies and develop applications for the 
+problems. 
+Graduates will get opportunities to practice as teams on multidisciplinary projects with 
+effective writing and communication skills. 
+Able to apply the engineering and management principles to achieve the goal of the project 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

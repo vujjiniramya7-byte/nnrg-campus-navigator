@@ -1,0 +1,5381 @@
+NATIONAL BOARD OF ACCREDITATION 
+
+Data Capturing Points of the Program Applied for NBA Accreditation– Tier I/II UG (Engineering) 
+Institute Programs  
+
+PART-A: Profile of the Institute 
+
+Name of the Program Applied for:  UG – B.Tech. - Electronics & Communication Engineering 
+
+A1:   
+
+Name of the Institute:  
+
+NALLA NARASIMHA REDDY EDUCATION SOCIETY'S GROUP OF 
+INSTITUTIONS   
+
+Year of Establishment : 2009 
+
+Location of the Institute: 
+
+A2:   
+
+Institute Address: -  
+
+  City  
+
+: Hyderabad 
+
+KORREMULA 'X' ROAD, CHOWDARIGUDA (VILLAGE), GHATKESAR 
+(MANDAL), MEDCHAL-MALKAJGIRI (Dt.) 
+ State  
+
+: Telangana 
+
+  Pin Code :500088 
+
+ Website 
+
+: www.nnrg.edu.in 
+
+E-mail  
+
+:director@nnrg.edu.in 
+
+ Phone No (with STD Code): 040-29705282 
+
+A3:    Name and Address of the Affiliating University (If any): - 
+
+Name of the University :JawaharlalNehru Technological UniversityCity : Hyderabad 
+
+State  : Telangana 
+
+Pin Code: 500085 
+
+A4:   
+
+Type of the Institution: - (Tick the applicable choice)  
+
+Institute of National Importance   
+
+  Deemed University   
+
+University   
+
+Autonomous  
+
+ Non-Autonomous (Affiliated)    
+
+  Any other (Please specify) *   
+
+*Provide Details: _____________________  
+
+A5:    Ownership Status: - (Tick the applicable choice)  
+
+ Central Government 
+
+Government Aided  
+
+State Government 
+
+Self-finance 
+
+ 
+
+ 
+
+Any Other (Please specify) *  
+
+*Provide Details:  _______________ 
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+A6:    Details of all Programs being Offered by the Institution: -  
+
+  No. of UG programs: _6___ 
+
+  No. of PG programs: _2___ 
+
+UG 
+
+UG 
+
+UG 
+
+UG 
+
+UG 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+S.N. 
+
+Level of 
+program 
+(UG/PG) 
+
+Table No. A6.1: List of all programs offered by the Institute.  
+
+Name of the program 
+
+Civil Engineering 
+
+Year 
+of 
+close* 
+
+Year 
+of 
+Start 
+
+2010 
+
+Name of the Department 
+
+Civil Engineering 
+
+Computer Science and Engineering 
+
+2009 
+
+Computer Science and Engineering 
+
+Computer Science and Engineering 
+(Artificial Intelligence & Machine 
+Learning) 
+
+Computer Science and Engineering 
+(Data Science) 
+
+Electronics & Communication 
+Engineering 
+
+PG 
+
+Embedded System & VLSI 
+
+UG 
+
+Pharmacy 
+
+2021 
+
+2021 
+
+2009 
+
+2024 
+
+2009 
+
+Computer Science and Engineering 
+(Artificial Intelligence & Machine 
+Learning) 
+
+Computer Science and Engineering 
+(Data Science) 
+
+Electronics & Communication 
+Engineering 
+
+Pharmacy 
+
+PG 
+
+Master of Business Administration 
+
+2009 
+
+Master of Business Administration 
+
+A7:    Programs to be considered for Accreditation vide this Application:  
+
+Table No. A7.1: List of programs to be considered for accreditation. 
+
+Cluster ID.  
+
+Name of the Department  
+
+Name of the Program  
+
+Electronics & Communication 
+Engineering  
+
+UG - B.Tech –  
+Electronics & Communication Engineering  
+
+1. 
+
+…  
+
+Table No. A7.2: Allied Department(s) to the Department of the program considered for accreditation as 
+above. 
+
+Cluster ID. 
+
+  Name of the Department 
+
+  Name of allied Departments/Cluster 
+
+(in table no. A7.1)  
+
+(for table no. A7.1)  
+- 
+
+- 
+
+1.  
+
+…  
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PART-B: Program information 
+(Data to be filled in for the program applied for Accreditation) 
+
+B1:  Provide the Required Information for the Program Applied For: -  
+
+Table No. B1: Program details. 
+
+S. 
+N. 
+
+Program Name 
+
+Year     
+of 
+start 
+
+Sanction
+ed 
+Intake 
+
+Increase/ 
+decrease in 
+intake, if any 
+
+Year of  
+increase/ 
+decrease 
+
+AICTE Approval 
+Details 
+
+Accreditation 
+Status* 
+
+No. of times 
+program 
+accredited 
+
+1. 
+
+Electronics & 
+Communication 
+Engineering 
+
+2009 
+
+60 
+
+120 
+180 
+
+2011 
+2019 
+
+South central 
+Region 
+/1-4263510748/ 
+2019/EOA 
+
+Accredited 
+From 2022-23 to 
+2024-25 i.e., upto 
+30/06/2025 
+
+2 
+
+B2:   Detail of Head of the Department for the program under consideration:  
+
+A.  Name of the HoD : Dr. B. Ravi  
+
+B.  Nature of appointment: (Tick the applicable choice)  
+
+  Regular    
+
+  Contract  
+
+  Ad hoc  
+
+ 
+
+C.  Qualification:  (Tick the applicable choice)   
+
+  Ph.D.  
+
+ 
+
+  ME/M.Tech 
+
+  Any other*  
+
+*Please provide details: _____________________  
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+B3:  Program Details   
+
+Table No.B3.1:Admission details for the program excluding those admitted through multiple entry 
+and exit points. 
+
+Item  (Information  is  to  be 
+provided cumulatively for all 
+the 
+shifts  with  explicit 
+headings, wherever  
+applicable) 
+
+CAY 
+2024-25 
+
+CAYm1 
+2023-24 
+
+CAYm2 
+2022-23 
+
+CAYm3 
+2021-22 
+
+CAYm4 
+(LYG) 
+2020-21 
+
+CAYm5 
+(LYGm1) 
+2019-20 
+
+CAYm6 
+(LYGm2) 
+2018-19 
+
+N=  Sanctioned  intake  of  the 
+per 
+/Competent 
+
+(as 
+
+program 
+AICTE 
+authority)  
+
+N1=      Total  no.  of  students 
+in  the  1st 
+admitted 
+year  minus  the  no.  of 
+students, 
+who 
+other 
+migrated 
+programs/  institutions 
+plus  no.  of  students, 
+who  migrated  to  this 
+program  
+
+to 
+
+N2=  Number  of  students 
+admitted  in  2nd  year 
+in the same batch via 
+lateral entry including 
+leftover seats 
+
+N3=  Separate  division  if 
+
+any 
+
+N4=  Total  no.  of  students 
+in  the  1st 
+admitted 
+year 
+all 
+via 
+supernumerary quotas  
+
+180 
+
+180 
+
+180 
+
+180 
+
+180 
+
+180 
+
+120 
+
+180 
+
+180 
+
+180 
+
+97 
+
+137 
+
+130 
+
+103 
+
+20 
+
+18 
+
+20 
+
+82 
+
+23 
+
+20 
+
+18 
+
+NA 
+
+NA 
+
+NA 
+
+NA 
+
+NA 
+
+NA 
+
+NA 
+
+11 
+
+12 
+
+11 
+
+6 
+
+NA 
+
+NA 
+
+NA 
+
+210 
+
+211 
+
+Total number of students 
+admitted  in  
+the 
+program (N1 + N2 + 
+N3 + N4) - excluding 
+those admitted 
+  through multiple 
+entry and exit points.  
+CAY= Current Academic Year.  
+CAYm1= Current Academic Year Minus 1  
+CAYm2= Current Academic Year Minus 2.  
+LYG= Last Year Graduate.  
+LYGm1= Last Year Graduate Minus 1.  
+LYGm2= Last Year Graduate Minus 2.  
+
+211 
+
+185 
+
+160 
+
+150 
+
+121 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+B4:  Enrolment Ratio in the First Year  
+
+Table No. B4.1: Student enrolment ratio in the 1st year. 
+
+Item (Students enrolled in the First Year on average over 3 
+academic years (CAY, CAYm1, and CAYm2))  
+
+CAY 
+2024-25 
+
+CAYm1 
+2023-24 
+
+CAYm2 
+2022-23 
+
+N=  Sanctioned  intake  of  the  program  in  the  1st  year  (as  per 
+
+AICTE/Competent authority)  
+
+180 
+
+180 
+
+180 
+
+N1= Total no. of students admitted in the 1st year minus the no. of 
+students, who migrated to other programs/ institutions plus 
+no. of students, who migrated to this program  
+
+N4=  Total  no.  of  students  admitted  in  the  1st  year  via  all 
+
+supernumerary quotas  
+Enrolment Ratio (ER)= (N1+N4)/N  
+
+Average ER= (ER_1+ ER_2+ ER_3)/3 
+
+180 
+
+180 
+
+180 
+
+11 
+
+12 
+
+11 
+
+106.11 
+
+106.67 
+
+106.11 
+
+106.30 
+
+B5:Success Rate of the Students in the Stipulated Period of the Program  
+
+Table No.B5.1: The success rate in the stipulated period of a program. 
+
+Item  
+
+LYG 
+2020-21 
+
+LYGm1 
+2019-20 
+
+LYGm2 
+2018-19 
+
+A*= (No. of students admitted in the 1st year of that batch and those 
+actually admitted in the 2nd year via lateral entry, plus the number 
+of  students  admitted  through  multiple  entry  (if  any)  and  separate 
+division  if  applicable,  minus  the  number  of  students  who  exited 
+through multiple entry (if any).  
+
+B=No.  of  students  who  graduated  from  the  program  in  the  stipulated 
+
+course duration  
+
+Success Rate (SR)= (B/A)*100  
+
+160 
+
+150 
+
+121 
+
+96 
+
+98 
+
+82 
+
+60.00 
+
+65.33 
+
+67.77 
+
+Average SR of three batches ((SR_1+SR_2+ SR_3)/3)  
+
+64.37 
+
+Note  *:  If the value of A in Table No. B5.1 is less than the sum of the sanctioned intake (N) and the lateral 
+entry including leftover seats (N2), then the value of A in Table No.B5.1 should be the sum of the sanctioned 
+intake (N) and the lateral entry including leftover seats (N2) of Table No.B3.1. 
+
+B6:    Academic Performance of the First-Year Students of the Program  
+
+Table No.B6.1: Academic Performance of the First-Year Students of the Program. 
+
+ Academic Performance  
+
+CAYm1 
+2023-24 
+
+CAYm2 
+2022-23 
+
+CAYm3 
+2021-22 
+
+X= (Mean of 1st year grade point average of all successful students 
+on a 10-point scale) or (Mean of the percentage of marks of all 
+successful students in 1st  year/10)  
+
+Y= Total no. of successful students   
+
+Z = Total no. of students appeared in the examination   
+
+API = X* (Y/Z)  
+
+Average API = ( API_1 +  API_2 +  API_3)/3 
+
+7.54 
+
+7.40 
+
+7.1 
+
+178 
+
+180 
+
+7.46 
+
+179 
+
+180 
+
+7.36 
+
+7.26 
+
+99 
+
+101 
+
+6.96 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B7: Academic Performance of the Second Year Students of the Program  
+
+ Table No.B7.1: Academic Performance of the Second Year Students of the Program. 
+
+  Academic Performance  
+
+X= (Mean of 2nd year grade point average of all successful 
+
+students on a 10-point scale) or (Mean of the percentage of 
+marks of all successful students in 2rd year/10) 
+
+Y= Total no. of successful students 
+
+Z =Total no. of students appeared in the examination 
+
+API = X* (Y/Z) 
+
+Average API = ( API_1 +  API_2 +  API_3)/3 
+
+CAYm1 
+2023-24 
+
+CAYm2 
+2022-23 
+
+CAYm3 
+2021-22 
+
+7.45 
+
+6.68 
+
+5.9 
+
+193 
+
+194 
+
+7.41 
+
+174 
+
+175 
+
+6.64 
+
+6.56 
+
+149 
+
+156 
+
+5.64 
+
+B8:  
+
+Academic Performance of the Third Year Students of the Program 
+
+Table No.B8.1: Academic Performance of the Third Year Students of the Program 
+
+ Academic Performance  
+
+CAYm1 
+2023-24 
+
+CAYm2 
+2022-23 
+
+CAYm3 
+2021-22 
+
+X= (Mean of 3rd year grade point average of all successful students 
+on a 10-point scale) or (Mean of the percentage of marks of all 
+successful students in 3rd year/10)  
+
+Y= Total no. of successful students   
+
+Z= Total no. of students appeared in the examination   
+
+API = X* (Y/Z)  
+
+Average API = ( API_1 +  API_2 +  API_3)/3 
+
+7.4 
+
+5.71 
+
+5.48 
+
+169 
+
+170 
+
+7.36 
+
+146 
+
+146 
+
+5.71 
+
+6.18 
+
+145 
+
+145 
+
+5.48 
+
+B9:    Placement, Higher Studies, and Entrepreneurship  
+
+Table No.B9.1:Placement, higher studies, and entrepreneurship details. 
+
+Item 
+
+FS*=Total no. of final year students 
+
+X= No. of students placed  
+
+Y= No. of students admitted to higher studies  
+
+Z= No. of students taking up entrepreneurship  
+
+X + Y + Z =  
+
+LYGm1 
+2023-24 
+
+LYGm2 
+2022-23 
+
+LYGm3 
+2021-22 
+
+160 
+
+150 
+
+121 
+
+71 
+
+20 
+
+3 
+
+94 
+
+89 
+
+18 
+
+5 
+
+81 
+
+22 
+
+4 
+
+112 
+
+107 
+
+Placement Index (P) = (((X + Y + Z)/FS) * 100)  
+
+58.75 
+
+74.67 
+
+88.43 
+
+Average placement index = (P_1 + P_2 + P_3)/3  
+
+73.95 
+
+Note  *:  If the value of FS in Table No. B9.1 is less than the sum of the sanctioned intake (N) and the lateral 
+entry including leftover seats (N2), then the value of FS in Table No. B9.1 should be the sum of the sanctioned 
+intake (N) and the lateral entry including leftover seats (N2) of Table No.B3.1. 
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C1:    Faculty details of Department and Allied Departments  
+
+PART C: Faculty Details in Department and Allied Departments 
+(Data to be filled in for the Department and Allied Departments) 
+
+Table No.C1:Faculty details in the Department for the past 3 years including CAY 
+
+e
+t
+u
+t
+i
+t
+s
+n
+i
+
+t
+n
+e
+r
+r
+u
+c
+n
+i
+
+s
+r
+a
+e
+y
+n
+i
+
+e
+c
+n
+e
+i
+r
+e
+p
+x
+E
+
+s
+i
+h
+t
+n
+i
+
+g
+n
+i
+n
+i
+o
+J
+e
+m
+T
+
+i
+
+t
+a
+n
+o
+i
+t
+a
+n
+g
+i
+s
+e
+D
+
+n
+o
+i
+t
+u
+t
+i
+t
+s
+n
+I
+
+n
+o
+i
+t
+a
+n
+g
+i
+s
+e
+D
+
+t
+n
+e
+s
+e
+r
+P
+
+n
+o
+i
+t
+u
+t
+i
+t
+s
+n
+I
+
+s
+i
+h
+t
+n
+i
+
+g
+n
+i
+n
+i
+o
+J
+f
+o
+
+e
+t
+a
+D
+
+/
+t
+c
+a
+r
+t
+n
+o
+C
+
+/
+r
+a
+l
+u
+g
+e
+R
+
+(
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+f
+o
+
+e
+r
+u
+t
+a
+N
+
+)
+c
+o
+h
+d
+A
+
+t
+r
+a
+P
+(
+
+r
+o
+e
+m
+
+i
+t
+l
+l
+u
+F
+n
+o
+i
+t
+n
+e
+m
+
+l
+a
+u
+t
+c
+a
+r
+t
+n
+o
+c
+
+f
+I
+
+)
+d
+e
+s
+a
+b
+y
+l
+r
+u
+o
+h
+r
+o
+e
+m
+
+i
+t
+
+y
+n
+a
+
+f
+i
+
+r
+o
+s
+s
+e
+f
+o
+r
+P
+e
+t
+a
+i
+c
+o
+s
+s
+A
+/
+r
+o
+s
+s
+e
+f
+o
+r
+P
+
+s
+a
+d
+e
+t
+a
+n
+g
+i
+s
+e
+D
+h
+c
+i
+h
+w
+n
+o
+
+e
+t
+a
+d
+e
+h
+T
+
+n
+o
+i
+t
+a
+z
+i
+l
+a
+i
+c
+e
+p
+S
+f
+o
+
+a
+e
+r
+A
+
+)
+
+/
+
+N
+Y
+(
+d
+e
+t
+a
+i
+c
+o
+s
+s
+A
+y
+l
+t
+n
+e
+r
+r
+u
+C
+
+AI for Signal 
+Processing 
+
+01-07-2022 
+
+3Y 7M   Associate 
+Professor 
+
+Associate 
+Professor 
+
+01-07-2022  Regular 
+
+VLSI 
+
+VLSI 
+
+VLSI 
+
+Video 
+Processing & 
+VLSI 
+
+03-07-2010  15Y 7M   Professor 
+
+Professor 
+
+03-07-2010  Regular 
+
+25-11-2019 
+
+6Y 2M   Associate 
+Professor 
+
+02-08-2024 
+
+1Y 6M   Associate 
+Professor 
+
+Professor 
+
+25-07-2022  Regular 
+
+Professor 
+
+14-07-2025  Regular 
+
+14-02-2022  3Y 11M   Associate 
+Professor 
+
+Associate 
+Professor 
+
+14-02-2022  Regular 
+
+Y 
+
+Y 
+
+Y 
+
+Y 
+
+Y 
+
+y
+t
+l
+u
+c
+a
+F
+e
+h
+t
+
+f
+o
+
+e
+m
+a
+N
+
+e
+e
+r
+g
+e
+d
+t
+s
+e
+h
+g
+i
+H
+
+Dr. Ravi 
+Bolimera 
+
+M.E/M.Tech 
+and Ph.D 
+
+Dr. C V Krishna 
+Reddy 
+
+M.E/M.Tech 
+and Ph.D 
+
+Dr. B. Hari 
+Prasad Naik 
+
+Dr. Sk. Fairooz 
+
+Dr. V. Sravan 
+Kumar 
+
+M.E/M.Tech 
+and Ph.D 
+
+M.E/M.Tech 
+and Ph.D 
+
+M.E/M.Tech 
+and Ph.D 
+
+o
+N
+S
+
+.
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+y
+t
+i
+s
+r
+e
+v
+i
+n
+U
+National 
+Institute of 
+Technology 
+Warangal 
+JNTUH 
+Hyderabad 
+Osmania 
+University, 
+Hyderabad 
+JNTUH 
+Hyderabad 
+BITS Pilani, 
+Hyderabad 
+Campus 
+
+y
+l
+t
+n
+e
+r
+r
+u
+C
+e
+s
+a
+c
+n
+I
+(
+y
+n
+a
+f
+i
+
+g
+n
+i
+v
+a
+e
+L
+
+f
+o
+
+e
+t
+a
+D
+
+)
+”
+o
+N
+“
+s
+i
+d
+e
+t
+a
+i
+c
+o
+s
+s
+A
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+6 
+
+Dr.S.Rekha 
+
+M.E/M.Tech 
+and Ph.D 
+
+Karunya 
+Institute of 
+Technology 
+and Sciences, 
+Coimbatore 
+
+Antenna 
+Design 
+
+22-08-2022 
+
+3Y 5M   Associate 
+Professor 
+
+Associate 
+Professor 
+
+22-08-2022  Regular 
+
+Y 
+
+M.E/M.Tech  Osmania 
+
+Dr. S. Karthick 
+
+M.E/M.Tech 
+and Ph.D 
+
+NITTiruchirap
+palli 
+
+7 
+
+8 
+
+9 
+
+Dr. P. Ashok 
+Kumar 
+Mr. P.S. 
+Sreenivasa Reddy 
+
+M.E/M.Tech 
+and Ph.D 
+
+M.E/M.Tech 
+
+10 
+
+Mr. P. K. 
+Kulkarni 
+
+11  Dr. Aare Gopal 
+
+12 
+
+13 
+
+Ms. Soumya 
+Gudepu 
+Mr. Koustubh 
+Kulkarni 
+
+M.E/M.Tech 
+
+M.E/M.Tech 
+and Ph.D 
+
+M.E/M.Tech 
+
+14  Ms. K. Madhavi  M.E/M.Tech 
+
+15  Ms. N. Lavanya  M.E/M.Tech 
+
+16  Mr. A. Aravind 
+
+M.E/M.Tech 
+
+17 
+
+Mr. Chennoju 
+Phanindra 
+
+M.E/M.Tech 
+
+18  Ms. K. Anuradha  M.E/M.Tech 
+
+19 
+
+Dr. Nitesh 
+Gaikwad 
+
+M.E/M.Tech 
+and Ph.D 
+
+20  Mr. N. Raju 
+
+M.E/M.Tech 
+
+SSSUTMS 
+
+Madras 
+University 
+Shivaji 
+University, 
+Kolhapur 
+Osmania 
+University 
+(O.U) 
+JNTUH 
+Hyderabad 
+
+University (O.U) 
+JNTUH 
+Hyderabad 
+JNTUH 
+Hyderabad 
+JNTUH 
+Hyderabad 
+
+JNTUH 
+Hyderabad 
+
+JNTUH 
+Hyderabad 
+Vel Tech 
+RangarajanDr.
+Sagunthala 
+R&D Institute 
+of Science and 
+Technology 
+JNTUH 
+Hyderabad 
+
+Signal & 
+Image 
+Processing 
+Digital Signal 
+Processing 
+Applied 
+Electronics 
+
+Communicatio
+n System 
+
+Wireless 
+communicatio
+n  
+
+DECS 
+
+C.E&SP 
+
+SSP 
+
+W &MC 
+
+ECE 
+
+SSP 
+
+DSCE 
+
+25-01-2021 
+
+5Y 0M   Assistant 
+Professor 
+
+Associate 
+Professor 
+
+01-07-2023  Regular 
+
+12-08-2024 
+
+1Y 5M   Associate 
+Professor 
+19-05-2011  14Y 8M   Associate 
+Professor 
+
+Associate 
+Professor 
+Associate 
+Professor 
+
+12-08-2024  Regular 
+
+19-05-2011  Regular 
+
+18-10-2021 
+
+4Y 3M   Associate 
+Professor 
+
+Associate 
+Professor 
+
+18-10-2021  Regular 
+
+18-08-2025  10Y 8M   Associate 
+Professor 
+
+Associate 
+Professor 
+
+18-08-2025  Regular 
+
+11-07-2019 
+
+16-07-2019 
+
+01-07-2019 
+
+01-07-2019 
+
+6Y 7M   Assistant 
+Professor 
+6Y 7M   Assistant 
+Professor 
+6Y 7M   Assistant 
+Professor 
+6Y 6M   Assistant 
+Professor 
+5Y 0M   Assistant 
+Professor 
+19-03-2021  4Y 10M   Assistant 
+Professor 
+4Y 1M   Assistant 
+Professor 
+
+25-01-2021 
+
+03-01-2022 
+
+Assistant 
+Professor 
+
+Assistant 
+Professor 
+Assistant 
+Professor 
+Assistant 
+Professor 
+Assistant 
+Professor 
+
+Assistant 
+Professor 
+
+Assistant 
+Professor 
+
+Regular 
+
+Regular 
+
+Regular 
+
+Regular 
+
+Regular 
+
+Regular 
+
+Regular 
+
+Y 
+
+Y 
+
+Y 
+
+Y 
+
+Y 
+
+Y 
+
+Y 
+
+Y 
+
+Y 
+
+Y 
+
+Y 
+
+Y 
+
+Embedded 
+Systems &IoT 
+
+20-07-2022 
+
+3Y 6M   Assistant 
+Professor 
+
+Assistant 
+Professor 
+
+Regular 
+
+Y 
+
+Embedded 
+Systems 
+
+27-07-2022 
+
+3Y 6M   Assistant 
+Professor 
+
+Assistant 
+Professor 
+
+Regular 
+
+Y 
+
+8 
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+21  Mr.K.Ramesh 
+
+M.E/M.Tech 
+
+22  Mr.N.Suresh 
+
+M.E/M.Tech 
+
+23  Mr.K.Rambabu 
+
+M.E/M.Tech 
+
+24  Ms.V.Neelavathi  M.E/M.Tech 
+
+25  Mr.B.Saidulu 
+
+M.E/M.Tech 
+
+26  Mrs.V.V.Nandini  M.E/M.Tech 
+
+27 
+
+28 
+
+Ms.K.ShivaPrasa
+nna 
+
+Mr.Abraham 
+Thomas 
+
+M.E/M.Tech 
+
+M.E/M.Tech 
+
+29  Mr.K.Srinivas 
+
+M.E/M.Tech 
+
+JNTUH 
+Hyderabad 
+JNTUH 
+Hyderabad 
+JNTUH 
+Hyderabad 
+JNTUA, 
+Ananthapur 
+
+JNTUH 
+Hyderabad 
+
+JNTUH 
+Hyderabad 
+
+JNTUH 
+Hyderabad 
+
+University of 
+Kerala 
+JNTUH 
+Hyderabad 
+
+M.E/M.Tech  KL university 
+
+30 
+
+31 
+
+32 
+
+Ms.B.NagaPrasan
+na 
+
+Ms.ShettySravant
+hi 
+Ms.M.H.Sushma
+Mercilin 
+
+M.E/M.Tech 
+
+M.E/M.Tech 
+
+33  Ms.K.Hemalatha  M.E/M.Tech 
+
+34 
+
+Ms.K.Thrisandhy
+a 
+
+M.E/M.Tech 
+
+35  Ms.P.Kiranmayee  M.E/M.Tech 
+
+36  Mr.Y.Sathish 
+
+M.E/M.Tech 
+
+37 
+
+38 
+
+Ms.D.BinduTush
+ara 
+Ms. G. 
+T.Sandhya 
+
+M.E/M.Tech 
+
+M.E/M.Tech 
+
+JNTUH 
+Hyderabad 
+JNTUH 
+Hyderabad 
+JNTUH 
+Hyderabad 
+JNTUH 
+Hyderabad 
+
+JNTUH 
+Hyderabad 
+
+JNTUH 
+Hyderabad 
+
+JNTUH 
+Hyderabad 
+JNTUH 
+Hyderabad 
+
+VLSI System 
+Design 
+
+DECS 
+
+DECS 
+
+DECS 
+
+Embedded 
+Systems & 
+VLSI Design 
+VLSI 
+DESIGN 
+VLSI & 
+Embedded 
+Systems 
+Signal 
+Processing 
+
+Communicatio
+ns & Radar 
+Systems 
+Embedded 
+Systems 
+VLSI System 
+Design 
+
+27-07-2022 
+
+01-08-2022 
+
+16-08-2022 
+
+16-08-2022 
+
+3Y 6M   Assistant 
+Professor 
+3Y 6M   Assistant 
+Professor 
+3Y 5M   Assistant 
+Professor 
+3Y 5M   Assistant 
+Professor 
+
+Assistant 
+Professor 
+Assistant 
+Professor 
+Assistant 
+Professor 
+Assistant 
+Professor 
+
+17-08-2022 
+
+3Y 5M   Assistant 
+Professor 
+
+Assistant 
+Professor 
+
+18-08-2022 
+
+3Y 5M   Assistant 
+Professor 
+
+Assistant 
+Professor 
+
+01-06-2023 
+
+2Y 8M   Assistant 
+Professor 
+
+Assistant 
+Professor 
+
+02-08-2023 
+
+2Y 6M   Assistant 
+Professor 
+2Y 6M   Assistant 
+Professor 
+
+Assistant 
+Professor 
+Assistant 
+Professor 
+
+18-06-2024 
+
+1Y 7M   Assistant 
+Professor 
+
+Assistant 
+Professor 
+
+VLSI & ES 
+
+01-08-2023 
+
+05-08-2024 
+
+05-08-2024 
+
+DSCE 
+
+12-08-2024 
+
+VLSI System 
+Design 
+
+Embedded 
+Systems 
+
+Embedded 
+Systems 
+
+19-08-2024 
+
+21-08-2024 
+
+07-07-2025 
+
+VLSI 
+
+17-07-2025 
+
+VLSI System 
+Design 
+
+23-07-2025 
+
+1Y 6M   Assistant 
+Professor 
+1Y 6M   Assistant 
+Professor 
+1Y 5M   Assistant 
+Professor 
+1Y 5M   Assistant 
+Professor 
+
+1Y 5M   Assistant 
+Professor 
+
+0Y 7M   Assistant 
+Professor 
+
+0Y 6M   Assistant 
+Professor 
+0Y 6M   Assistant 
+Professor 
+
+Assistant 
+Professor 
+Assistant 
+Professor 
+
+Assistant 
+Professor 
+
+Assistant 
+Professor 
+
+Assistant 
+Professor 
+
+Assistant 
+Professor 
+
+Assistant 
+Professor 
+
+Assistant 
+Professor 
+
+Regular 
+
+Regular 
+
+Regular 
+
+Regular 
+
+Regular 
+
+Regular 
+
+Regular 
+
+Regular 
+
+Regular 
+
+Regular 
+
+Regular 
+
+Regular 
+
+Regular 
+
+Regular 
+
+Regular 
+
+Regular 
+
+Regular 
+
+Regular 
+
+Y 
+
+Y 
+
+Y 
+
+Y 
+
+Y 
+
+Y 
+
+Y 
+
+Y 
+
+Y 
+
+Y 
+
+Y 
+
+Y 
+
+Y 
+
+Y 
+
+Y 
+
+Y 
+
+Y 
+
+Y 
+
+9 
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+39  Ms. T. Swetha 
+
+M.E/M.Tech 
+
+40 
+
+Mr. U. 
+Bharadwaja 
+
+41  Dr. B. Suneetha 
+
+42 
+
+43 
+
+Mrs. Mummadi 
+Rajeswari 
+Mr.M.Sharath 
+Chandra 
+
+M.E/M.Tech 
+
+M.E/M.Tech 
+and Ph.D 
+
+M.E/M.Tech 
+
+M.E/M.Tech 
+
+JNTUH 
+Hyderabad 
+JNTUK 
+Kakinada 
+Dr.M.G.R 
+Educational 
+and Research 
+Institute 
+JNTUH 
+Hyderabad 
+JNTUH 
+Hyderabad 
+
+VLSI System 
+Design 
+
+VLSI & ES 
+
+Signal & 
+Image 
+Processing 
+
+VLSI System 
+Design 
+VLSI System 
+Design 
+
+44  Dr.S. Ravichand 
+
+M.E/M.Tech 
+and Ph.D 
+
+JNTUK 
+Kakinada 
+
+VLSI, 
+Processor 
+
+28-07-2022  2Y 11M   Assistant 
+Professor 
+2Y 8M   Assistant 
+Professor 
+
+08-08-2022 
+
+Assistant 
+Professor 
+
+Assistant 
+Professor 
+
+Regular 
+
+Regular 
+
+N 
+
+N 
+
+04-07-2025 
+
+30-04-2025 
+
+21-06-2016 
+
+8Y 4M   Associate 
+Professor 
+
+Associate 
+Professor 
+
+21-06-2016  Regular 
+
+N 
+
+06-11-2024 
+
+01-07-2024 
+
+08-08-2022 
+
+0Y 3M   Assistant 
+Professor 
+2Y 0M   Assistant 
+Professor 
+
+Assistant 
+Professor 
+
+Assistant 
+Professor 
+
+Regular 
+
+Regular 
+
+28-01-2021 
+
+3Y 6M  
+
+Professor 
+
+Professor 
+
+28-01-2021  Regular 
+
+45 
+
+Dr.N.AdithyaVall
+i 
+
+M.E/M.Tech 
+and Ph.D 
+
+Radar Signal 
+Processing 
+
+02-06-2022 
+
+2Y 1M   Assistant 
+Professor 
+
+JNTUH 
+Hyderabad 
+JNTUH 
+Hyderabad 
+AcharyaNagarj
+una University 
+
+ES 
+
+W &MC 
+
+VLSI 
+DESIGN 
+
+01-07-2019 
+
+31-08-2015  6Y 10M   Assistant 
+Professor 
+5Y 0M   Assistant 
+Professor 
+3Y 1M   Associate 
+Professor 
+
+19-04-2021 
+
+Assistant 
+Professor 
+
+Assistant 
+Professor 
+Assistant 
+Professor 
+Associate 
+Professor 
+
+Regular 
+
+Regular 
+
+Regular 
+
+19-04-2021  Regular 
+
+29-06-2021  2Y 11M   Assistant 
+Professor 
+
+Assistant 
+Professor 
+
+Regular 
+
+46  Ms.Sk.Shafiya 
+
+M.E/M.Tech 
+
+47  Ms.V.Ramya 
+
+M.E/M.Tech 
+
+48  Dr.T.Rajasekhar 
+
+Mr.K.Naveen 
+Kumar 
+
+M.E/M.Tech 
+and Ph.D 
+
+M.E/M.Tech 
+
+49 
+
+50 
+
+51 
+
+Dr.B.C.Premkum
+ar 
+
+Ph.D 
+
+Dr. P Michael 
+Preetam Raj 
+
+M.E/M.Tech 
+and Ph.D 
+
+Dr.M.G.R 
+Educational 
+and Research 
+Institute 
+BITS Pilani, 
+Hyderabad 
+Campus 
+
+SSP 
+
+ES 
+
+12-07-2017  6Y 10M   Professor 
+
+Professor 
+
+12-07-2017  Regular 
+
+N 
+
+31-05-2024 
+
+Microelectroni
+cs 
+
+01-02-2021 
+
+3Y 3M   Associate 
+Professor 
+
+Associate 
+Professor 
+
+01-02-2021  Regular 
+
+N 
+
+10-05-2024 
+
+10 
+
+N 
+
+N 
+
+N 
+
+N 
+
+N 
+
+N 
+
+N 
+
+N 
+
+03-10-2024 
+
+16-08-2024 
+
+05-08-2024 
+
+25-07-2024 
+
+15-07-2024 
+
+15-07-2024 
+
+13-06-2024 
+
+10-06-2024 
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+Table No.C2:Faculty details of Allied Departments for the past 3 years including CAY.  
+
+e
+t
+a
+i
+c
+o
+s
+s
+A
+/
+r
+o
+s
+s
+e
+f
+o
+r
+P
+s
+a
+d
+e
+t
+a
+n
+g
+i
+s
+e
+D
+h
+c
+i
+h
+w
+n
+o
+
+e
+t
+a
+d
+e
+h
+T
+
+y
+n
+a
+
+f
+i
+
+r
+o
+s
+s
+e
+f
+o
+r
+P
+
+)
+c
+o
+h
+d
+A
+
+/
+t
+c
+a
+r
+t
+n
+o
+C
+
+/
+r
+a
+l
+u
+g
+e
+R
+
+(
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+f
+o
+
+e
+r
+u
+t
+a
+N
+
+y
+l
+r
+u
+o
+h
+r
+o
+e
+m
+
+i
+t
+
+t
+r
+a
+P
+(
+
+r
+o
+e
+m
+
+i
+t
+l
+l
+u
+F
+n
+o
+i
+t
+n
+e
+m
+
+l
+a
+u
+t
+c
+a
+r
+t
+n
+o
+c
+
+f
+I
+
+)
+d
+e
+s
+a
+b
+
+n
+o
+i
+t
+a
+n
+g
+i
+s
+e
+D
+
+t
+n
+e
+s
+e
+r
+P
+
+n
+o
+i
+t
+u
+t
+i
+t
+s
+n
+I
+
+s
+i
+h
+t
+n
+i
+
+g
+n
+i
+n
+i
+o
+J
+e
+m
+T
+
+i
+
+t
+a
+n
+o
+i
+t
+a
+n
+g
+i
+s
+e
+D
+
+e
+t
+u
+t
+i
+t
+s
+n
+i
+
+t
+n
+e
+r
+r
+u
+c
+n
+i
+
+s
+r
+a
+e
+y
+n
+i
+
+e
+c
+n
+e
+i
+r
+e
+p
+x
+E
+
+n
+o
+i
+t
+u
+t
+i
+t
+s
+n
+I
+
+s
+i
+h
+t
+n
+i
+
+g
+n
+i
+n
+i
+o
+J
+f
+o
+
+e
+t
+a
+D
+
+y
+t
+l
+u
+c
+a
+F
+e
+h
+t
+
+f
+o
+
+e
+m
+a
+N
+
+e
+e
+r
+g
+e
+d
+t
+s
+e
+h
+g
+i
+H
+
+y
+t
+i
+s
+r
+e
+v
+i
+n
+U
+
+n
+o
+i
+t
+a
+z
+i
+l
+a
+i
+c
+e
+p
+S
+f
+o
+
+a
+e
+r
+A
+
+o
+N
+S
+
+.
+
+1 
+
+2 
+
+s
+i
+d
+e
+t
+a
+i
+c
+o
+s
+s
+A
+y
+l
+t
+n
+e
+r
+r
+u
+C
+e
+s
+a
+c
+n
+I
+(
+y
+n
+a
+f
+i
+
+g
+n
+i
+v
+a
+e
+L
+
+f
+o
+
+e
+t
+a
+D
+
+)
+”
+o
+N
+“
+
+)
+
+/
+
+N
+Y
+(
+d
+e
+t
+a
+i
+c
+o
+s
+s
+A
+y
+l
+t
+n
+e
+r
+r
+u
+C
+
+C2:    Student-Faculty Ratio (SFR)  
+
+  No. of UG(Engineering) programs in Department including allied departments/ clusters (UGn):   
+
+  UG1=1st UG program  
+  UGn=nth UG program  
+
+  B= No. of Students in UG 2nd year (ST)  
+  C= No. of Students in UG 3rd year (ST)  
+  D= No. of Students in UG 4th year (ST)  
+
+  No. of PG (Engineering) programs in Department including allied departments/ clusters (PGm):   
+
+  PG1=1st PG program.  
+  PGm=mth PG program  
+
+  A= No. of Students in PG 1st year  
+  B= No. of Students in PG 2nd year Student Faculty Ratio (SFR) = S/F  
+
+  S=  No.  of  students  of  all  programs  in  the  Department  including  all  students  of  allied 
+
+departments/clusters.  
+  No.  of  students  (ST)=Sanctioned  Intake  (SA)+  Actual  admitted  students  via  lateral 
+
+entry including leftover seats (L) if any (limited to 10 % of SA)  
+
+  Students  who  admitted  under  supernumerary  quotas  (SNQ,  EWS,  etc)  will  not  be 
+
+considered in calculating SFR value. Those students are exempted.   
+
+  F=Total no. of regular or contractual faculty members (Full Time) in the Department, including 
+allied  departments/clusters  (excluding  first  year  faculty  (The  faculty  members  who  have  a 
+100% teaching load in the first-year courses)).  
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Table No.C2.1: Student-faculty ratio. 
+
+Student 
+
+UG1. B 
+
+UG1. C 
+
+UG1. D 
+
+CAY 
+(2024-25) 
+
+CAYm1 
+(2023-24) 
+
+CAYm2 
+ (2022-23) 
+
+198  180+18  198  180+18  198  180+18 
+
+198  180+18  198  180+18  198  180+18 
+
+198  180+18  198  180+18  198  180+18 
+
+UG1 (UG-Engineering-ECE) 
+
+PG1. A 
+
+PG1. B 
+
+PG1 (PG-Engineering-ECE-ES&VLSI) 
+S=Total no. of students in the Department 
+(UG1, PG1) 
+F=Total no. of faculty members in the 
+Department 
+FF=The faculty members who have a 100% 
+teaching load in the first-year courses 
+
+594 
+
+18 
+
+0 
+
+612 
+
+36 
+
+1 
+
+594 
+
+594 
+
+0 
+
+594 
+
+38 
+
+1 
+
+0 
+
+594 
+
+35 
+
+1 
+
+Student Faculty Ratio (SFR)=S/(F-FF) 
+
+17.49 
+
+16.05 
+
+17.47 
+
+Average SFR for 3 years 
+
+17.00 
+
+C3: 
+
+Faculty Qualification  
+
+  Faculty qualification index (FQI) = 2.5 * [(10X +4Y)/RF] where   
+
+  X=No. of faculty members with Ph.D. degree or equivalent as per AICTE/UGC norms.  
+  Y=No. of faculty members with M. Tech. or ME degree or equivalent as per AICTE/ UGC norms.  
+  RF=No.  of  required  faculty  in  the  Department  including  allied  Departments  to  adhere  to  the 
+20:1  Student-Faculty  ratio,  with  calculations  based  on  both  student  numbers  and  faculty 
+requirements as per section C2 of this documents: (RF=S/20).  
+
+Year   
+
+CAY 
+
+CAYm1 
+
+CAYm2 
+
+X  
+
+8 
+
+10 
+
+10 
+
+Y  
+
+28 
+
+28 
+
+25 
+
+Table No.C3.1: Faculty qualification. 
+
+ 
+
+RF  
+
+FQI= 2.5 * [(10X +4Y)/RF]  
+
+31 
+
+30 
+
+30 
+
+15.69 
+
+17.85 
+
+16.84 
+
+C4:    Faculty Cadre Proportion 
+
+  Faculty Cadre Proportion is 1(RF1): 2(RF2): 6(RF3)   
+
+  RF1= No. of Professors required = 1/9 * No. of Faculty required to comply with 20:1 Student-
+
+Faculty ratio based on no. of students (S) as per C2 of this documents:.  
+
+12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  RF2= No. of Associate Professors required = 2/9 * No. of Faculty required to comply with 20:1 
+
+StudentFaculty ratio based on no. of students (S) as per section C2 of this documents:.  
+
+  RF3= No. of Assistant Professors required = 6/9 * No. of Faculty required to comply with 20:1 
+StudentFaculty  ratio  based  on  no.  of  students  (S)  as  per  section  C2  of  this  documents:. 
+Faculty cadre and qualification and experience should be as per AICTE/UGC norms.  
+
+Table No.C4.1: Faculty cadre proportion details. 
+
+ 
+
+Year   
+
+CAY   
+
+CAYm1   
+
+CAYm2  
+
+Average 
+Numbers   
+
+Professors 
+
+Associate Professors 
+
+Assistant Professors 
+
+Required 
+Faculty(RF1) 
+
+Available 
+Faculty(AF1) 
+
+Required 
+Faculty(RF2) 
+
+Available 
+Faculty(AF2) 
+
+Required 
+Faculty(RF3) 
+
+Available 
+Faculty(AF3) 
+
+3.40 
+
+3.30 
+
+3.30 
+
+2 
+
+4 
+
+4 
+
+6.80 
+
+6.60 
+
+6.60 
+
+8 
+
+9 
+
+8 
+
+20.40 
+
+19.80 
+
+19.80 
+
+26 
+
+25 
+
+23 
+
+RF1=  3.33 
+
+AF1=3.33 
+
+RF2=  6.67 
+
+AF2= 8.33 
+
+RF3=  20.00 
+
+AF3= 24.67 
+
+C5:    Visiting/Adjunct Faculty/Professor of Practice  
+
+Table No. C5.1: List of visiting/adjunct faculty/professor of practice and their teaching and practical loads.  
+
+S.N.  Name of the Person 
+
+Designation 
+&Organization 
+CAYm1 
+
+Name of the 
+Course 
+
+No. of hours 
+handled 
+
+1 
+
+2 
+
+1 
+
+2 
+
+1 
+
+2 
+
+Dr. R. S. Sairam 
+
+Board of Director, Lemon Flip 
+Solutions, Hyderabad 
+
+Dr. P. Suryanarayana 
+
+Retd. DRDO Scientist 
+
+VLSI Design 
+
+Embedded system 
+Design 
+
+Dr. P. Srikanth 
+
+Dr. R. S. Sairam 
+
+Total no. of hours: 
+
+CAYm2 
+
+Founder & Director  
+INAS Technologies Pvt Ltd  
+
+Board of Director, Lemon Flip 
+Solutions, Hyderabad 
+
+Total no. of hours: 
+
+CAYm3 
+
+Micro Processor and 
+Micro Controllers 
+Low Power VLSI 
+Design 
+
+Dr. P.Srikanth 
+
+Founder & Director 
+INAS Technologies Pvt Ltd 
+
+Dr. R. S. Sairam 
+
+Board of Director, Lemon Flip 
+Solutions, Hyderabad 
+
+Total no. of hours: 
+
+Electronic 
+Measurements and 
+Instrumentation 
+Low Power VLSI 
+Design 
+
+30 
+
+30 
+
+60 
+
+30 
+
+30 
+
+60 
+
+30 
+
+30 
+
+60 
+
+13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C6:    Academic Research  
+
+S.N.  
+
+Item  
+
+1  
+
+2  
+
+3  
+
+No. of peer reviewed journal papers 
+published  
+No. of peer reviewed conference papers 
+published  
+No. of books/book chapters published  
+
+C7:    Sponsored Research Project   
+
+Table No. C6.1: Faculty publication details.   
+
+CAYm1 
+(2023-24) 
+
+CAYm2 
+ (2022-23) 
+
+CAYm3 
+(2021-22) 
+
+17 
+
+15 
+
+- 
+
+5 
+
+4 
+
+2 
+
+6 
+
+6 
+
+- 
+
+Table No. C7.1: List of sponsored research projects received from external agencies.  
+
+S.N.   PI name    
+
+Co-PI 
+names 
+any  
+
+if 
+
+Name of the 
+Dept., where 
+project is  
+sanctioned 
+
+Project 
+title*  
+
+Name of 
+the 
+Funding 
+agency   
+
+Duration 
+of 
+project   
+
+the 
+
+Amount 
+(Lacs) 
+
+1  
+
+..  
+
+1  
+
+…  
+
+CAYm1 
+
+CAYm2 
+
+CAYm3 
+
+Amount received (Rs.)     
+
+Amount received (Rs.) 
+
+1   Dr.B.HariPrasadNaik Mr P.Sreenivasa 
+
+ECE 
+
+Reddy 
+
+Moderization of 
+VLSI E-CAD 
+Laboratory 
+
+AICTE 
+
+2 Years 
+
+Rs 
+4,83,000 
+
+..  
+
+C8:  Consultancy Work    
+
+Total Amount (Lacs) Received for the Past 3 Years     
+
+Amount received (Rs.) 
+
+Table No. C8.1: List of consultancy projects received from external agencies.   
+
+S.N.   PI name   
+
+ Co-PI names 
+
+if any  
+
+Name  of  the  Dept., 
+where project is  
+sanctioned    
+
+Project 
+title*  
+
+Name of the 
+Funding 
+agency   
+
+Duration 
+of 
+the 
+project   
+
+Amount 
+(Lacs) 
+
+CAYm1 
+
+1 
+
+..  
+
+Amount received (Rs.) 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1  
+
+…  
+
+1  
+
+..  
+
+CAYm2 
+
+CAYm3 
+
+Amount received (Rs.) 
+
+Total amount (Lacs) received for the past 3 years     
+
+Amount received (Rs.) 
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C9:  Institution Seed Money or Internal Research Grant to its Faculty for Research Work  
+
+Table No. C9.1: List of faculty members received seed money or internal researchgrantfrom the Institution. 
+
+S.N.   Faculty name    Project title/ Support for Activity   
+
+Duration    Amount 
+
+(Lacs) 
+
+CAYm1 (2023-24) 
+
+01-09-2023 to 
+31-08-2024 
+
+Amount 
+Utilized 
+(Lacs) 
+
+Outcomes of 
+the project  
+
+1  Ms.K.Madhavi 
+
+IoT enabled Device for Monitoring Oxygen And 
+Blood Pressure In Human Body  
+
+5000 
+
+5500 
+
+2  Ms.K.Madhavi 
+
+AI Based Driver Drowsiness Detecting Device 
+
+5000 
+
+5500 
+
+3  Ms.K.Madhavi 
+
+Revolutionizing Rice Quality Evaluation Using A 
+Novel Image Processing Approach For Physical 
+Quality Assessment 
+
+4 
+
+Mr.Prashant K 
+Kulkarni 
+
+Design Of Single-Layer Fingers Shaped 
+Microstrip Antenna For Sub 6 GHz Wireless 
+Communication 
+
+5 
+
+Ms.Soumya Reddy 
+Gudepu 
+
+Advanced Imaging Analytics:Machine Learning 
+And Deep Learning In Cancer Detection And 
+Segmentation 
+
+5000 
+
+5500 
+
+25000 
+
+25250 
+
+5000 
+
+4500 
+
+1. 
+
+ Measurephysiological parameters such as 
+blood oxygen saturation (SpO₂) and blood 
+pressure in real time. 
+
+2.  Remote monitoring, data analysis, and 
+
+alert generation in healthcare 
+applications. 
+
+1.  Detecting  Driver Drowsiness 
+2.  Analyze facial features such as eye 
+closure, blinking rate, and head 
+movement, and generate alerts to 
+prevent road accidents. 
+
+1.  Automatic evaluation of physical quality 
+parameters of rice grains, such as size, 
+shape, color, and defects. 
+Improved accuracy, consistency, and 
+efficiency 
+
+2. 
+
+1.  Enhanced antenna gain and radiation 
+efficiency for 5G sub-6 GHz bands 
+2.  Compact and low-cost antenna suitable 
+
+for IoT and wireless devices 
+
+1.  The patent leads to development of an AI 
+
+model that accurately detects and 
+segments cancerous tumors from medical 
+images. 
+
+2.  The technology enables faster and more 
+
+16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6  Dr. Ravi Bolimera 
+
+Smart Healthcare Monitoring System Using IoT 
+And Artificial Intelligence  
+
+7  Dr. Ravi Bolimera 
+
+Developing A Python Opencv-Based System To 
+Detect Driver Drowsiness 
+
+8  Dr. S. Rekha 
+
+IoT and Cloud Based Smart Agriculture Device 
+To Detect Flames Using WSN And Image 
+Processing Techniques  
+
+5000 
+
+4500 
+
+10000 
+
+13000 
+
+5000 
+
+4500 
+
+9  Ms.Anuradha K 
+
+Enhancing the Power by Reducing the 
+Harmonics in Grid Connected Inverters using 
+Deep Learning Technique 
+
+5000 
+
+4500 
+
+10  Mr.NiteshGaikwad 
+
+IoT based Robotic Device for Seed Dispersing 
+and Pesticide Spraying  
+
+5000 
+
+4500 
+
+11  Ms. Suresh N 
+
+Creating A Connected Mirror: Harnessing IoT 
+For Real-Time Applications 
+
+15000 
+
+17500 
+
+precise cancer diagnosis, improving 
+patient outcomes and treatment 
+effectiveness. 
+
+The patent results in development of an AI 
+model that accurately monitor the Health 
+of the human being 
+
+To design and develop an loT-enabled 
+accident detection system 
+
+1.  The system identifies and analyzes flames in 
+the agricultural field and alerts the farmer in 
+real time. 
+
+2.  Farmers can monitor, evaluate, and protect 
+their crops using cloud-based fire detection 
+data. 
+
+1.  Explain how deep learning reduces 
+
+harmonics in grid-connected inverters to 
+get cleaner power. 
+
+2.  Apply deep learning control to an inverter 
+
+model and compare waveforms 
+before/after to see more useful power 
+output. 
+
+3.  Evaluate the deep learning method versus 
+traditional filters, then design a better 
+smart control for harmonic reduction. 
+
+1.  Increased Agricultural Efficiency 
+2.  Cost Reduction and Resource Optimization 
+3.  Improved Crop Yield and Environmental 
+
+Protection 
+
+1.  The connected mirror enables real-time 
+data display and interaction using IoT 
+integration. 
+
+2.   The system allows seamless connectivity 
+
+17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12  Dr.ShaikFairoz 
+
+IoT based Crop Monitoring Method using Smart 
+Device with Machine Learning Technique to 
+Assist the Agriculture Industry  
+
+5000 
+
+4500 
+
+with IoT-enabled devices and services. 
+
+1.  Continuous remote supervision. 
+2.  Intelligent decision-making, including 
+
+irrigation prediction, crop health analysis, 
+and yield forecasting, to improve 
+productivity and reduce resource wastage in 
+agriculture. 
+
+Ms. N. Lavanya 
+
+Fire Rescue Drone  
+
+Dr.B.Hari Prasad 
+Naik 
+
+SoC based temperature sensor for low power 
+VLSI applications  
+
+13 
+
+14 
+
+50000 
+
+50000 
+
+Improved Responder Safety  
+
+1. 
+2.  Faster Victim Location  
+
+50000 
+
+50000 
+
+1.  Successful Integration of Temperature 
+
+Sensor into SoC Design 
+2. 
+ Low Power Consumption Achieved  
+3.  Accurate Temperature Monitoring  
+4.  Area-Efficient Layout 5. Functional 
+
+Simulation and Verification 
+
+1  Ms.K.Madhavi 
+
+IMAGE FUSION ON MRI AND CT IMAGE USING 
+WAVELET TRANSFORM 
+
+01-09-2023 
+to 31-08 
+2024 
+
+5000 
+
+5200 
+
+Amount received (Rs.) 
+
+199250 
+
+CAYm2 (2022-23) 
+
+2  Mr.PrashantKulkarni 
+
+A Novel Approach for Integrating the Techniques of 
+IoT,Fog and Cloud Computing for Smart and 
+Accuratepredictionof Earthquake 
+
+15000 
+
+15250 
+
+3  Mr. K. Rambabu  AI &IoT Based Smart Irrigation system 
+
+50000 
+
+50000 
+
+1. Image fusion of MRI and CT images for 
+improved diagnostic visualization  
+2. Performance of fused medical images 
+
+using appropriate quality metrics such as 
+PSNR, SSIM, and entropy. 
+
+1.  Early earthquake warning through real-
+
+time sensor data fusion 
+
+2.  Reduced prediction delay using fog-layer 
+
+edge processing 
+
+1.  Water Conservation  
+2.  Remote monitoring & Control  
+3.  Data Driven Decisions 
+
+4  Dr. T. RajaSekhar 
+
+AI & ML Based VLSI Architectures for Low 
+power Applications 
+
+50000 
+
+50000 
+
+1. Optimize power, area for low power  
+2. Low Power Consumption for smart 
+
+18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+systems  
+3. Low latency  
+
+Amount received (Rs.) 
+
+120450 
+
+CAYm3 (2021-22) 
+
+Amount received (Rs.) 
+
+199250 
+
+- 
+Total amount (Lacs) received for the past 3 years    319700 
+
+Amount received (Rs.) 
+
+19 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PART-D: Laboratory Infrastructure in the Department 
+
+(Data to be filled in for the Department). 
+
+D1:    Adequate and Well-Equipped Laboratories, and Technical Manpower  
+
+Table No.D1.1: List of laboratories and technical manpower. 
+
+S.No 
+
+Name of the 
+Laboratory 
+
+No. of 
+Students 
+per set up 
+(Batch size) 
+
+Name of the major  
+equipment  
+
+1 
+
+Analog Circuits 
+Laboratory  
+
+3(22) 
+
+2 
+
+Digital Circuits 
+Laboratory 
+
+3(22) 
+
+Class A Power Amplifier Trainer kit(1) 
+Class C Power Amplifier Trainer kit(1) 
+Single Tuned Voltage Amplifier Trainer kit(1) 
+Hartley Oscillator Trainer kit(1) 
+Colpitts Oscillator Trainer kit(1) 
+Wein Bridge Oscillator Trainer kit(1) 
+RC Phase Shift Oscillator Trainer kit(1) 
+Clipper and Clamper Trainer kit(1) 
+FET Common Source Amplifier Trainer kit(1) 
+Decade Resistance Box(10) 
+Decade Inductance Box(10) 
+Decade Capacitance Box(10) 
+Cathode Ray Oscilloscope (0-25MHz)(8) 
+Function Generators (10Hz-10MHz) (8) 
+Regulated Power Supply (0-30V) (8) 
+Electronic Servo Voltage Stabilizer(1) 
+General purpose trainer with breadboard and IC base (10) 
+MonostableMultivibrator Trainer kit(1) 
+Digital IC trainer Trainer kit(8) 
+Digital Multimeter (10) 
+Function Generators (1Hz-30MHz)(8) 
+Cathode Ray Oscilloscope (0-20MHz)(8)  
+Regulated power supply (0-30V)(8) 
+Servo Voltage Stabilizer(1) 
+Analog IC’s(100), Digital IC’s(100) 
+
+Weekly 
+Utilization Status 
+(all the courses 
+for which the lab 
+is utilized) 
+
+Technical Manpower Support 
+
+Name of the 
+Technical Staff 
+
+Designation  Qualification 
+
+27 Hours/Week 
+
+Ms. K. 
+Mamatha 
+
+Lab Technician  B.Tech 
+
+27 Hours/Week  Ms. R. Manasa  Lab Technician  B. Tech. 
+
+20 
+
+ 
+ 
+ 
+ 
+ 
+3 
+
+MODROBS 
+Laboratory  
+
+1(30) 
+
+4 
+
+Embedded & IOT 
+Laboratory  
+
+1(30) 
+
+5 
+
+Communication 
+Laboratory 
+
+3(22) 
+
+Personal Computers (30) 
+Xilinx Vivado Software (30 users) 
+Zynq 7000 series FPGA Development 
+Boards(5) 
+Xilinx 7 Series FPGA Artix-7 Boards(5) 
+UPS 5KVA (1) 
+Personal Computers (30) 
+Raspberry Pi4 (8GB)(6) 
+ESP 32 Microcontroller Board(10) 
+Arduino UNO R3(10), GSM Modem SIM900A(10), 
+Ultrasonic sensor(10) 
+Relay module(10), Soil Sensor(10) 
+DHT11 sensor(10), Water Pumps(10) 
+LED’s(50), Web Cameras(5) 
+ARM Cortex M3 Development Board (5) 
+Microprocessor 8086(10) 
+Microcontrollers Trainer kit(8051)(8) 
+7 Segment Display Interface (2) 
+Matrix Keypad Interface (1) 
+ADC Interface (2), DAC Interface (1) 
+Cathode Ray Oscilloscope (0-20MHz) (2) 
+UPS 5 KVA(1) 
+Klystron Microwave Bench Setup(3) 
+Gunn Microwave Bench Setup(1) 
+E plane T(1),  
+H plane T(1) 
+EH Plane T(1),  
+Circulator(1) 
+Directional Coupler(1) 
+Fiber Optic Analog Transmitter & Receiver Trainer kit(1) 
+Fiber Optic Digital  Transmitter & Receiver Trainer kit(1),  
+Numerical Aperture Trainer kit(1) 
+LED Trainer kit(1),  
+LASER Trainer kit(1) 
+Optical Fiber Cables(3) 
+AM Transmitter Trainer kit(2) 
+AM Receiver Trainer  kit(2)  
+FM Transmitter Trainer kit(1) 
+FM Receiver Trainer kit(1)  
+
+27 Hours/Week 
+
+Ms. Y. 
+Subhashini 
+
+Lab Technician  B. Tech. 
+
+27 Hours/Week  Mr.K.Jagdish 
+
+Lab Technician / 
+System 
+Administrator 
+
+M.Sc.(I.T.) 
+
+27 Hours/Week  Ms. V. Swapna  Lab Technician  B. Tech. 
+
+21 
+
+ 
+PAM Trainer kit(1),PWM Trainer kit(1) 
+PPM Trainer kit(2),FSK Trainer Kit(1) 
+QPSK Trainer Kit(1),OFDM Trainer kit(1) 
+PCM Trainer kit(1),DM Trainer kit(1) 
+Data Transmitter Trainer kit(1) 
+Data Receiver Trainer kit(1) 
+FDM Trainer kit(1) 
+QAM Trainer kit.(1) 
+Sampling & Reconstruction Trainer  kit(1) 
+Cathode Ray Oscilloscope (0-20MHz) (8) 
+Function Generator (0-1 MHz) (4) 
+Spectrum Analyser(1Khz -2.5 Ghz)(1) 
+RPS (0-30V)(8), 
+CROs (0-20 MHz)(8), 
+Function generators (0-1 MHz)(8) 
+Bread Boards(15), 
+AM Trainee Kits(1), 
+FM trainer kits(1) 
+74XX IC’s (100) 
+Ammeter(0-20mA)(5) 
+Ammeter(0-200mA)(5) 
+DMM(10) 
+Voltmeter(0-20V)(10) 
+Personal Computers (P-IV)(30) 
+MATLAB Software with Signal Processing Tool Box (30) 
+DSP Processor starter kits with Code Composer Studio (10) 
+CRO (30MHz) (2) 
+Function Generator (0-1 MHz) (2) 
+Desktop Computers (I5 configuration),  
+Matlab Software,  
+Digital storage Oscilloscope,  
+3D Printer,  
+Arduino/Raspberry Pi Kits,  
+Light Sensors, 
+LEDs,  
+USB Webcam, etc 
+
+6 
+
+Basic  Electronics 
+Laboratory 
+
+3(22) 
+
+7 
+
+Signal  Processing 
+Laboratory 
+
+1(30) 
+
+8 
+
+Robotics  (Project) 
+- 
+Laboratory 
+
+27 
+Hours/Week 
+
+Mr. Ashok 
+Kulkarni 
+
+Lab Technician  Diploma 
+
+27 Hours/Week  Mr. D. Sridhar  Lab Technician  Diploma(ECE) 
+
+As per project 
+requirement 
+
+Mr. U. 
+Bharadwaja 
+
+Assistant 
+Professor  /  Lab 
+Incharge 
+
+M.Tech 
+
+22 
+
+ 
+ 
+D2: `Safety Measures in Laboratories  
+
+Common Safety Measures in the Laboratories: 
+
+1.  First Aid Trainer kitis available at the entrance of the laboratory in case of emergency. 
+2.  Fire extinguisher is available in the laboratory in case of fire emergency. 
+3.  Students are instructed to avoid direct contact with any voltage source and power line voltages. 
+4.  Students must ensure that their hands are dry and they are not standing on wet floors. 
+5.  Students are advised to wear rubber-soled shoes, laboratory coats, and avoid loose clothing. 
+6.  Students  are  advised  not  to  switch  ON  the  experiments  without  permission  from  the  faculty/lab 
+
+technician. 
+
+7.  Students must ensure that the electric supply is OFF before giving connections. 
+8.  Earthing of line circuits is periodically checked and always before use. 
+
+Safety Measures in Laboratory wise: 
+
+S.No. 
+
+Name of the 
+Laboratory 
+
+Safety Measures 
+
+1 
+
+Analog 
+Electronics 
+Laboratory 
+
+Digital Circuits 
+Laboratory 
+
+2 
+
+3 
+
+MODROBS 
+Laboratory 
+
+4 
+
+Embedded 
+System &IoT 
+Laboratory 
+
+- First aid kit.  
+- Dry type fire extinguisher. 
+- Guidelines and instructions displayed in the laboratory.  
+- Electrical earthing is well maintained.  
+- Power to all panel boards supplied through a 440V distribution panel. 
+- Power supply terminals connected to any circuit are energized only in the presence of the instructor 
+
+or lab staff.  
+
+- Emergency power shutdown facility is provided. 
+- Students instructed to wear apron and shoes. 
+- First aid kit.  
+- Dry type fire extinguisher. 
+- Guidelines and instructions displayed in the laboratory.  
+- Electrical earthing is well maintained.  
+- Power to all panel boards supplied through a 440V distribution panel. 
+- Power supply terminals connected to any circuit are energized only in the presence of the instructor 
+
+or lab staff.  
+
+- Emergency power shutdown facility is provided. 
+- Students instructed to wear apron and shoes. 
+- First aid kit. 
+- Dry type fire extinguisher. 
+- Guidelines and instructions displayed in the laboratory. 
+- Electrical earthing is well maintained.  
+- Power to all panel boards supplied through a 440V distribution panel.  
+- Uninterrupted power supply provided with UPS. 
+- Power supply terminals connected to any circuit are energized only in the presence of the instructor 
+
+or lab staff. 
+
+- Emergency power shutdown facility is provided. 
+- Students instructed to wear apron and shoes. 
+- 5 KVA UPS is provided for continuous uninterrupted regulated power supply. 
+- First aid kit. 
+- Dry type fire extinguisher.  
+- Guidelines and instructions displayed in the laboratory. 
+- Electrical earthing is well maintained.  
+- Power to all panel boards supplied through a 440V distribution panel. 
+- 5 KVA UPS is provided for continuous uninterrupted regulated power supply.  
+- Power supply terminals connected to any circuit are energized only in the presence of the instructor 
+
+23 
+
+ 
+ 
+or lab staff. 
+
+- Emergency power shutdown facility is provided. 
+- Students instructed to wear apron and shoes. 
+- First aid kit.  
+- Dry type fire extinguisher.  
+- Guidelines and instructions displayed in the laboratory. 
+- Electrical earthing is well maintained.  
+- Power to all panel boards supplied through a 440V distribution panel. 
+- Power supply terminals connected to any circuit are energized only in the presence of the instructor 
+
+or lab staff. 
+
+- Emergency power shutdown facility is provided.  
+- Students instructed to wear apron and shoes.  
+- First aid kit.  
+- Dry type fire extinguisher.  
+- Guidelines and instructions displayed in the laboratory.  
+- Electrical earthing is well maintained. 
+- Power to all panel boards supplied through a 440V distribution panel.  
+- Power supply terminals connected to any circuit are energized only in the presence of the instructor 
+
+or lab staff.  
+
+- Emergency power shutdown facility is provided. 
+- Students instructed to wear apron and shoes. 
+- First aid kit.  
+- Dry type fire extinguisher.  
+- Guidelines and instructions displayed in the laboratory. 
+- Electrical earthing is well maintained.  
+- Power to all panel boards supplied through a 440V distribution panel.  
+- Power supply terminals connected to any circuit are energized only in the presence of the instructor 
+
+or lab staff.  
+
+- Emergency power shutdown facility is provided. 
+- Students instructed to wear apron and shoes. 
+- First aid kit.  
+- Dry type fire extinguisher. 
+- Guidelines and instructions displayed in the laboratory.  
+- Electrical earthing is well maintained.  
+- Power to all panel boards supplied through a 440V distribution panel. 
+- Power supply terminals connected to any circuit are energized only in the presence of the instructor 
+
+or lab staff. - Emergency power shutdown facility is provided. 
+
+- Students instructed to wear apron and shoes. 
+
+5 
+
+Communication 
+Laboratory 
+
+Basic Electronics 
+Laboratory 
+
+6 
+
+7 
+
+Signal Processing 
+Laboratory 
+
+Robotics (Project) 
+Laboratory 
+
+8 
+
+D3: Project Laboratory/Research Laboratory 
+
+Table No.D3.1: List of project laboratory/research laboratory /Centre of Excellence. 
+
+S.NO. 
+
+Name of the Laboratory 
+
+1 
+
+Robotics (Project) Laboratory 
+
+24 
+
+ 
+ 
+ 
+ 
+ 
+PART E: Fist Year faculty and financial Resources. 
+
+(Data to be filled in for the first year course faculty and budget allocation and utilization) 
+
+E1:    First Year Student-Faculty Ratio (FYSFR) 
+
+Table No. E1.1: FYSFR details.  
+
+Sanctioned 
+intake of all 
+UG programs 
+(S4) 
+
+No. of 
+required 
+faculty 
+(RF4= 
+S4/20) 
+
+No. of faculty 
+members in Basic 
+Science Courses & 
+Humanities and 
+Social Sciences 
+including 
+Management courses 
+(NS1) 
+
+No. of 
+faculty 
+members in 
+Engineering 
+Science 
+Courses 
+(NS2) 
+
+Percentage= 
+No. of   faculty members 
+((NS1*0.8) 
++(NS2*0.2))/(No. of 
+required faculty (RF4)); 
+
+Percentage=((NS1*0.8)+ 
+(NS2*0.2))/RF4 
+
+810 
+
+690 
+
+690 
+
+40.5 
+
+34.5 
+
+34.5 
+
+36 
+
+37 
+
+30 
+
+14 
+
+12 
+
+12 
+
+78.02% 
+
+92.75% 
+
+76.52% 
+
+Year 
+
+CAY 
+
+CAYm1 
+
+CAYm2 
+
+E2: 
+
+Budget Allocation, Utilization, and Public Accounting at Institute Level  
+
+Table No. E2.1: Budget and actual expenditure incurred at Institute level.  
+
+Items 
+
+Infrastructure 
+Built-Up 
+Library 
+
+Laboratory 
+equipment 
+Teaching and 
+non-teaching 
+staff salary 
+
+Outreach 
+Programs 
+R&D 
+
+Training, 
+Placement and 
+Industry linkage 
+SDGs 
+
+Entrepreneurship 
+
+Others*, pl. 
+specify 
+
+Budgeted 
+in CFY 
+
+Actual 
+expenses 
+in CFY 
+
+Budgeted 
+in CFYm1 
+
+Actual 
+Expenses 
+in CFYm1 
+
+Budgeted 
+in CFYm2 
+
+Actual 
+Expenses 
+in CFYm2 
+
+Budgeted 
+in CFYm3 
+
+Actual 
+Expenses 
+in CFYm3 
+
+40000000  26151868  21400000  21440031 
+
+9600000 
+
+9682332 
+
+1000000 
+
+0 
+
+1500000 
+
+1083234 
+
+500000 
+
+536461 
+
+550000 
+
+588683 
+
+850000 
+
+875777 
+
+14500000 
+
+9906967 
+
+1000000 
+
+1113355 
+
+2650000 
+
+2674920 
+
+500000 
+
+0 
+
+185000000  178876972  162000000  162054568  112900000  112957110 
+
+96500000  96887003 
+
+300000 
+
+280000 
+
+300000 
+
+270000 
+
+250000 
+
+280000 
+
+200000 
+
+60000 
+
+1500000 
+
+1712542 
+
+2300000 
+
+2359945 
+
+2000000 
+
+2000475 
+
+500000 
+
+450234 
+
+5000000 
+
+4080404 
+
+4700000 
+
+4741350 
+
+4900000 
+
+4926659 
+
+2500000 
+
+2551327 
+
+500000 
+
+300000 
+
+500015 
+
+222000 
+
+600000 
+
+250000 
+
+651245 
+
+278156 
+
+550000 
+
+250000 
+
+570000 
+
+278156 
+
+400000 
+
+200000 
+
+435467 
+
+157500 
+
+39200000  72254547  37000000  37127621  62450000  62788274 
+
+49800000  50229406 
+
+Total amount    287800000  295068549  230050000  230572732  196100000  196746609  152450000  151646714 
+
+25 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E3: Budget Allocation, Utilization, and Public Accounting at Program Specific Level   
+
+Table No. E3.1: Budget and actual expenditure incurred at program level. 
+
+Items  
+
+Budgeted 
+in CFY  
+
+Actual 
+expenses in 
+CFY(till Jan 
+2026) 
+
+Budgeted 
+in CFYm1  
+
+Actual 
+Expenses 
+in CFYm1  
+
+Budgeted 
+in CFYm2  
+
+Actual 
+Expenses 
+in CFYm2  
+
+Budgeted 
+in CFYm3  
+
+Actual 
+Expenses 
+in CFYm3  
+
+Laboratory 
+equipment   
+
+Software   
+
+700000 
+
+720023 
+
+700000 
+
+776249 
+
+300000 
+
+312022 
+
+90000 
+
+76464 
+
+SDGs   
+
+350000 
+
+315042 
+
+450000 
+
+450045 
+
+400000 
+
+425124 
+
+300000 
+
+108867 
+
+Support for 
+faculty 
+development  
+
+200000 
+
+210000 
+
+200000 
+
+201900 
+
+200000 
+
+199000 
+
+150000 
+
+98000 
+
+R & D  
+
+425000 
+
+450243 
+
+575000 
+
+589986 
+
+500000 
+
+612451 
+
+125000 
+
+50000 
+
+Industrial  
+Training, 
+Industry 
+expert, 
+Internship   
+
+Miscellaneous 
+expenses *  
+
+Total amount  
+
+1650000 
+
+1689097 
+
+1400000 
+
+1422405 
+
+1470000 
+
+1477997 
+
+750000 
+
+765398 
+
+3325000 
+
+3384405 
+
+3325000 
+
+3440585 
+
+2870000 
+
+3026594 
+
+1415000 
+
+1098729 
+
+26 
+
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+

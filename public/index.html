@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CampusNavigator - NNRG College Assistant</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- FontAwesome icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar Dashboard -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <div class="logo-container">
+                    <div class="logo-icon">
+                        <i class="fa-solid fa-compass-drafting"></i>
+                    </div>
+                    <div>
+                        <h1 class="logo-title">CampusNavigator</h1>
+                        <span class="logo-subtitle">NNRG Assistant</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="sidebar-content">
+                <div class="info-card">
+                    <h3><i class="fa-solid fa-graduation-cap"></i> About NNRG</h3>
+                    <p>NNRG College (Nalla Narasimha Reddy Group of Institutions) is a premier engineering & management campus in Hyderabad. This assistant helps you find campus information instantly.</p>
+                </div>
+
+                <div class="suggestions-section">
+                    <h3><i class="fa-solid fa-lightbulb"></i> Try Asking:</h3>
+                    <div class="suggestions-grid">
+                        <button class="suggest-btn" onclick="askPreset('What\'s on the canteen menu today?')">
+                            <i class="fa-solid fa-utensils"></i> Canteen Menu
+                        </button>
+                        <button class="suggest-btn" onclick="askPreset('When is the next college fest?')">
+                            <i class="fa-solid fa-calendar-star"></i> College Fest
+                        </button>
+                        <button class="suggest-btn" onclick="askPreset('Who is the HOD of Computer Science Department?')">
+                            <i class="fa-solid fa-user-tie"></i> HOD of CSE
+                        </button>
+                        <button class="suggest-btn" onclick="askPreset('When do the mid-term exams start?')">
+                            <i class="fa-solid fa-file-signature"></i> Mid-term Exams
+                        </button>
+                        <button class="suggest-btn" onclick="askPreset('Where is NNRG College located?')">
+                            <i class="fa-solid fa-location-dot"></i> Campus Location
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="sidebar-footer">
+                <div class="status-indicator">
+                    <span class="status-dot online"></span>
+                    <span id="system-status">System Connected</span>
+                </div>
+                <button class="clear-btn" onclick="clearChat()">
+                    <i class="fa-solid fa-trash-can"></i> Clear History
+                </button>
+            </div>
+        </aside>
+
+        <!-- Main Chat Area -->
+        <main class="chat-container">
+            <!-- Top Navbar -->
+            <header class="chat-header">
+                <div class="header-info">
+                    <h2>CampusNavigator</h2>
+                    <p>Official NNRG College AI Assistant</p>
+                </div>
+                <div class="header-actions">
+                    <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle Dark Mode">
+                        <i class="fa-solid fa-moon"></i>
+                    </button>
+                </div>
+            </header>
+
+            <!-- Chat Message Feed -->
+            <div class="chat-feed" id="chat-feed">
+                <!-- Welcome Message -->
+                <div class="message assistant-message welcome-msg">
+                    <div class="message-avatar">
+                        <i class="fa-solid fa-robot"></i>
+                    </div>
+                    <div class="message-bubble">
+                        <p>Welcome to NNRG College! 🎓 I am <strong>CampusNavigator</strong>, your dedicated campus companion.</p>
+                        <p>How can I help you today? You can ask me questions like:</p>
+                        <ul>
+                            <li>What is on the canteen breakfast menu?</li>
+                            <li>Who is the director of NNRG?</li>
+                            <li>When are the JNTUH semester exams?</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Chat Input Area -->
+            <div class="chat-input-container">
+                <form id="chat-form" onsubmit="handleSendMessage(event)">
+                    <input type="text" id="chat-input" placeholder="Type your NNRG campus query here..." autocomplete="off" required>
+                    <button type="submit" class="send-btn" id="send-btn" aria-label="Send message">
+                        <i class="fa-solid fa-paper-plane"></i>
+                    </button>
+                </form>
+            </div>
+
+            <!-- Footer Requirements -->
+            <footer class="app-footer">
+                <p>Designed and Built by <strong>Ramya</strong> | Built for <strong>GENAI Internship</strong></p>
+            </footer>
+        </main>
+    </div>
+
+    <!-- Markdown Parser Library (marked) for formatting responses -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <!-- Custom JS -->
+    <script src="app.js"></script>
+</body>
+</html>

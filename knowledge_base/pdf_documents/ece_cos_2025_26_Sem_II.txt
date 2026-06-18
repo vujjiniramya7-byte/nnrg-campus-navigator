@@ -1,0 +1,1522 @@
+Department of Electronics & Communication Engineering  
+Course Outcomes (COs) for Academic Year: 2025-26 
+
+YEAR: I 
+
+SEMESTER: II 
+
+REGULATION: R25 
+
+Course : Ordinary Differential Equations and Vector Calculus 
+
+       Code: 25MA201BS/ C120 
+
+ Identify whether the given differential equation of first order is exact or not 
+
+ Solve higher differential equation and apply the concept of differential equation to real world  problems 
+
+ Use the Laplace transforms techniques for solving ODE’s. 
+
+ Find the physical quantities involved in engineering field related to the vector valued functions. 
+
+ Evaluate the line, surface and volume integrals and converting them from one to another. 
+
+CO1 
+
+CO2 
+
+CO3 
+
+CO4 
+
+CO5 
+
+Course : Engineering Chemistry 
+
+         Code: 25CH202BS/ C121 
+
+CO1 
+
+CO2 
+
+CO3 
+
+CO4 
+
+CO5 
+
+ Interpret the various parameters of water, problems caused by hard water in the industry      and also able to 
+identify suitable method for treatment of water. 
+ Acquire basic knowledge of electrodes and electrochemical processes and their importance to 
+corrosion and its control methods. 
+ Perceive the significance and practical applications of batteries and various energy sources, 
+enhancing their potential as future engineers and entrepreneurs. 
+ Classify and characterize different polymers and apply its knowledge to select suitable materials for 
+specific applications. 
+ Identify  the  use  of  functional  materials  in  modern  devices  and  also  apply  the  principles  of  spectroscopic 
+techniques in analyzing various applications. 
+
+Course : Python Programming 
+
+      Code: 25CS203ES/ C122 
+
+CO1 
+
+ Write Python Programs using variables, operators, expressions, and control structures. 
+
+CO2 
+
+ Implement Python programs using built-in data structures like lists, tuples, sets, and dictionaries 
+
+CO3 
+
+ Apply modular and object-oriented programming principles in Python. 
+
+CO4 
+
+ Handle files, exceptions, and apply Python libraries for problem-solving 
+
+CO5 
+
+ Develop small-scale applications in Python for automation and data manipulation. 
+
+Course: Network Analysis and Synthesis 
+
+         Code: 25EE204ES/ C123 
+
+CO1 
+
+ Identify the behaviour of Electric and Magnetic Networks. 
+
+CO2 
+
+ Analyze the transient and steady-state responses of combined passive elements. 
+
+CO3 
+
+ Examine Two-port  Network using various parameters. 
+
+CO4 
+
+ Construct various Filter Networks  and Attenuators. 
+
+CO5 
+
+ Inspect transfer functions of passive elements for network synthesis. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Course: Data Structures 
+
+        Code: 25CS205ES/ C124 
+
+CO1 
+
+ Understand and implement basic linear data structures like linked lists, stacks, and queues. 
+
+CO2 
+
+ Construct and manipulate various trees, including binary search and balanced trees, applying traversal and  
+balancing  techniques. 
+
+CO3 
+
+ Analyze and implement multi-way search trees and heaps, applying efficient search algorithms. 
+
+CO4 
+
+ Represent graphs, perform graph traversals, and apply advanced sorting algorithms. 
+
+CO5 
+
+ Implement hashing techniques, handle collisions, and understand file organization and indexing methods. 
+
+   Course : Engineering Chemistry Laboratory 
+
+     Code: 25CH206BS/ C125 
+
+CO1 
+
+ Estimate the amount of substance by applying potentiometry, pH metry and conductometry. 
+
+CO2 
+
+ Analyse the parameters such as hardness in water and estimate the corrosion rate of metals. 
+
+CO3 
+
+ Evaluate the linear relationship between absorbance and concentration to verify the Beer-Lambert’s law. 
+
+CO4 
+
+ Identify the importance of polymers by synthesizing them. 
+
+CO5 
+
+ Build their thinking abilities and skills using virtual labs. 
+
+   Course : Data Structures Laboratory 
+
+                                                          Code: : 25CH206BS / C126 
+
+CO1 
+
+ Implement and manipulate various types of linked lists with fundamental operations. 
+
+CO2 
+
+ Design and develop stack and queue data structures using arrays and abstract data types. 
+
+CO3 
+
+ Apply and implement different sorting algorithms to organize data in ascending order. 
+
+CO4 
+
+ Construct and traverse complex tree data structures including Binary Search Trees, B- Trees, B+ Trees, AVL 
+Trees, and Red-Black Trees. 
+
+CO5 
+
+ Implement graph traversal algorithms and various hashing functions for efficient data searching and storage. 
+
+Course : Applied Python Programming Laboratory 
+
+        Code: 25EC208ES/ C127 
+
+CO1 
+
+ Outline the fundamental Concepts and illustrate the basic programs. 
+
+CO2 
+
+ Develop python codes for different applications 
+
+CO3 
+
+ Utilize Raspberry Pi to implement basic applications 
+
+Course : Engineering Workshop 
+
+                                                               Code: 25ME209ES/ C128 
+
+Understanding basic manufacturing processes and operations 
+
+Use hand tools and equipment safely and efficiently. 
+
+Performing basic operations in various trades like carpentry, fitting, welding, etc. 
+
+Interpreting workshop drawings. 
+
+Develop team work, time management, and quality awareness in a workshop environment. 
+
+CO1 
+
+CO2 
+
+CO3 
+
+CO4 
+
+CO5 
+
+    Course : Electrical Engineering Laboratory 
+
+     Code: 25EC210ES/ C127 
+
+CO1 
+
+CO2 
+
+CO3 
+
+CO4 
+
+CO5 
+
+ Verify the basic DC Electrical circuits through different experiments. 
+ Analyze the transient responses of R, L and C circuits for different input conditions. 
+
+ Evaluate the performance calculations of Transformer through suitable testing methods. 
+
+Acknowledge the principles of operation and the main features of electric machines and their 
+applications.  
+ Acquire skills in using electrical measuring devices. 
+
+ 
+Department of Electronics & Communication Engineering 
+Academic Year: 2025-26 
+
+YEAR: II 
+
+SEMESTER: II 
+
+REGULATION: R22 
+
+Course: Numerical Methods and Complex Variables 
+
+         Code: 22MA401BS/ C220 
+
+CO1 
+
+ Express any periodic function in terms of sine and cosine . 
+
+CO2 
+
+ Find the root of a given polynomial and transcendental equations. 
+
+CO3 
+
+ Estimate the value for the given data using interpolation, Find the numerical solutions for a given first order 
+ODE’S. 
+
+CO4 
+
+ Analyze the complex function with reference to their analyticity, integration using cauchy’s integral and 
+residue theorems. 
+
+CO5 
+
+ Taylor’s and laurent’s series expansions in complex function. 
+
+Course : Electromagnetic Fields and Transmission Lines 
+
+        Code: 22EC401PC/ C221  
+
+CO1 
+
+ Understand the basic laws and equations related to electrostatic fields 
+
+CO2 
+
+ Demonstrate the concepts and laws related to magnetostatic fields 
+
+CO3 
+
+ Apply the Maxwell's equations in different conditions 
+
+CO4 
+
+ Explain the characteristics of EM waves in different medium 
+
+CO5 
+
+ Analyze transmission lines and its characteristics 
+
+Course : Analog and Digital Communications 
+
+         Code:22EC402PC/ C222 
+
+CO1 
+
+ Understand the concepts of Amplitude modulation, demodulation techniques 
+
+CO2 
+
+ Analyze  different types of Angle Modulation techniques for a given set of parameters 
+
+CO3 
+
+ Identify the transmitter and receiver types required for a given application. 
+
+CO4 
+
+ Describe the different Pulse modulation techniques. 
+
+CO5 
+
+ Analyze digital modulation and demodulation techniques, calculate the performance of receivers. 
+
+Course : Linear and Digital IC Applications 
+
+          Code:22EC403PC / C223 
+
+ Understand and design various applications of operational amplifier using IC-741  
+
+ Design the applications of Timer IC-555, Voltage regulator-IC565 & PLL-IC566 
+
+ Illustrate the types of analog to digital and digital to analog converters. 
+
+ Examine various families of ICs and applications of combinational circuits.  
+
+ Analyze various families of ICs and applications of sequential circuits. 
+
+CO1 
+
+CO2 
+
+CO3 
+
+CO4 
+
+CO5 
+
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Course: Electronic Circuit Analysis 
+
+        Code:22EC404PC/ C224 
+
+CO1 
+
+ Design the power amplifiers 
+
+CO2 
+
+ Design the tuned amplifiers and analyze is frequency response 
+
+CO3 
+
+ Design Multivibrators and sweep circuits for various applications. 
+
+CO4 
+
+ Compare the  various time base generators 
+
+CO5 
+
+ Build the concepts of Synchronization frequency division sampling gates 
+
+Course: Analog and Digital Communications Laboratory  
+
+          Code:22EC405PC/ C225      
+
+CO1 
+
+ Design and implement various Analog and Pulse modulation and demodulation Techniques and 
+observe the time and frequency domain characteristics. 
+
+CO2 
+
+ Attain the knowledge about AM, FM Transmitters and Receivers. 
+
+CO3 
+
+ Design and implement various Digital modulation and demodulation Techniques and observe the 
+waveforms of these modulated Signals practically. 
+
+Course: Linear and Digital IC Applications Laboratory  
+
+        Code:22EC406PC/ C226 
+
+CO1  Perform the design of various applications of operational amplifier using IC-741. 
+CO2  Execute the various applications of Timer using IC-555 and Voltage regulators using IC-565.  
+CO3  Design the various logic circuits using digital ICs. 
+
+Course: Electronic Circuit Analysis Laboratory                                             Code:22EC407PC/ C227 
+
+ Design various power amplifiers for various applications 
+
+ Analyze the Frequency Response of   Tuned Amplifiers 
+
+ Design the Multivibrator circuits 
+
+ Design Sweep circuits for various applications 
+
+ Simulate the Electronic circuits using multisim software 
+
+CO1 
+
+CO2 
+
+CO3 
+
+CO4 
+
+CO5 
+
+Course: Real Time Project/ Field Based Project 
+
+     Code: 22EC408PC / C228 
+
+CO1 
+
+ Analyze, formulate, and implement the proposed method in domains of VLSI, Image & Signal Processing, 
+Communication, and Embedded systems that find a solution to the society and environment 
+
+CO2 
+
+ Demonstrate effectively the engineering principles used in their project individually and as a team 
+
+CO3 
+
+ Structure future work to promote life-long learning in the context of technological adaptation  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Department of Electronics & Communication Engineering  
+
+YEAR: III 
+
+Course Outcomes (COs) for Academic Year: 2025-26 
+SEMESTER: II 
+
+REGULATION: R22 
+
+  Course: Digital Signal Processing                                                                                             Code: 22EC601PC/ C320 
+
+CO1 
+
+ Classify the Continuous time and Discrete time signals and systems. 
+
+CO2 
+
+ Illustrate discrete time domain and frequency domain of signals. 
+
+CO3 
+
+ Design of Digital IIR filters  from Analog Filters 
+
+CO4 
+
+ Design of FIR filters using Fourier method and Windowing techniques 
+
+CO5 
+
+ Realize the Digital filters in various forms. 
+
+Course: CMOS VLSI Design                                                                                  Code: 22EC602PC/ C321  
+
+CO1 
+
+ Interpret various fabrication steps involved in IC technology with their properties. 
+
+CO2 
+
+ Describe the design rules for layout of CMOS logic circuits using stick diagrams. 
+
+CO3 
+
+ Explain transistor level implementation of various gate level circuits. 
+
+CO4 
+
+ Analyze the data path sub-systems and various forms of memories. 
+
+CO5 
+
+ Develop programmable logic devices along with CMOS testing. 
+
+Course: Business Economics & Financial Analysis                                             Code: 22SM603MS/ C322 
+
+ Understand the various forms of business. 
+
+CO1 
+
+CO2 
+
+CO3 
+
+CO4 
+
+CO5 
+
+ Describe the concepts of economics &importance of economics. 
+
+ Adapt the demand, supply, production, cost, market structure, pricing concepts. 
+
+ Calculate the process of accounting and prepare accounting statements. 
+
+ Analyze the firm’s financial position by comparing the financial statements of company. 
+
+Course: Embedded System Design                                                                          Code: 22EC613PE/ C325 
+
+CO1 
+
+ Illustrate the fundamentals of Embedded Systems 
+
+CO2 
+
+ Analyze the embedded systems core and its communication Interfaces 
+
+CO3 
+
+ Develop Embedded Firmware design approaches 
+
+CO4 
+
+ Summarize the concepts of RTOS 
+
+CO5 
+
+ Discuss the task communication and synchronization techniques 
+
+Course : Fundamentals of Artificial Intelligence                                                Code: 22AM611OE / C32O 
+
+Explain the Fundamental Concepts, History, Ethics and Intelligent Agent Models in AI 
+
+Apply Uninformed and Informed Search Strategies to Solve Computational Problems Effectively 
+
+Construct Logical Representations and Perform Inference In First-Order Logic 
+
+CO1 
+
+CO2 
+
+CO3 
+
+ 
+ 
+ 
+ 
+ 
+CO4 
+
+CO5 
+
+Analyze Uncertain Environments Using Probabilistic Models 
+
+Implement  Machine  Learning,  NLP,  and  Computer  Vision  Techniques  for  Intelligent  System 
+Applications. 
+
+Course: Digital Signal Processing Laboratory                                                       Code: 22EC605PC/ C326  
+
+CO1 
+
+ Understand Basics of MATLAB syntax, functions and programming and find the generation Various Signals 
+and Sequences in MATLAB, including the operations on Signals and Sequences 
+
+CO2 
+
+ Explain the Convolution and Correlation between Signals and sequences, Verification of noise removal in a 
+signal 
+
+CO3 
+
+ Analyze the Fourier Transform of a given signal and plotting its magnitude and phase spectrum 
+
+CO4 
+
+ Remember for impulse response of finite and infinite 
+
+CO5 
+
+ Construct the multi rate signal processing and Identify Spectrograms and DTMF Filtering. 
+
+Course: CMOS VLSI Design Laboratory                                                                Code: 22EC606PC/ C327 
+
+CO1 
+
+ Illustrate HDL programs for combinational and sequential logics with simulations and synthesis 
+
+CO2 
+
+ Design and analyze NMOS and CMOS logic circuits. 
+
+CO3 
+
+ Design layouts for logic circuits and perform physical verification 
+
+Course : Advanced English Communication Skills Laboratory                          Code: 22EC606PC/ C328 
+
+CO1 
+
+ Develops confidence to use relevant vocabulary, using apt kinesics or body language in communication. 
+
+CO2 
+
+ Infer the meaning of the text easily through comprehension techniques like, skimming, scanning and effective 
+reading through proper vocabulary 
+
+CO3 
+
+ Analyze the writing skills through letters, reports and resume writing from the text and use for all professional 
+settings. 
+
+CO4 
+
+ Gather ideas, information and organize them relevantly in making presentations. 
+
+CO5 
+
+ Self assured to organize and deliver discussions, presentations and strategies to face the interviews effectively. 
+
+Course : Intellectual Property Rights                                                                     Code: 22MC609IP/ C329 
+
+Distinguish various forms of IPRs and explain them 
+
+CO1 
+
+CO2  Recognize criteria to fit one's own intellectual work in particular form of IPRs 
+
+Apply legal provisions to protect particular form of IPRs. 
+
+CO3 
+
+CO4  Evaluate new developments in IPR laws at national and international level 
+
+CO1 
+
+Course: Industry Oriented Mini Project/ Internship                                            Code: 22EC607PC/ C32A 
+ Apply  mathematical,  scientific,  and  engineering  principles  to  analyze  and  solve  real  engineering  problems 
+effectively.  
+ Utilize  current  methodologies  in  various  Electronics  and  Communication  domains  and  propose  advanced, 
+innovative solutions to address pressing societal challenges 
+ Demonstrate proficiency in implementing advanced techniques both independently and collaboratively while 
+fostering a commitment to life-long learning and continuous adaptation to emerging technologies. 
+
+CO2 
+
+CO3 
+
+ 
+ 
+ 
+ 
+Department of Electronics & Communication Engineering  
+
+YEAR: IV 
+
+Course Outcomes (COs) for Academic Year: 2025-26 
+SEMESTER: II 
+
+REGULATION: R21 
+
+Course : Wireless Sensor Networks                                                                          Code: 22EC823PE/ C422 
+
+CO1 
+
+ Explain various architectures of wireless sensor networks. 
+
+CO2 
+
+ Articulate enabling technologies and challenges in wireless sensor networks. 
+
+CO3 
+
+ Determine the performance of various routing and MAC protocols. 
+
+CO4 
+
+ Categorizing various data gathering and data dissemination methods. 
+
+CO5 
+
+ Explain gateway concepts and communication between wireless sensor networks and internet. 
+
+Course : Introduction to Computer Networks                                                    Code: 22CS832OE/ C42O 
+
+CO1 
+
+ Explain Network Topologies and its Components used 
+
+CO2 
+
+ Illustrate and compare different type of Networks Communication models with different types of 
+communication types. 
+
+CO3 
+
+ Explain different layers and its functions, protocols used in those layers and its applications. 
+
+CO4 
+
+ Choose best routing algorithm for congestion free transmission. 
+
+CO5 
+
+ Illustrate how communication occurs between two systems. 
+
+Course : Machine learning                                                                                      Code: 22EC813PE/ C42O 
+
+CO1 
+
+ Understand fundamentals of artificial neural networks and supervised learning models. 
+
+CO2 
+
+ Analyze unsupervised learning and associative memory neural network techniques. 
+
+CO3 
+
+ Apply linear, probabilistic, and Bayesian models for regression and classification. 
+
+CO4 
+
+ Design and evaluate kernel-based and sparse learning methods for complex problems. 
+
+CO5 
+
+ Interpret graphical models for inference and decision-making applications. 
+
+Course : Project Stage-II                                                                                       Code: 22EC801PC/ C426 
+
+CO1 
+
+ Analyze, formulate, and implement a proposed methodology that finds a solution to the existing real-time 
+engineering problems 
+
+CO2 
+
+ Demonstrate effectively the engineering principles that solve Contemporary societal issues as an individual 
+and a team 
+
+CO3 
+
+ Validate the obtained results to promote life-long learning and sustainability 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Department of Electronics & Communication Engineering  
+
+Course Outcomes(COs) for Academic Year: 2025-26         
+
+YEAR:I 
+
+Course: Matrices and Calculus 
+
+SEMESTER:I 
+
+REGULATION: R25 
+
+    Code: 25MA101BS/C110 
+
+ Write the matrix representation of a set of linear equations and to analyse the solution of the 
+system of equations 
+ Find  the  Eigen  values  and  Eigenvectors  and  reduce  the  quadratic  form  to  canonical  form  using 
+orthogonal transformations. 
+ Solve the applications of the mean value theorems. 
+
+ Find the extreme values of functions of two variables with/without constraints. 
+
+ Evaluate the multiple integrals and apply the concept to find areas, volumes. 
+
+CO1 
+
+CO2 
+
+CO3 
+
+CO4 
+
+CO5 
+
+Course: Advanced Engineering Physics              
+
+       Code: 25PH102BS/ C111 
+
+CO1 
+
+CO2 
+
+CO3 
+
+CO4 
+
+CO5 
+
+Analyze  crystal  structures,  identify  defects,  and  apply  XRD  and  SEM  techniques  for  material 
+characterization. 
+Apply  quantum  mechanical  principles  to  explain  particle  behavior  and  energy  band  formation  in 
+solids. 
+Classify dielectric and magnetic materials and explain their properties, synthesis, and applications. 
+
+Explain  the  principles  of  lasers  and  fiber  optics  and  their  applications  in  communication  and 
+sensing. 
+Understand  quantum  computing  concepts,  Classical  bits  and  qubits,  Single  and  multiple  qubits  and 
+quantum gates. 
+
+Course: Engineering Drawing and Computer Aided Drafting 
+
+         Code: 25ME103ES/ C112 
+
+ Understand and apply the principles of orthographic and isometric projections.  
+
+ Create sectional views and dimensioned drawings using BIS standards. 
+
+ Use CAD software to generate 2D engineering drawings. 
+
+Visualize and construct solid models from 2D views. 
+
+ Interpret and produce engineering drawings of mechanical components and assemblies. 
+
+ Demonstrate drafting skills for practical and industrial applications. 
+
+CO1 
+
+CO2 
+
+CO3 
+
+CO4 
+
+CO5 
+
+CO6 
+
+Course: English for Skill Enhancement 
+
+           Code: 25EN103HS/ C113 
+
+Demonstrate effective English communication skills by using appropriate vocabulary.  
+
+CO1 
+
+CO2 
+
+CO3 
+
+CO4 
+
+CO5 
+
+Strengthen proficiency in English by applying correct grammar in writing and speaking. 
+
+Build comprehension skills to understand texts and respond confidently in Academic and Social contexts. 
+
+Organize ideas logically in writing paragraphs and essays, using connectives. 
+
+Prepare clear and organized technical reports suitable for various contexts. 
+
+ 
+ 
+ 
+ 
+ 
+Course: Introduction to Electrical Engineering 
+
+     Code: 25EC104ES/ C114 
+
+ Understand and analyze basic DC Electrical circuits. 
+
+ Formulate and predict the basic AC circuits. 
+
+ Study the working principle of Transformers. 
+
+ Study and understand the working of Electrical Machines. 
+
+ Introduce components of Low Voltage Electrical Installations. 
+
+CO1 
+
+CO2 
+
+CO3 
+
+CO4 
+
+CO5 
+
+Course : Programming for Problem Solving 
+
+        Code: 25CS105ES/ C115 
+
+CO1 
+
+CO2 
+
+CO3 
+
+CO4 
+
+CO5 
+
+Understand the basics of C language to write and analyze simple programs. 
+
+Apply  top-down  design  principles  using  functions  and  pointers  to  develop  modular  and  reusable  C 
+programs 
+Utilize arrays and strings effectively in C programming for data storage. 
+
+Implement recursive solutions and work with user-defined data types for complex data management. 
+
+Understand  file  operations  and  apply  fundamental  searching  and  sorting  algorithms  to  process  data 
+efficiently. 
+
+Course: Advanced Engineering Physics Lab 
+
+     Code: 25PH106BS/ C116 
+
+Demonstrate working knowledge of laser systems and determine their characteristics. 
+
+Demonstrate working knowledge of optical fiber parameters through experimental study. 
+
+Determine  key  electrical,  magnetic,  and  optical  properties  of  semiconductors  and  other  functional 
+materials. 
+Characterize semiconductors using Hall effect and energy gap measurement techniques. 
+
+Apply scientific methods for accurate data collection, analysis, and technical report writing. 
+
+CO1 
+
+CO2 
+
+CO3 
+
+CO4 
+
+CO5 
+
+Course: Programming for Problem Solving Lab 
+
+           Code: 25CS107ES/C117 
+
+Demonstrate understanding and application of fundamental C programming constructs. 
+
+Develop, trace, and analyze C programs using control structures. 
+
+Decompose complex problems into modular solutions using functions. 
+
+Implement string manipulation and file handling techniques. 
+
+Apply and evaluate searching and sorting algorithms. 
+
+CO1 
+
+CO2 
+
+CO3 
+
+CO4 
+
+CO5 
+
+Course: English Language and Communication Skills Lab 
+
+       Code: 25EN108HS/ C118 
+
+Apply correct pronunciation to communicate well in personal and professional contexts. 
+
+CO1 
+
+CO2 
+
+CO3 
+
+CO4 
+
+CO5 
+
+Create opportunities to speak English for developing a clear and consistent accent  
+
+Identify and correct pronunciation errors to reduce mother tongue influence.  
+
+Demonstrate public speaking skills with clarity and confidence 
+
+Develop comprehension and use appropriate language for discussions and interviews.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+Department of Electronics & Communication Engineering  
+
+YEAR:II 
+
+Course Outcomes (COs) for Academic Year: 2025-26                            
+         REGULATION: R22 
+
+    SEMESTER:I 
+
+Course : Analog Circuits 
+
+Code: 22EC301PC/C210 
+
+CO1  Analyze the biasing techniques of transistors 
+
+CO2  Extract the equivalent models of transistors 
+
+CO3  Design multistage amplifiers and understand the concepts of Frequency Analysis of transistors 
+
+CO4  Explain the effect of negative feedback on various amplifier parameters. 
+
+CO5  Analyze oscillator circuits to generate audio and radio frequency signals. 
+
+Course : Network analysis and Synthesis 
+
+Code:22EC302PC/C211 
+
+CO1  Understand behavior of Electric & Magnetic Networks 
+
+CO2  Analyze the transient and steady-state responses of the RL, RC and RLC circuits 
+
+CO3  Examine various two port network parameters and its characteristics 
+
+CO4  Construct various filter networks and attenuators 
+
+C05 
+
+Inspect transfer functions of passive elements for network synthesis 
+
+Course: Digital Logic Design 
+
+Code:22EC303PC/ C212 
+
+CO1  Understand number systems and Boolean functions for digital logic. 
+
+CO2 
+
+Illustrate  the minimization of boolean functions and realization  of logic families 
+
+CO3  Design various Combinational  and Sequential logic Circuits 
+
+CO4  Build different type of Memories and State Machines. 
+
+CO5  Examine different types of Finite State Machines. 
+
+Course: Signals and Systems 
+
+Code:22EC304PC/ C213 
+
+CO1 
+
+Interpret any signal in terms of complete set of orthogonal functions and the types of signals 
+
+CO2  Analyze the Fourier spectrum using Fourier series and Fourier transforms 
+
+CO3  Examine an LTI system and its filter characteristics of a system. 
+
+CO4  Analyze Laplace Transforms and Z-Transforms 
+
+CO5  Explain the Sampling theorem and Correlation functions 
+
+Course: Probability Theory and Stochastic Processes 
+
+Code:22EC305PC/ C214 
+
+CO1  Understand the knowledge of Probability theory and random variables. 
+
+ 
+ 
+ 
+ 
+ 
+CO2 
+
+CO3 
+
+Illustrate the concepts of single & multiple Random Variables.  
+
+Identify the concepts of Random Process and its Characteristics. 
+
+CO4  Analyze the various Spectral characteristics of Random Signals. 
+
+CO5  Evaluate the concepts of Noise in Communication systems. 
+
+Course: Analog Circuits Laboratory 
+
+Code:22EC306PC/ C215 
+
+CO1  Determine the Q point on the DC load line and stability factor for various biasing techniques of 
+
+BJT 
+Analyze the Characteristics and Frequency response of various amplifiers 
+
+CO2 
+
+CO3  Analyze and Design negative Feedback amplifiers and Oscillators. 
+
+Course: Digital logic Design Laboratory 
+
+Code:22EC307PC/ C216 
+
+CO1  Realize and implementation of Boolean functions using digital logic IC’s 
+
+CO2 
+
+Implementation of different combinational logic circuits using IC’s 
+
+CO3  Realize and implementation of Asynchronous and Synchronous counters using Flip-Flop IC’s 
+
+Course: Basic Simulation Laboratory 
+
+Code:22EC308PC/ C217 
+
+CO1  Simulate operations on various types of signals and sequences 
+
+CO2  Analyze signal characteristics in frequency domain and frequency response of an LTI system using Fourier 
+
+transform 
+
+CO3 
+
+Inspect the stability of an LTI system using Laplace, Z-transforms and Determine convolution and correlation 
+between signals and sequences 
+
+Course: Constitution of India 
+
+Code:22MC309CI/ C218 
+
+CO1  Understand the concept of Indian Constitution 
+
+CO2  Outline the fundamental rights and Fundamental Duties  
+
+CO3  Analyze the Directive Principles of State Policy 
+
+CO4  Analyze the distribution of powers between of Union and States 
+
+CO5  Know the Emergency Provision of Indian Constitution 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Department of Electronics & Communication Engineering  
+
+Course Outcomes (COs) for Academic Year: 2025-26                     
+
+YEAR: III 
+
+SEMESTER: I     
+
+           REGULATION: R22 
+
+Course: Microcontrollers and Applications    
+
+              Code: 22EC501PC/ C310 
+
+CO1  Discuss the internal architecture of 8086 microprocessor and 8051 Microcontroller. 
+
+CO2 
+
+Illustrate how to implement the I/O devices and memory interfaces to 8051 for various applications. 
+
+CO3  Explain various communication bus interfaces of microcontrollers. 
+
+CO4  Describe the Architecture and Instruction set of ARM Processor. 
+
+CO5  Examine the Architectures of Advanced ARM Processors. 
+
+Course: IoT Architectures and Protocols 
+
+                Code: 22EC502PC/ C311 
+
+CO1 
+
+CO2 
+
+CO3 
+
+CO4 
+
+CO5 
+
+ Describe IoT fundamentals, evolution, growth, and applications. 
+
+ Compare M2M and IoT architectures and value chains. 
+
+ Identify and explain IoT data link and network layer protocols. 
+
+ Use transport and session layer protocols in IoT communication. 
+
+ Summarize service layer protocols and security mechanisms in IoT. 
+
+Course: Control Systems                                                           
+
+                 Code: 22EC503PC/ C312 
+
+CO1 
+
+CO2 
+
+CO3 
+
+CO4 
+
+CO5 
+
+ Examine the mathematical model of physical systems 
+
+ Estimate the system response & stability in Time domain 
+
+ Analyze the system response & stability in Frequency domain 
+
+ Design different types of controllers and compensators 
+
+ Analyze linear time systems using state space representation 
+
+Course: Antennas and Wave Propagation 
+
+                Code: 22EC504PC/ C313 
+
+CO1  Examine the fundamentals of antennas and thin linear wire antennas. 
+
+CO2 
+
+Investigate various types of antenna arrays for directivity and gain. 
+
+CO3  Explain the different methods to measure antenna gain. 
+
+CO4  Characterize various VHF, UHF and Microwave Antennas. 
+
+CO5  Distinguish various methods of wave propagation with related parameters. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Course: Data Communications &Networks 
+
+                  Code: 22EC512PE/ C314 
+
+CO1  Discuss the basics of Data Communication with its standard reference models. 
+
+CO2  Examine Error Control and Access control methods in Data Link Layer. 
+
+CO3 
+
+CO4 
+
+Inspect routing and addressing mechanisms in Network Layer. 
+
+ Distinguish various types of Transport Layer Protocols. 
+
+CO5  Explain the functions of various Application Layer Protocols. 
+
+Course: Microcontrollers Laboratory  
+
+                 Code: 22EC505PC/ C317 
+
+Develop and execute 8086 and 8051 programs to perform various operations. 
+
+Design, interface, and program I/O devices. 
+
+Build and evaluate embedded applications on Cortex-M3 development boards 
+
+CO1 
+
+CO2 
+
+CO3 
+
+Course: IoT Architectures and Protocols Laboratory 
+
+                  Code: 22EC506PC/ C318 
+
+CO1 
+
+CO2 
+
+Interface various sensors with microcontrollers for data acquisition and transmission. 
+
+Implement IoT communication protocols and demonstrate remote control using cloud integration. 
+
+CO3  Design IoT-based systems and communication protocols. 
+
+Course: Advanced Communication Laboratory 
+
+                Code: 22EC507PC/ C319 
+
+CO1  Proficiently utilize test and measurement equipment to characterize and analyze signals, antennas, and 
+
+communication systems. 
+
+CO2  Design, implement, and analyze digital modulation and multiplexing techniques using software tools. 
+
+CO3  Develop and implement embedded systems for sensor data acquisition and wireless communication using 
+
+UART and RIME protocols on an ICONT platform, demonstrating an understanding of sensor network 
+principles. 
+
+ 
+ 
+ 
+ 
+Department of Electronics & Communication Engineering  
+
+YEAR: IV 
+
+Course Outcomes (COs) for Academic Year: 2025-26                     
+REGULATION: R22 
+
+SEMESTER: I 
+
+Course: Microwave and Optical Communications 
+
+             Code: 22EC701PC/C410 
+
+CO1  Compare O and M microwave tubes, their structures and principles of microwave power generation 
+
+CO2  Explain the principles of solid-state devices 
+
+CO3 
+
+Identify the waveguide components 
+
+CO4 
+
+               Analyse the microwave components by scattering parameters and verify it by measurements. 
+
+CO5  Classify optical fibers on basis of core and cladding and analyse the link budget. 
+
+Course: Radar Systems             
+
+               Code: 22EC711PE/ C411 
+
+CO1  Discuss the Radar fundamentals with its Range performance. 
+
+CO2  Examine the Doppler effect in CW and FM-CW Radars. 
+
+CO3  Analyze the Performance of MTI and Pulse Doppler Radars. 
+
+CO4  Distinguish various types of Tracking Radars. 
+
+CO5 
+
+Inspect the noise of Matched Filter in Radar receiver. 
+
+Course: Biomedical Instrumentation 
+
+                                                                Code: 22EC723PE/ C414 
+
+CO1  Make use of bio-systems and medical systems for an engineering perspective 
+
+Identify various techniques/Instruments for measuring physiological parameters 
+
+Apply the Categorize different EEG electrodes and their applications 
+
+CO2 
+
+CO3 
+
+CO4  Explain about various critical care equipment 
+
+CO5  Elaborate principles of medical imaging such as MRI,SPECT,PET,CT 
+
+Course: AI & Applications 
+
+            Code: 22AM722OE/ C41O 
+
+CO1  Correlate AI and solutions to modern problems 
+
+CO2  Use of AI in business applications 
+
+CO3  Application of AI in manufacturing automation 
+
+CO4  Use of AI in streaming of data and Network applications 
+
+ 
+ 
+ 
+ 
+ 
+Course : Professional Practice, Law &Ethics 
+
+           Code: 22SM702MS/ C417 
+
+CO1  Understand Professional Ethics & Personal Ethics, code of Ethics, Conflict of Interest. Will able to learn 
+
+the concept of professionalism, Whistle blowing and the brief introduction of GST 
+
+CO2 
+
+CO3 
+
+Identify various techniques/Instruments for measuring physiological parameters. Recognize the element of 
+contract, unlawful and illegal agreement. Will analyze the remedies for breach of contract, sale of goods act 
+1930 and performance of contract of sales 
+
+Illustrate Arbitration, Conciliation and ADR different forms of laws and the dispute resolution board.; 
+Distinction between conciliation, negotiation, mediation and arbitration, confidentiality 
+
+CO4  Enumerate the concept of labor laws and other construction related laws and other different types of ACT 
+
+(1946, 1947, 1923) and also); RERA Act 2017, NBC 2017 
+
+CO5  Understand IPR Copyright, Trademarks, Patents and Designs, Secrets, Piracy in Internet Remedies and 
+
+procedures in India 
+
+Course : Microwave and Optical Communications Lab 
+
+              Code: 22EC705PC/ C418 
+
+CO1 
+
+Identify and demonstrate the working of various microwave and optical components 
+
+CO2  Analyze Microwave Passive Devices by conducting experiments and measuring various parameters 
+
+CO3  Analyze the characteristics of Optical semiconductor Sources like LED, LASER Diode, by conducting 
+
+experiments and measuring various  parameters 
+
+Course : Project Stage-I 
+
+                Code: 22EC706PC/ C41B 
+
+CO1  Formulate and apply mathematical, science, and engineering principles to solve real-time engineering 
+
+problems 
+
+CO2 
+
+Implement the existing technique in domains of VLSI, Image & Signal Processing, Communication, and 
+Embedded system using modern tools and technology 
+
+CO3  Structure future work to promote life-long learning in the context of technological adaptation 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

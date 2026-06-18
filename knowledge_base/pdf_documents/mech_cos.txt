@@ -1,0 +1,697 @@
+SCHOOL OF ENGINEERING
+DEPARTMENT OF MECHANICAL ENGINEERING
+ACADEMIC YEAR: 2019-20
+
+YEAR: II                                                                   SEMESTER: I                                                     REGULATION: R18
+
+Subject Name: Probability and Statistics &complex variables                               SubjectCode:MA153BP
+
+At the end of the Course, Students will be able to
+CO1 Distinguish between discrete and continuous probability Distributions
+
+CO2
+
+Solve problems involving random variablesAnalyze and interpret statistical data using 
+appropriate probability distributions.
+
+CO3 Apply suitable test to accept or reject a given hypothesis for small and large sampels
+
+CO4
+
+CO5
+
+Analyze complex functions with reference to theiranalyticity using Cauchy’s Riemann 
+equations
+Find the Taylors and Laurent’s series expansion of complex functions, integrating using 
+Cauchy’s integral and residue theorems
+
+Subject Name: Mechanics of Solids                                                                                   SubjectCode:ME302PC
+
+At the end of the Course, students will be able to
+CO1 Determine stresses, strains, elastic constants of solid bodies under various types of loads.
+CO1 Determine stresses, strains, elastic constants of solid bodies under various types of loads.
+
+CO2
+
+CO3
+
+Construct SFD&BMD in various loaded beams and also obtain relation S.F,B.M and rate of
+loading
+Derive the bending equation and also determine the flexural and shear stresses for various
+sections. 
+
+CO4 Explain the theories of failures and analyze the compatibility of various design parameters. 
+CO5 Solve the problems related to torsion of shafts and thin cylinders
+
+Subject Name: Metallurgy and Material Science                                                         SubjectCode:ME303PC
+
+At the end of the Course, students will be able to
+CO1 Illustrate crystallization of metals and constitution of alloys
+CO2 Construct the equilibrium diagrams to describe the different phases of metals and alloys
+CO3 Understand different heat treatment processes 
+
+CO4
+
+Explain different
+applications
+
+types of cast
+
+irons, steels, non-ferrous metals and alloys with their
+
+CO5 Illustrate ceramics, polymers and composites
+
+Subject Name: Production Technology                                                                            SubjectCode:ME304PC
+
+At the end of the Course, students will be able to
+CO1 Explain the various types of castings.
+CO2 Discuss the different weld joints and welding processes. 
+
+CO3
+
+Explain advanced welding processes like Inert gas, laser welding process, Brazing and
+Soldering process and their defects.
+
+CO4 Distinguish Hot and Cold working of metals in Rolling, Extrusion and Forging operations.
+CO5 Describe the operations of coining, embossing, spinning and different sheet metal operations.
+
+Subject Name: Thermodynamics                                                                                         SubjectCode:ME305PC
+At the end of the Course, students will be able to
+CO1 Describe the basics of thermodynamics along with temperature concept
+CO2 Discuss the significance of thermodynamics laws with applications
+CO3 Explain the Properties of pure substances and behavior perfect gas
+CO4 Describe the behavior of real gases, gas mixtures and Psychrometric processes
+CO5 Analyze the performance of Air standard, Gas, Vapor power and refrigeration cycles
+
+Subject Name: Production Technology Lab                                                                     SubjectCode:ME306PC
+
+At the end of the Course, students will be able to
+
+CO1
+
+Produce different casting models using sand casting and  prepare patterns considering  
+allowances using wood working lathe.
+
+CO2 Practice Arc, Spot and Plasma welding techniques.
+CO3 Use TIG welding process to produce different joints.
+CO4 Use different sheet metal operations using different press dies.
+CO4
+CO5 Produce plastic components using injection & blow molding machines.
+CO5 Produce plastic components using injection & blow molding machines.
+
+Subject Name: Machine Drawing Practice Lab                                                               SubjectCode:ME307PC
+
+At the end of the Course, students will be able to
+CO1 Understand the representation of different material conventions used in machine drawing.
+CO2 Draw the machine elements like keys, couplings, cotters, riveted, bolted and Welded joints.
+CO3 Construct an assembly drawing using part drawings of machine components. 
+CO4 Sketch the orthographic views of assembly drawings.
+CO5 Understand the representation of different material conventions used in machine drawing.
+
+Subject Name: Material science and Mechanics of  Solids Lab                               SubjectCode:ME308PC
+
+At the end of the Course, students will be able to
+
+CO1
+
+CO2
+
+Compare crystal models of simple cubic, BCC, FCC and HCP and Prepare the specimen
+using rough grinding, finish grinding and polishing.
+Use different
+Understand the procedure to improve hardness.
+
+types of etchants to expose the microstructure of metal and alloys and
+
+CO3 Find the hardness of various heat treated and untreated carbon steels.
+
+CO4
+
+Determine the properties of materials like Young’s modulus , shear modulus, hardness
+number and impact strength of metals by Izod and Charpy test
+
+CO5 Conduct the experiment on UTM to find tensile and compressive strength of given specimen.
+
+YEAR: II                                                                   SEMESTER: II                                                     REGULATION: R18
+
+Subject Name: Kinematics of Machinery                                                                         SubjectCode:ME402PC
+
+At the end of the Course, students will be able to
+CO1 Explain various types of links, mechanisms and its inversions 
+CO2 Find the velocity and acceleration of links in various mechanisms.
+CO3 Describe  various  straight line motion, steering gear mechanisms and hook’s joint  
+
+CO4
+
+Compute the maximum velocity and acceleration during outward and return stroke during
+different types of follower motion in cams.
+
+CO5 Explain the different types of gears, gear trains and their applications.
+
+Subject Name: Thermal Engineering - I                                                                             SubjectCode:ME403PC
+
+At the end of the Course, students will be able to
+CO1 Classify the IC Engines and explain various systems in it.
+CO2 Analyze the combustion process in both SI &CI engines.
+CO3 Find the various performance parameters of IC Engines and compressors
+CO4  Distinguish various types of compressors and discuss their working principles. 
+CO5 Evaluate the performance of Gas turbine cycles along with applications
+
+Subject Name: Fluid Mechanics and Hydraulic Machines                                         SubjectCode:ME404PC
+
+At the end of the Course, students will be able to
+CO1 Explain  various fluid properties and pressure measuring devices
+CO2 Identify type of fluid flow patterns and describe continuity equation
+
+CO3
+
+CO4
+
+Demonstrate the boundary layer concept and analyze a variety of practical fluid flows and 
+measuring devices
+measuring devices
+Explain turbo machinery, hydraulic turbines and estimate the performance characteristic 
+curves of hydraulic turbines
+
+CO5 Determine the performance characteristics of  centrifugal and reciprocating pumps
+
+Subject Name: Instrumentation and Control system                                                  SubjectCode:ME405PC
+
+At the end of the Course, students will be able to
+CO1 Describe the various   elements of generalized measurement system. 
+
+CO2
+
+CO3
+
+Describe the Working principle of various devices for the measurement of temperature,
+Displacement and pressure.
+Illustrate the working of level indicator devices, speed measurement devices, vibrometer,
+accelerometer pick-ups and flow measurement Devices.
+
+CO4 Explain the working of electrical strain, resistant and dew point meters. .
+CO5 Describe the open and closed servo mechanisms control systems
+
+Subject Name: Basic Electrical and Electronics Engineering                                    SubjectCode:EE401ES
+
+At the end of the Course, students will be able to
+CO1 Able to Recall fundamentals of electrical circuits and outline measuring instruments
+CO2 Able to Discuss DC generators and types of DC motors
+CO3 Able to Explain the working of transformers and AC machines
+CO4 Able to Analyze characteristics of diodes rectifiers and transistors
+CO5 Able to Explain construction of cathode ray oscilloscope
+
+Subject Name: Instrumentation and Control system Lab                                         SubjectCode:ME307PC
+
+At the end of the Course, students will be able to
+CO1 Calibration of instruments like pressure gauge and strain gauge
+CO2 Calibration of instruments like micro meter and tacho meter
+CO3 Demonstrate the use of seismic pick up to study mechanical vibrations.
+
+Subject Name: Fluid Mechanics and Hydraulic Machines Lab                                 SubjectCode:ME308PC
+
+At the end of the Course, students will be able to
+CO1 Estimate the performance parameters of hydraulic turbines
+
+CO2
+
+Analyze the performance of  centrifugal pumps and reciprocating pumps by drawing its 
+performance curves
+
+CO3 Calculate the co-efficient of discharge for venturimeter and orifice meter
+CO4 Estimate major and minor losses in a pipe flow
+
+CO5
+
+Apply momentum equation to determine impact of jet on vanes and demonstrate the 
+Bernoulli’s theorem 
+
+Subject Name: Basic Electrical and Electronics Engineering Lab                              SubjectCode:EE409ES
+Subject Name: Basic Electrical and Electronics Engineering Lab                              SubjectCode:EE409ES
+
+At the end of the Course, students will be able to
+CO1 Able to analyze and solve electrical circuits using network laws and theorems
+CO2 Able to understand and analyze basic Electric and Magnetic circuits.
+CO3 Able to study the working principles of Electrical Machines
+CO4 Able to understand components of Low Voltage Electrical Installations
+CO5 Able to identify and characterize diodes and various types of transistors
+
+YEAR: III                                                                   SEMESTER: I                                                     REGULATION: R16
+
+Subject Name: Design of Machine Members-I                                                              SubjectCode:ME501PC
+
+At the end of the Course, students will be able to
+
+CO1
+
+Describe theories of failures in design considerations, importance of
+machine elements
+
+fatigue loading in
+
+CO2 Design of fasteners, rivets, welded joints
+CO3  Design  keys, cotters, knuckle joints
+CO4 Design shaft for complex loading condition
+CO5 Analyze and design helical compression and tension springs for static, dynamic and fatigue 
+
+Subject Name: Thermal Engineering-I                                                                              SubjectCode:ME502PC
+
+At the end of the Course, students will be able to
+CO1 Classify the IC Engines and explain various systems in it.
+CO2 Analyze the combustion process in both SI &CI engines.
+CO3 Find the various performance parameters of IC Engines and compressors
+CO4  Distinguish various types of compressors and discuss their working principles. 
+
+CO5
+
+Evaluate the performance of various types of refrigeration cycles and Explain the basics of air 
+conditioning.
+
+Subject Name: Metrology and Machine Tools                                                               SubjectCode:ME503PC
+
+At the end of the Course, students will be able to
+CO1 Understand the principle of material removing process and geometry of cutting tools
+CO2 Understand working of lathe, drilling, boring, shaping, slotting, planing and milling machines
+CO3 Understand the various surface finishing machines and the different operations performed  
+CO3 Understand the various surface finishing machines and the different operations performed  
+
+CO4
+
+CO5
+
+Explain the basic concepts of Limits, Fits and tolerances and describe different standards of
+measuring instruments
+Identify methods and devices for measurement of length, angle, gear, & thread parameters,
+surface roughness and geometric features of parts
+
+Subject Name: Renewable energy sources                                                                     SubjectCode:ME853EE
+
+At the end of the Course, students will be able to
+CO1 Describe the principles of solar radiation and its measuring instruments
+CO2 Illustrate the types of solar energy collectors, storage methods and applications.
+
+CO3
+
+Explain sources and Conversion Principles of Wind, Bio mass and Geothermal Energy
+sources.
+
+CO4 Explain Ocean, Tidal and Wave Energy Sources with their Conversion principles.
+CO5 Summarize various direct energy conversion technologies 
+
+Subject Name: Fundamentals of Management                                                           SubjectCode:SM504MS
+
+At the end of the Course, students will be able to
+CO1 Understand the significance of Management in their profession.
+CO2 Explore the management practices in their domain area.  
+
+CO3
+
+Describe the various management functions like planning, organizing, staffing, leading,
+motivation and control aspects are learnt.
+
+Subject Name: Thermal Engineering Lab                                                                         SubjectCode:ME505PC
+
+At the end of the Course, students will be able to
+CO1 Estimate the performance and draw the characteristic curves for diesel and petrol engines
+CO2 Demonstrate the heat balance sheet by conducting experiments on petrol and diesel engines
+CO3 Study the working principle of water and fire tube boilers
+CO4 Determine the isothermal and volumetric efficiencies of reciprocating compressor
+CO5 Draw the valve and port timing diagrams for two stroke and four stroke IC engines. 
+
+Subject Name: Machine Tools Lab                                                                                    SubjectCode:ME506PC
+
+At the end of the Course, students will be able to
+
+CO1
+
+Use lathe machine to perform step turning,
+operations for the given specimen.
+
+taper turning,
+
+thread cutting and knurling
+
+CO2 Understand and perform the various operations on driling, milling,grinding machines
+CO3 Understand and perform the various operations on slotting, planning.
+
+Subject Name: Engineering Metrology Lab                                                                     SubjectCode:ME507PC
+
+At the end of the Course, students will be able to
+CO1 Measure length, height, gear thickness, diameters using vernier gauges and micrometers.
+CO2 Measure angles using bevel protractor and sine bar.
+CO3 Use different methods for the measurement of screw thread.
+
+YEAR: III                                                                   SEMESTER: II                                                     REGULATION: R16
+
+Subject Name: Thermal Engineering-II                                                                            SubjectCode:ME601PC
+
+At the end of the Course, students will be able to
+
+CO1
+
+CO2
+
+CO3
+
+Describe the steam power cycle with P-V, T-S diagrams and state various methods to
+improve cycle efficiency.
+Distinguish Fire tube and water tube boilers and Describe the steam flow through nozzle
+thermodynamically
+Explain the working principle steam turbines and compute the work done and efficiency of
+these turbines by using velocity triangles 
+
+CO4 Discuss various types of gas turbine cycles
+CO5 Classify  the  jet engines and  explain working principles of rocket engines
+
+Subject Name: Design of Machine Members-II                                                            SubjectCode:ME602PC
+
+At the end of the Course, students will be able to
+CO1 Design  journal, ball and roller bearings under static and dynamic loadings
+CO2 Design   IC engine elements for maximum strength
+CO3 Design power transmission elements like belt drive, rope drive and chain drives.
+
+CO4
+
+Design and analyze spur, helical, bevel and worm gears with respect different loading
+conditions.
+
+CO5 Design power screws for possible failure modes.
+
+Subject Name: Heat Transfer                                                                                              SubjectCode:ME603PC
+
+At the end of the Course, students will be able to
+At the end of the Course, students will be able to
+CO1 Describe various modes of heat transfer and derive governing equations for conduction  
+CO2 Solve problems on 1D steady and transient state heat conduction
+
+CO3
+
+CO4
+
+Compute heat transfer coefficients for natural convection and forced convection in external
+and internal flows.
+Discuss heat transfer with phase change and Calculate radiation heat transfer in space
+between black and grey bodies.
+
+CO5 Understand the heat exchangers performance by LMTD and NTU methods.
+
+Subject Name: Machine Tool Design                                                                                SubjectCode:ME613PE
+
+At the end of the Course, students will be able to
+
+CO1
+
+CO2
+
+CO3
+
+CO4
+
+CO5
+
+Understand the basics of machine tool motions and kinematic mechanisms of various
+machines.  
+Describe the feed and speed for different types of machines and design the gear box for
+various applications.
+Describe the basic requirements of machine tool structure, design principles and their
+functions. 
+Understand the concepts of design of guideways, power screw and splines and its functions in
+Machine tool.
+Calculate the various tests involved in the machine tool to analyse the static and dynamic
+vibrations.
+
+Subject Name: Entrepreneurship and Small Business Enterprises                        SubjectCode:PE623OE
+
+At the end of the Course, students will be able to
+CO1 Understand the basic concepts of Entrepreneurship
+CO2 To illustrate the new venture creation
+CO3 Explain the management of MSMEs and Sick enterprises
+CO4 Explain the importance of Managing Marketing and Growth in Enterprises
+CO5 Discuss the Strategic perspectives in Entrepreneurship
+
+Subject Name: Heat Transfer Lab                                                                                       SubjectCode:ME604PC
+
+At the end of the Course, students will be able to
+
+CO1
+
+CO2
+
+Demonstrate steady and transient state conduction experiments to estimate thermal
+conductivity of different materials.
+Obtain temperature distribution along the length of the pin fin under forced and free
+convection.
+
+CO3 Determine Stefan Boltzmann constant and emissivity by radiation principles.
+
+CO4
+
+CO5
+
+Demonstrate the heat pipe applications and Calculate the critical heat flux by performing
+experiment
+Determine the effectiveness and overall heat transfer coefficient of parallel and counter flow
+heat exchanger. 
+
+Subject Name: CADD and MATLAB                                                                                     SubjectCode:ME605PC
+At the end of the Course, students will be able to
+CO1 Apply computer methods for solving a wide range of engineering problems. 
+
+CO2
+
+CO3
+
+Able to use computer engineering software to solve and present problem solutions in a
+Able to use computer engineering software to solve and present problem solutions in a
+technical format.  
+Able to utilize computer skills to enhance learning and performance in other engineering and
+science courses.
+
+CO4 Able to demonstrate professionalism in interactions   with Colleagues, faculty, and staff.
+
+Subject Name: Advanced Engineering Communication Skills Lab                        SubjectCode:EN606HS
+
+At the end of the Course, students will be able to
+
+CO1
+
+CO2
+
+CO3
+
+Develops confidence to use relevant vocabulary, using apt kinesics or body language in
+communication.
+Infer the meaning of the text easily through comprehension techniques like, skimming,
+scanning and effective reading through proper vocabulary.
+Exhibit the writing skills through letters, reports and resume writing from the text and use for
+all professional settings.
+
+CO4 Gather ideas, information and organize them relevantly in making presentations.
+
+CO5
+
+Self assured to organize and deliver discussions, presentations and strategies to face the
+interviews effectively.
+
+YEAR: IV                                                                   SEMESTER: I                                                     REGULATION: R16
+
+Subject Name: CAD/CAM                                                                                                      SubjectCode:ME701PC
+At the end of the Course, students will be able to
+CO1 Outline the significance of CAD/CAM in present days.
+
+CO2
+
+Apply the concept of geometric modeling, surface modeling and solid modeling to create
+different models.
+
+CO3 Develop NC and CNC programming codes for different machining operations.
+
+CO4
+
+Describe the concept of group technology, computer aided process planning, manufacturing
+resources planning and ERP. 
+
+CO5 Explain the concept of FMS, computer aided quality control and CIM.
+
+Subject Name: Instrumentation and Control System                                                 SubjectCode:ME702PC
+
+At the end of the Course, students will be able to
+
+CO1
+
+CO2
+
+CO3
+
+Develops confidence to use relevant vocabulary, using apt kinesics or body language in
+communication.
+Infer the meaning of the text easily through comprehension techniques like, skimming,
+scanning and effective reading through proper vocabulary.
+Exhibit the writing skills through letters, reports and resume writing from the text and use for
+all professional settings.
+
+CO4 Gather ideas, information and organize them relevantly in making presentations.
+
+CO5
+
+Self assured to organize and deliver discussions, presentations and strategies to face the
+interviews effectively.
+
+Subject Name: CAD/CAM Lab                                                                                               SubjectCode:ME703PC
+At the end of the Course, students will be able to
+CO1 Develop 2D and 3D models using AutoCAD, Pro-E Softwares.
+CO2 Solve the structural and heat transfer problems using Ansys software.
+CO3 Produce mechanical components on CNC machine.
+CO4 Explain CNC part programs to perform various machining operations.
+
+CO5
+
+Make use of CAM software to develop different process sheets and tool management system.
+
+Subject Name: Instrumentation and Control system Lab                                          SubjectCode:ME704PC
+
+At the end of the Course, students will be able to
+CO1 Calibration of instruments like pressure gauge and strain gauge
+CO2 Calibration of instruments like micro meter and tacho meter
+CO3 Demonstrate the use of seismic pick up to study mechanical vibrations.
+
+Subject Name: Industry oriented mini project                                                            SubjectCode:ME705PC
+
+At the end of the Course, students will be able to
+
+CO1
+
+Adopt the skills to communicate effectively and to present ideas clearly and
+coherently to specific audience
+
+CO2 learn on their own, reflect on their learning and take appropriate actions to improve it
+CO3 Build skills through working in a team to achieve common goals
+
+Subject Name: Seminar                                                                                                          SubjectCode:ME706PC
+At the end of the Course, students will be able to
+CO1 Find the relevant topics related to Mechanical Engineering
+CO2 Evaluate the topics in a planned manner
+CO3 Utilize technical resources
+
+Subject Name: Operation Research                                                                                   SubjectCode:ME724PE
+
+At the end of the Course, students will be able to
+
+CO1
+
+CO2
+
+CO3
+
+CO4
+
+CO5
+
+Understand the evolution and applications of Operations Research in various fields.
+Mathematically formulate a real-world problem as linear programming problems and solve
+those using different techniques to get an optimal solution.
+Solve transportation problems to minimize cost or maximize profit and understand the
+Principles of assignment of jobs and find optimal assignment.
+Solve problems of sequencing to get minimum idle as well as total elapsed time. Evaluate the
+best timings for Individual and Group replacement.
+Use Game theory to identify the optimal strategies for players. Analyze the inventory and
+apply them in domain specific situations.
+Model a dynamic system as a queuing model and compute important performance measures.
+Understand how to model and solve problems using dynamic programming. Use simulation
+techniques to solve queuing and inventory problems.
+
+Subject Name: Robotics                                                                                                         SubjectCode:ME733PE
+At the end of the Course, students will be able to
+At the end of the Course, students will be able to
+CO1 Identify the components of industrial robot and describe their functions.
+CO2 Analyze different types of transformations in robot motion.
+CO3 Solve the basic problems on  forward, inverse kinematics and  dynamics of robot.
+CO4 Explain trajectory planning, actuators and  feedback components of robot.
+
+CO5
+
+Describe the applications of robot
+inspection.
+
+in manufacturing, material handling, assembly and
+
+Subject Name: Advanced Manufacturing Technology                                               SubjectCode:ME744PE
+
+At the end of the Course, students will be able to
+CO1 Describe various CAD issues for 3D printing and rapid prototyping and related
+CO2 Operations for STL model manipulation.
+
+CO3
+
+CO4
+
+CO5
+
+Formulate and solve typical problems on reverse engineering for surface reconstruction from
+physical prototype models through digitizing and spline-based surface fitting.
+Formulate and solve typical problems on reverse engineering for surface reconstruction from
+digitized mesh models through topological modelling and subdivision surface fitting.
+Explain and summarize the principles and key characteristics of additive manufacturing
+technologies and commonly used 3D printing and additive manufacturing systems.
+
+YEAR: IV                                                                   SEMESTER: II                                                     REGULATION: R16
+
+Subject Name: Production Planning and Control                                                         SubjectCode:ME854PE
+
+At the end of the Course, students will be able to
+CO1 Describe objectives, functions of PPC and various types of production.
+CO2 Understand the importance of forecasting techniques in  production problems
+
+CO3
+
+Explain the functions of inventory, selective inventory control techniques and inventory
+control systems.
+
+CO4 Solve problems of production scheduling using line balancing, aggregate planning.
+CO5 Understand the activities of dispatching, follow up and applications of computer in PPC.
+
+Subject Name: Unconventional Machining Process                                                   SubjectCode:ME863PE
+
+At the end of the Course, students will be able to
+CO1 Differentiate conventional and unconventional machining processes.
+CO2 Explain the constructional details and working of USM, AJM, WJM and AWJ, ECG, ECM. 
+Explain the constructional details, working of EDM, EDG and EDWC machining processes
+and calculate the machining time, metal removal rate.
+
+CO3
+
+CO4 Understand the working of EBM, LBM and Plasma arc cutting process.
+CO5 Compare various finishing processes in unconventional machining processes.
+
+Subject Name: Renewable Energy Sources                                                                    SubjectCode:MT831OE
+
+At the end of the Course, students will be able to
+CO1 Analyze the demand and resources of various energy systems
+CO1 Analyze the demand and resources of various energy systems
+
+CO2
+
+Illustrate the principles of solar radiation along with solar collectors, storage methods and
+applications.
+
+CO3 Explain sources and Conversion Principles of Wind energy and Bio mass
+CO4 Explain sources and Conversion Principles of hydel and geothermal energy 
+CO5 Describe Ocean, Tidal and Wave Energy Sources with their Conversion principles.
+
+Subject Name: Major Project                                                                                              SubjectCode:ME801PC
+
+At the end of the Course, students will be able to
+
+CO1
+
+CO2
+
+Students will acquire the skills to communicate effectively and to present ideas clearly in
+industry domain
+Apply the theoretical knowledge of courses to resolve the problems in exist systems or
+develop a new system
+
+CO3 Develop collaborative skills through working in a team to achieve common goals
+CO4 Build physical prototypes to execute technical concepts
+
+
