@@ -34,14 +34,14 @@ def load_knowledge_base():
         if qa_file.exists():
             with open(qa_file, 'r', encoding='utf-8') as f:
                 KNOWLEDGE_BASE['qa_pairs'] = json.load(f)
-                print(f"✓ Loaded {len(KNOWLEDGE_BASE['qa_pairs'])} Q&A pairs")
+                print(f"* Loaded {len(KNOWLEDGE_BASE['qa_pairs'])} Q&A pairs")
         
         # Load embeddings chunks
         chunks_file = KB_PATH / 'embeddings_chunks.json'
         if chunks_file.exists():
             with open(chunks_file, 'r', encoding='utf-8') as f:
                 KNOWLEDGE_BASE['embeddings_chunks'] = json.load(f)
-                print(f"✓ Loaded {len(KNOWLEDGE_BASE['embeddings_chunks'])} embeddings chunks")
+                print(f"* Loaded {len(KNOWLEDGE_BASE['embeddings_chunks'])} embeddings chunks")
         
         # Load all markdown files
         md_files = list(KB_PATH.glob('**/*.md'))
@@ -54,11 +54,11 @@ def load_knowledge_base():
             except Exception as e:
                 print(f"Warning: Could not load {md_file}: {e}")
         
-        print(f"✓ Loaded {len(KNOWLEDGE_BASE['markdown_content'])} Markdown files")
-        print(f"✓ Knowledge base ready: {len(KNOWLEDGE_BASE['all_text'])} total characters indexed\n")
+        print(f"* Loaded {len(KNOWLEDGE_BASE['markdown_content'])} Markdown files")
+        print(f"* Knowledge base ready: {len(KNOWLEDGE_BASE['all_text'])} total characters indexed\n")
         
     except Exception as e:
-        print(f"⚠ Error loading knowledge base: {e}")
+        print(f"ERROR loading knowledge base: {e}")
 
 # Load knowledge base at startup
 load_knowledge_base()
