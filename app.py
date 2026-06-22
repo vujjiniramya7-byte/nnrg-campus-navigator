@@ -1,5 +1,6 @@
 import os
 import json
+import re
 from pathlib import Path
 import uuid
 from flask import Flask, request, jsonify, send_from_directory
@@ -8,6 +9,14 @@ import requests
 from dotenv import load_dotenv
 
 load_dotenv()
+
+def clean_text(text):
+    if not text:
+        return ""
+    text = text.lower()
+    text = re.sub(r'[^\w\s]', ' ', text)
+    words = [w for w in text.split() if len(w) > 1]
+    return ' '.join(words)
 
 app = Flask(__name__, static_folder='public', static_url_path='')
 CORS(app)
@@ -57,8 +66,39 @@ def load_knowledge_base():
         print(f"* Loaded {len(KNOWLEDGE_BASE['markdown_content'])} Markdown files")
         print(f"* Knowledge base ready: {len(KNOWLEDGE_BASE['all_text'])} total characters indexed\n")
         
+        # Calculate word frequencies for TF-IDF style weighting
+        calculate_word_frequencies()
+        
     except Exception as e:
         print(f"ERROR loading knowledge base: {e}")
+
+STOP_WORDS = {
+    'a', 'about', 'above', 'after', 'again', 'against', 'all', 'am', 'an', 'and', 'any', 'are', 'arent', 'as', 'at',
+    'be', 'because', 'been', 'before', 'being', 'below', 'between', 'both', 'but', 'by', 'can', 'cant', 'cannot', 'could',
+    'couldnt', 'did', 'didnt', 'do', 'does', 'doesnt', 'doing', 'dont', 'down', 'during', 'each', 'few', 'for', 'from',
+    'further', 'had', 'hadnt', 'has', 'hasnt', 'have', 'havent', 'having', 'he', 'hed', 'hell', 'hes', 'her', 'here',
+    'heres', 'hers', 'herself', 'him', 'himself', 'his', 'how', 'hows', 'i', 'id', 'ill', 'im', 'ive', 'if', 'in',
+    'into', 'is', 'isnt', 'it', 'its', 'itself', 'lets', 'me', 'more', 'most', 'mustnt', 'my', 'myself', 'no', 'nor',
+    'not', 'of', 'off', 'on', 'once', 'only', 'or', 'other', 'ought', 'our', 'ours', 'ourselves', 'out', 'over', 'own',
+    'same', 'shant', 'she', 'shed', 'shell', 'shes', 'should', 'shouldnt', 'so', 'some', 'such', 'than', 'that',
+    'thats', 'the', 'their', 'theirs', 'them', 'themselves', 'then', 'there', 'theres', 'these', 'they', 'theyd',
+    'theyll', 'theyre', 'theyve', 'this', 'those', 'through', 'to', 'too', 'under', 'until', 'up', 'very', 'was',
+    'wasnt', 'we', 'wed', 'well', 'were', 'weve', 'werent', 'what', 'whats', 'when', 'whens', 'where', 'wheres',
+    'which', 'while', 'who', 'whos', 'whom', 'why', 'whys', 'with', 'wont', 'would', 'wouldnt', 'you', 'youd',
+    'youll', 'youre', 'youve', 'your', 'yours', 'yourself', 'yourselves'
+}
+
+WORD_FREQUENCIES = {}
+
+def calculate_word_frequencies():
+    global WORD_FREQUENCIES
+    WORD_FREQUENCIES = {}
+    for pair in KNOWLEDGE_BASE['qa_pairs']:
+        q_clean = clean_text(pair.get('q', ''))
+        q_words = set(q_clean.split())
+        for w in q_words:
+            if w not in STOP_WORDS:
+                WORD_FREQUENCIES[w] = WORD_FREQUENCIES.get(w, 0) + 1
 
 # Load knowledge base at startup
 load_knowledge_base()
@@ -69,37 +109,41 @@ load_knowledge_base()
 
 def search_qa_pairs(query):
     """Search Q&A pairs for matching question with improved matching"""
-    query_lower = query.lower()
-    query_words = set(query_lower.split())
+    query_clean = clean_text(query)
+    query_words = set(query_clean.split())
     best_match = None
     best_score = 0
     
     for pair in KNOWLEDGE_BASE['qa_pairs']:
-        question = pair.get('q', '').lower()
+        question = pair.get('q', '')
+        question_clean = clean_text(question)
         answer = pair.get('a', '')
-        question_words = set(question.split())
+        question_words = set(question_clean.split())
         
         # Calculate similarity score
         score = 0
         
-        # Exact substring match (highest priority)
-        if query_lower in question:
+        # Exact word/phrase match (highest priority)
+        if (query_clean and re.search(rf'\b{re.escape(query_clean)}\b', question_clean)) or (question_clean and re.search(rf'\b{re.escape(question_clean)}\b', query_clean)):
             score += 100
         
-        # Word overlap matching
+        # Word overlap matching (weighted by inverse frequency)
         overlap = query_words & question_words
-        score += len([w for w in overlap if len(w) > 2]) * 10
+        for w in overlap:
+            if w not in STOP_WORDS:
+                freq = WORD_FREQUENCIES.get(w, 1)
+                score += 10 + (20 / freq)
         
-        # Partial word matching (for "cse" matching "computer science")
+        # Partial word matching
         for qword in query_words:
-            if len(qword) > 3:
+            if qword not in STOP_WORDS and len(qword) > 3:
                 for qsword in question_words:
-                    if qword in qsword or qsword in qword:
+                    if qsword not in STOP_WORDS and len(qsword) > 3 and (qword in qsword or qsword in qword):
                         score += 5
         
-        # Question contains query keywords
+        # Question contains query keywords (as whole words)
         for word in query_words:
-            if len(word) > 2 and word in question:
+            if word not in STOP_WORDS and re.search(rf'\b{re.escape(word)}\b', question_clean):
                 score += 3
         
         if score > best_score:
@@ -107,39 +151,42 @@ def search_qa_pairs(query):
             best_match = answer
     
     return best_match if best_score >= 3 else None
-
+ 
 def search_embeddings_chunks(query):
     """Search embeddings chunks for relevant content with better matching"""
-    query_lower = query.lower()
-    query_words = set(query_lower.split())
+    query_clean = clean_text(query)
+    query_words = set(query_clean.split())
     matches = []
     
     for chunk in KNOWLEDGE_BASE['embeddings_chunks']:
-        title = chunk.get('title', '').lower()
-        content = chunk.get('content', '').lower()
-        full_text = title + ' ' + content
+        title = chunk.get('title', '')
+        title_clean = clean_text(title)
+        content = chunk.get('content', '')
+        content_clean = clean_text(content)
+        full_text = title_clean + ' ' + content_clean
         
         # Calculate similarity score
         score = 0
         
         # Title exact match (highest priority)
-        if query_lower in title:
+        if query_clean and re.search(rf'\b{re.escape(query_clean)}\b', title_clean):
             score += 50
         
         # Word overlap in title
-        title_words = set(title.split())
+        title_words = set(title_clean.split())
         title_overlap = query_words & title_words
-        score += len([w for w in title_overlap if len(w) > 2]) * 20
+        score += len([w for w in title_overlap if w not in STOP_WORDS]) * 20
         
         # Word overlap in content
-        content_words = set(content.split())
+        content_words = set(content_clean.split())
         content_overlap = query_words & content_words
-        score += len([w for w in content_overlap if len(w) > 2]) * 5
+        score += len([w for w in content_overlap if w not in STOP_WORDS]) * 5
         
-        # Substring matching
+        # Whole word matching
         for word in query_words:
-            if len(word) > 2:
-                score += full_text.count(word)
+            if word not in STOP_WORDS:
+                word_matches = re.findall(rf'\b{re.escape(word)}\b', full_text)
+                score += len(word_matches)
         
         if score > 0:
             matches.append({
@@ -151,28 +198,29 @@ def search_embeddings_chunks(query):
     # Sort by relevance
     matches.sort(key=lambda x: x['score'], reverse=True)
     return matches[:2] if matches else []
-
+ 
 def search_markdown_content(query):
     """Search markdown files for relevant information"""
-    query_lower = query.lower()
-    query_words = set(query_lower.split())
+    query_clean = clean_text(query)
+    query_words = set(query_clean.split())
     matches = []
     
     for filepath, content in KNOWLEDGE_BASE['markdown_content'].items():
-        content_lower = content.lower()
+        content_clean = clean_text(content)
         
         # Calculate similarity score
         score = 0
         
         # Word frequency matching
         for word in query_words:
-            if len(word) > 2:
+            if word not in STOP_WORDS:
                 # Count occurrences but cap at 10 to avoid over-weighting
-                occurrences = min(content_lower.count(word), 10)
+                word_matches = re.findall(rf'\b{re.escape(word)}\b', content_clean)
+                occurrences = min(len(word_matches), 10)
                 score += occurrences * 2
         
         # Exact phrase match
-        if query_lower in content_lower:
+        if query_clean and re.search(rf'\b{re.escape(query_clean)}\b', content_clean):
             score += 50
         
         if score > 0:
@@ -198,7 +246,7 @@ def get_knowledge_base_context(query):
     synonyms = {
         'cse': 'computer science engineering',
         'ds': 'data science',
-        'ai&ml': 'artificial intelligence and machine learning',
+        'aiml': 'artificial intelligence and machine learning',
         'ece': 'electronics communication engineering',
         'me': 'mechanical engineering',
         'civil': 'civil engineering',
@@ -209,12 +257,15 @@ def get_knowledge_base_context(query):
         'fee': 'fees',
         'exam': 'exams',
         'course': 'courses',
+        'dean': 'dean academic',
+        'director': 'college director',
+        'bus': 'transportation', 
+        'transport': 'transportation'    
     }
     
-    # Expand query with synonyms
+    # Expand query with synonyms using word boundaries to avoid matching substrings
     for short, full in synonyms.items():
-        if short in query_normalized:
-            query_normalized = query_normalized.replace(short, full)
+        query_normalized = re.sub(rf'\b{re.escape(short)}\b', full, query_normalized)
     
     # Try Q&A search first (highest priority)
     qa_answer = search_qa_pairs(query_normalized if query_normalized != query.lower() else query)
@@ -272,7 +323,7 @@ NNRG_DATA = {
     "academic_programs": {
         "engineering_ug": [
             {"branch": "CSE", "name": "Computer Science & Engineering"},
-            {"branch": "CSE (AI & ML)", "name": "Artificial Intelligence & Machine Learning"},
+            {"branch": "CSE (AIML)", "name": "Artificial Intelligence & Machine Learning"},
             {"branch": "CSE (DS)", "name": "Data Science"},
             {"branch": "ECE", "name": "Electronics & Communication Engineering"},
             {"branch": "EEE", "name": "Electrical & Electronics Engineering"},
@@ -291,8 +342,108 @@ NNRG_DATA = {
         "category_b": "Category-B seats are institutional Management Quota admissions filled in compliance with JNTUH and state guidelines for eligible profiles.",
         "prospectus_and_online": "Admissions context, online guidelines, queries, and digital booklets are managed via the Admissions Office. Inquiries can be sent to nnrgadmission@nnrg.edu.in or by calling +91 9985311103."
     },
-    
-    
+    "transportation": {
+        "summary": "The campus sits ~17 km from Secunderabad/Koti and 10 km from Uppal Ring Road on the Warangal Highway. NNRG offers a massive private fleet of buses traversing 12 primary routes across Hyderabad. TSRTC public buses are also frequently available to Ghatkesar, Korremula, and Narapally. All corporate buses are timed to reach campus by 8:45 AM.",
+        "fee": "Rs. 20,000 to Rs. 30,000 per academic year, calculated on pick-up station distance.",
+        "routes": [
+            {
+                "route": 1, 
+                "driver": "Narendra Kumar", 
+                "phone": "93909 43533", 
+                "bus": "AP 29W 2296", 
+                "start": "Miyapur (7:10 AM)", 
+                "stops": ["Miyapur (7:10 AM)", "JNTU (7:15 AM)", "KPHB (7:20 AM)", "Vivekananda Kaman (7:25 AM)", "Kukatpally (7:26 AM)", "Moosapet (7:30 AM)", "Sanath Nagar (7:35 AM)", "Balanagar (7:40 AM)", "Paradise (7:55 AM)", "Sangeet X Roads (8:00 AM)", "Tarnaka (8:10 AM)", "Habsiguda (8:15 AM)", "Peerzadiguda (8:30 AM)", "NNRG Campus (8:45 AM)"]
+            },
+            {
+                "route": 2, 
+                "driver": "G Yadagiri", 
+                "phone": "9398678241", 
+                "bus": "AP 29V 2910", 
+                "start": "Moosapet Flyover (7:20 AM)", 
+                "stops": ["Moosapet Flyover (7:20 AM)", "Erragadda (7:25 AM)", "SR Nagar (7:30 AM)", "Mytrivanam (7:35 AM)", "Yosufguda (7:48 AM)", "Life Style (7:55 AM)", "Sangeeth (8:15 AM)", "Tarnaka (8:20 AM)", "Peerzadiguda (8:30 AM)", "NNRG Campus (8:45 AM)"]
+            },
+            {
+                "route": 3, 
+                "driver": "V Tirupathi", 
+                "phone": "99490 39544", 
+                "bus": "TS 08UE 2604", 
+                "start": "Musheerabad (7:30 AM)", 
+                "stops": ["Musheerabad (7:30 AM)", "Padma Rao Nagar (7:35 AM)", "Seethaphal Mandi (7:40 AM)", "Warasiguda (7:45 AM)", "Ramnagar Gundu (7:53 AM)", "Amberpet (8:07 AM)", "Ramanthapur (8:10 AM)", "Uppal Ring Road (8:20 AM)", "NNRG Campus (8:45 AM)"]
+            },
+            {
+                "route": 4, 
+                "driver": "Ravi", 
+                "phone": "9908804917", 
+                "bus": "TS 08UE 2605", 
+                "start": "Mehdipatnam (7:20 AM)", 
+                "stops": ["Mehdipatnam (7:20 AM)", "Masabtank (7:25 AM)", "NTR Stadium (7:35 AM)", "Himayat Nagar (7:40 AM)", "Tilak Nagar (7:47 AM)", "6 Number (7:50 AM)", "Amberpet (7:55 AM)", "Ramanthapur Stop-1 (8:00 AM)", "Ramanthapur Stop-3 (8:10 AM)", "NNRG Campus (8:45 AM)"]
+            },
+            {
+                "route": 5, 
+                "driver": "Ramreddy", 
+                "phone": "9848839076", 
+                "bus": "AP 29V 4872", 
+                "start": "Sagar X Roads (7:50 AM)", 
+                "stops": ["Sagar X Roads (7:50 AM)", "Hastina Puram (7:54 AM)", "B N Reddy Nagar (8:00 AM)", "NGO's Colony (8:05 AM)", "Auto Nagar (8:14 AM)", "RTC Colony (8:20 AM)", "Hayath Nagar (8:22 AM)", "Kuntloor (8:25 AM)", "NNRG Campus (8:45 AM)"]
+            },
+            {
+                "route": 6, 
+                "driver": "S Gopal", 
+                "phone": "9618682774", 
+                "bus": "AP 29V 9516", 
+                "start": "Malakpet (Yashoda) (7:50 AM)", 
+                "stops": ["Malakpet (Yashoda) (7:50 AM)", "TV Tower (7:53 AM)", "Dilshuknagar (7:54 AM)", "Kothapet (8:00 AM)", "Nagole (8:12 AM)", "Bandlaguda (8:15 AM)", "Tatti Annaram (8:20 AM)", "NNRG Campus (8:45 AM)"]
+            },
+            {
+                "route": 7, 
+                "driver": "Sudhakar", 
+                "phone": "8184989142", 
+                "bus": "AP 29V 2921", 
+                "start": "TKR Kaman (7:30 AM)", 
+                "stops": ["TKR Kaman (7:30 AM)", "Santosh Nagar (7:37 AM)", "Champapet (7:40 AM)", "Saroor Nagar (7:50 AM)", "LB Nagar (8:00 AM)", "Alkapuri (8:05 AM)", "Nagole (8:10 AM)", "NNRG Campus (8:45 AM)"]
+            },
+            {
+                "route": 8, 
+                "driver": "Naresh", 
+                "phone": "8686747628", 
+                "bus": "AP 29V 2865", 
+                "start": "Nagaram X Road (7:35 AM)", 
+                "stops": ["Nagaram X Road (7:35 AM)", "ECIL X Road (7:45 AM)", "Mallapur (7:56 AM)", "DPS (8:02 AM)", "Habsiguda NGRI (8:13 AM)", "Survey of India (8:17 AM)", "Peerzadiguda Common (8:25 AM)", "Medipalli Sampoorna Hotel (8:34 AM)", "NNRG Campus (8:45 AM)"]
+            },
+            {
+                "route": 9, 
+                "driver": "P Arogyaiah", 
+                "phone": "9849654661", 
+                "bus": "AP 29W 2297", 
+                "start": "Three Temples (7:35 AM)", 
+                "stops": ["Three Temples (7:35 AM)", "Anandbagh (7:43 AM)", "Malkajgiri (7:55 AM)", "Prashanth Nagar (8:00 AM)", "Lalapet (8:03 AM)", "HB Colony (8:10 AM)", "NNRG Campus (8:45 AM)"]
+            },
+            {
+                "route": 10, 
+                "driver": "Venkatesh", 
+                "phone": "9866690906", 
+                "bus": "AP 29V 9517", 
+                "start": "Suchitra X Road (7:05 AM)", 
+                "stops": ["Suchitra X Road (7:05 AM)", "Old Alwal IG Statue (7:10 AM)", "Alwal (7:30 AM)", "Sainikpuri (7:45 AM)", "Dammaiguda (8:05 AM)", "Nagaram X Road (8:10 AM)", "Rampally X Road (8:15 AM)", "RL Nagar (8:20 AM)", "NNRG Campus (8:45 AM)"]
+            },
+            {
+                "route": 11, 
+                "driver": "K. Sreedhar", 
+                "phone": "9133944846", 
+                "bus": "AP 29V 2911", 
+                "start": "Yapral Bus Stop (7:35 AM)", 
+                "stops": ["Yapral Bus Stop (7:35 AM)", "Neredmet X Roads (7:45 AM)", "AS Rao Nagar Signals (7:55 AM)", "ECIL Municipal Office (8:00 AM)", "Moula Ali (8:05 AM)", "HB Colony Stop-1 (8:10 AM)", "Bolligudem (8:20 AM)", "Chengicherla X Road (8:35 AM)", "NNRG Campus (8:45 AM)"]
+            },
+            {
+                "route": 12, 
+                "driver": "Mahender Reddy", 
+                "phone": "8179749311", 
+                "bus": "Not Specified", 
+                "start": "Chiluka Nagar Circle (8:05 AM)", 
+                "stops": ["Chiluka Nagar Circle (8:05 AM)", "Bommak Garden (8:10 AM)", "Boduppal Saibaba Temple (8:14 AM)", "Sunny Bakery (8:18 AM)", "Sri Chaitanya School (8:22 AM)", "Anutex (8:26 AM)", "NNRG Campus (8:45 AM)"]
+            }
+        ]
+   },
     "cafeteria": {
         "description": "Multi-Cuisine campus facility built to deliver high-quality, hygienic, and nutritious options spanning Chinese, Italian, Thai, and traditional options prepared by professional chefs.",
         "store": "Adjacent to the canteen is 'READERS'—the dedicated campus store supplying stationery items, photocopies/Xerox services, gift collections, and energy drinks."
@@ -384,7 +535,7 @@ NNRG_DATA = {
         "dean":"Dr G.Janardhana Raju - Dean Academic (dean.academic@nnrg.edu.in)",
         "cse": "Dr.K. Rameshwaraiah - HOD CSE (hod.cse@nnrg.edu.in)",
         "ds": "Mrs V.Indrani - HOD DS (hod.ds@nnrg.edu.in)",
-        "ai&ml": "Dr. G.Sravan Kumar - HOD AI & ML (hod.ai&ml@nnrg.edu.in)",
+        "aiml": "Dr. G.Sravan Kumar - HOD AIML (hod.aiml@nnrg.edu.in)",
         "ece": "Dr. Ravi Bolimera - HOD ECE (hod.ece@nnrg.edu.in)",
         "civil": "Dr. G. Subba Rao - HOD Civil (hod.civil@nnrg.edu.in)",
         "mech": "Dr. G. Laxmaiah - HOD Mech (hod.mech@nnrg.edu.in)",
@@ -406,12 +557,12 @@ NNRG_DATA = {
 # Stringify metrics for quick contextual reinforcement inside system instructions
 KB_INFO = f"""
 KNOWLEDGE BASE CONTEXT (Synchronized June 2026 documentation):
-- Infrastructure: 3 structural units (Engineering, Pharmacy, Management Sciences)[cite: 8]. Contiguous Integrated Campus layout[cite: 8].
-- Programs: B.Tech (CSE, AI&ML, DS, ECE, EEE, Mech, Civil, IT), M.Tech, B.Pharmacy, M.Pharmacy, and MBA[cite: 37, 38, 40, 43]. 
-- Accreditations: NAAC A+ Grade, NBA Accredited (CSE, ECE, ME since 2018; Pharmacy since 2025)[cite: 11, 12, 41]. UGC 2(f) recognized[cite: 13].
-- Core Resources: 600 Mbps Wi-Fi [cite: 26], Central Library with 30,000+ book volumes, 228 print journals, DELNET 600+ e-journals[cite: 27, 116]. KOHA Software[cite: 114].
-- Transportation: 12 institutional bus routes reaching all corners of Hyderabad (Miyapur, Mehdipatnam, Suchitra, ECIL, etc.)[cite: 51, 53, 59, 67, 71]. Fee: Rs 20k to 30k[cite: 48].
-- Placement Activities: Four-tier comprehensive framework starting from Year 1 up to Year 4[cite: 30, 98]. High-profile recruiters include TCS, Infosys, ICICI Bank, Divi's Labs[cite: 103, 104, 105, 107].
+- Infrastructure: 3 structural units (Engineering, Pharmacy, Management Sciences). Contiguous Integrated Campus layout.
+- Programs: B.Tech (CSE, AIML, DS, ECE, EEE, Mech, Civil, IT), M.Tech, B.Pharmacy, M.Pharmacy, and MBA. 
+- Accreditations: NAAC A+ Grade, NBA Accredited (CSE, ECE, ME since 2018; Pharmacy since 2025). UGC 2(f) recognized.
+- Core Resources: 600 Mbps Wi-Fi , Central Library with 30,000+ book volumes, 228 print journals, DELNET 600+ e-journals. KOHA Software.
+- Transportation: 12 institutional bus routes reaching all corners of Hyderabad (Miyapur, Mehdipatnam, Suchitra, ECIL, etc.). Fee: Rs 20k to 30k.
+- Placement Activities: Four-tier comprehensive framework starting from Year 1 up to Year 4. High-profile recruiters include TCS, Infosys, ICICI Bank, Divi's Labs.
 """
 
 # Build SYSTEM_INSTRUCTIONS safely using .get defaults from NNRG_DATA
@@ -488,6 +639,96 @@ def get_mock_response(message, session_id=None):
     """
     msg_lower = message.lower().strip()
     
+    # Early sports staff lookup to prevent shadowing by general sports facilities or HOD/Director queries
+    if any(keyword in msg_lower for keyword in ["sports staff", "physical director", "sports director", "sports coach"]):
+        sports_directors = [
+            "Raju Odela", 
+            "Sahana Naddunuri", 
+            "V Vijay Kumar", 
+            "B Yakaiah", 
+            "A Narasimha Nayak", 
+            "D Vijay Kumar"
+        ]
+        return "### 🏆 Sports Staff / Physical Directors\nNNRG's sports activities are managed by 6 full-time Physical Directors:\n" + "\n".join([f"* {d}" for d in sports_directors])
+
+    # Early HOD / Dean / Director lookup to avoid being shadowed by course or general QA matching
+    if any(keyword in msg_lower for keyword in ["hod", "head of department", "dean", "director"]):
+        if "director" in msg_lower and not any(k in msg_lower for k in ["physical", "sports"]):
+            director_info = NNRG_DATA.get('fallback_faculty', {}).get('director')
+            if director_info:
+                return f"### Director of NNRG\n{director_info}"
+        
+        if "dean" in msg_lower:
+            dean_info = NNRG_DATA.get('fallback_faculty', {}).get('dean')
+            if dean_info:
+                return f"### Dean Academic of NNRG\n{dean_info}"
+                
+        if "hod" in msg_lower or "head of department" in msg_lower:
+            dept_map = {
+                'computer science': 'cse',
+                'cse': 'cse',
+                'data science': 'ds',
+                'ds': 'ds',
+                'aiml': 'aiml',
+                'ai & ml': 'aiml',
+                'ai&ml': 'aiml',
+                'artificial intelligence': 'aiml',
+                'ece': 'ece',
+                'electronics': 'ece',
+                'civil': 'civil',
+                'mechanical': 'mech',
+                'mech': 'mech',
+                'mba': 'mba',
+                'management': 'mba'
+            }
+
+            for key, short in dept_map.items():
+                if key in msg_lower:
+                    hod_info = NNRG_DATA.get('fallback_faculty', {}).get(short)
+                    if hod_info:
+                        return f"### HOD Information\n{hod_info}"
+
+            # If no specific department mentioned but HOD is asked
+            faculty = NNRG_DATA.get('fallback_faculty', {})
+            if faculty:
+                lines = []
+                for k in ['cse', 'ds', 'aiml', 'ece', 'civil', 'mech', 'mba']:
+                    if k in faculty:
+                        lines.append(f"* {k.upper()}: {faculty[k]}")
+                for k, v in faculty.items():
+                    if k not in ['cse', 'ds', 'aiml', 'ece', 'civil', 'mech', 'mba', 'director', 'dean']:
+                        lines.append(f"* {k.upper()}: {v}")
+                return "### Department Heads\n" + "\n".join(lines)
+
+    # Dynamic Bus/Route/Driver Lookup to return correct data for any of the 12 routes
+    if any(k in msg_lower for k in ["route", "bus"]) and any(k in msg_lower for k in ["driver", "phone", "number", "timing", "start", "stop", "schedule", "route"]):
+        match = re.search(r'(?:route|bus)\s*(\d+)', msg_lower)
+        if match:
+            route_num = int(match.group(1))
+            routes = NNRG_DATA.get('transportation', {}).get('routes', [])
+            target_route = None
+            for r in routes:
+                if r.get('route') == route_num:
+                    target_route = r
+                    break
+            
+            if target_route:
+                driver = target_route.get('driver')
+                phone = target_route.get('phone')
+                bus_no = target_route.get('bus')
+                start = target_route.get('start')
+                stops = ", ".join(target_route.get('stops', []))
+                
+                if any(x in msg_lower for x in ["driver", "phone", "number"]):
+                    return f"### 🚌 Route {route_num} Driver Details\n* **Driver Name:** {driver}\n* **Contact Phone:** {phone}\n* **Bus Number:** {bus_no}"
+                else:
+                    return f"### 🚌 Route {route_num} Details\n* **Start Location:** {start}\n* **Driver:** {driver} ({phone})\n* **Bus Number:** {bus_no}\n* **Route Stops:** {stops}"
+
+    # Check knowledge base first (handles exact QA matches, fests, exams, locations)
+    kb_context = get_knowledge_base_context(message)
+    if kb_context:
+        return kb_context
+    
     # Contextual check for chaining tests if a history sequence exists
     last_user_query = ""
     if session_id and session_id in chat_histories and len(chat_histories[session_id]) > 1:
@@ -495,35 +736,6 @@ def get_mock_response(message, session_id=None):
         user_nodes = [item for item in chat_histories[session_id] if item["role"] == "user"]
         if len(user_nodes) > 1:
             last_user_query = user_nodes[-2].get("content", "").lower()
-
-    # Early HOD / Department Head lookup to avoid being shadowed by course matching
-    if "hod" in msg_lower or "head of department" in msg_lower:
-        dept_map = {
-            'ds': 'ds',
-            'ai & ml': 'ai&ml',
-            'cse': 'cse',
-            'ece': 'ece',
-            'civil': 'civil',
-            'mech': 'mech',
-            'mba': 'mba'
-        }
-
-        for key, short in dept_map.items():
-            if key in msg_lower:
-                hod_info = NNRG_DATA.get('fallback_faculty', {}).get(short)
-                if hod_info:
-                    return f"### HOD Information\n{hod_info}"
-
-        faculty = NNRG_DATA.get('fallback_faculty', {})
-        if faculty:
-            lines = []
-            for k in ['cse', 'ds', 'ai&ml', 'ece', 'civil', 'mech', 'mba']:
-                if k in faculty:
-                    lines.append(f"* {k.upper()}: {faculty[k]}")
-            for k, v in faculty.items():
-                if k not in ['cse', 'ds', 'ai&ml', 'ece', 'civil', 'mech', 'mba']:
-                    lines.append(f"* {k.upper()}: {v}")
-            return "### Department Heads\n" + "\n".join(lines)
 
     # 1. CORE QUESTIONS ROUTING
     if "what is nnrg" in msg_lower or "about nnrg" in msg_lower:
@@ -559,48 +771,13 @@ def get_mock_response(message, session_id=None):
         branches = "\n".join([f"* **{b['branch']}**: {b['name']}" for b in NNRG_DATA['academic_programs']['engineering_ug']])
         return f"### ⚙ School of Engineering - B.Tech Programs\nThe School of Engineering offers the following 4-year undergraduate programs [cite: 35, 36]:\n\n{branches} [cite: 37]"
 
-    if "ai & ml" in msg_lower or "artificial intelligence" in msg_lower:
+    if "aiml" in msg_lower or "artificial intelligence" in msg_lower:
         return "### Specialized Programs: AI & ML\nYes! NNRG offers a dedicated 4-year B.Tech program in **Computer Science & Engineering (Artificial Intelligence & Machine Learning) - CSE (AI & ML)**[cite: 36, 37]."
 
     if "data science" in msg_lower or "ds" in msg_lower:
         return "### Specialized Programs: Data Science\nYes, NNRG offers a specialized 4-year B.Tech degree path in **Computer Science & Engineering (Data Science) - CSE (DS)**[cite: 36, 37]."
 
-    # HOD / Department Head lookup (placed before department-specific program checks)
-    if "hod" in msg_lower or "head of department" in msg_lower:
-        dept_map = {
-            'data science': 'ds',
-            'ds': 'ds',
-            'ai & ml': 'ai&ml',
-            'ai&ml': 'ai&ml',
-            'ai': 'ai&ml',
-            'artificial intelligence': 'ai&ml',
-            'cse': 'cse',
-            'ece': 'ece',
-            'civil': 'civil',
-            'mech': 'mech',
-            'mba': 'mba'
-        }
 
-        # Try to detect department in user query
-        for key, short in dept_map.items():
-            if key in msg_lower:
-                hod_info = NNRG_DATA.get('fallback_faculty', {}).get(short)
-                if hod_info:
-                    return f"### HOD Information\n{hod_info}"
-
-        # If no specific department mentioned, return a compact list of HODs
-        faculty = NNRG_DATA.get('fallback_faculty', {})
-        if faculty:
-            lines = []
-            # present most-requested HODs first
-            for k in ['cse', 'ds', 'ai&ml', 'ece', 'civil', 'mech', 'mba']:
-                if k in faculty:
-                    lines.append(f"* {k.upper()}: {faculty[k]}")
-            # fallback to listing remaining
-            for k, v in faculty.items():
-                if k not in ['cse', 'ds', 'ai&ml', 'ece', 'civil', 'mech', 'mba']:
-                    lines.append(f"* {k.upper()}: {v}")
-            return "### Department Heads\n" + "\n".join(lines)
 
     if "m.tech" in msg_lower:
         pg_courses = ", ".join(NNRG_DATA['academic_programs']['engineering_pg'])
@@ -752,10 +929,10 @@ def get_mock_response(message, session_id=None):
         'weather', 'politics', 'medical', 'health', 'fitness', 'diet', 'crypto', 'stock'
     ]
     if any(keyword in msg_lower for keyword in off_topic_keywords):
-        return "I'm sorry, but as the NNRG College Assistant, I can only help you with campus-related information like college events, faculty contacts, exam schedules, and the canteen menu. Please let me know if you have any questions about NNRG!"
+        return "I'm sorry. I can answer to nnrg related questions only."
 
     # Ultimate Fallback
-    return "I'm sorry,but i can answer only nnrg related questions."
+    return "I'm sorry. I can answer to nnrg related questions only."
 
 @app.route('/')
 def index():
@@ -836,7 +1013,7 @@ def chat():
             else:
                 reply_text = "I'm currently unable to retrieve that specific detail. Please check the official NNRG notice board or contact the administration office directly."
         else:
-            reply_text = "I'm currently unable to retrieve that specific detail. Please check the official NNRG notice board or contact the administration office directly."
+            reply_text = "I'm sorry. I can answer to nnrg related questions only."
 
         # Append model reply to history
         history.append({"role": "model", "content": reply_text})
