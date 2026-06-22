@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,12 +8,15 @@
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
     <!-- FontAwesome icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
     <div class="app-container">
         <!-- Sidebar Dashboard -->
@@ -32,7 +36,8 @@
             <div class="sidebar-content">
                 <div class="info-card">
                     <h3><i class="fa-solid fa-graduation-cap"></i> About NNRG</h3>
-                    <p>NNRG College (Nalla Narasimha Reddy Group of Institutions) is a premier engineering & management campus in Hyderabad. This assistant helps you find campus information instantly.</p>
+                    <p>NNRG College (Nalla Narasimha Reddy Group of Institutions) is a premier engineering & management
+                        campus in Hyderabad. This assistant helps you find campus information instantly.</p>
                 </div>
 
                 <div class="suggestions-section">
@@ -42,9 +47,10 @@
                             <i class="fa-solid fa-utensils"></i> Canteen Menu
                         </button>
                         <button class="suggest-btn" onclick="askPreset('When is the next college fest?')">
-                            <i class="fa-solid fa-calendar-star"></i> College Fest
+                            <i class="fa-solid fa-calendar-days"></i> College Fest
                         </button>
-                        <button class="suggest-btn" onclick="askPreset('Who is the HOD of Computer Science Department?')">
+                        <button class="suggest-btn"
+                            onclick="askPreset('Who is the HOD of Computer Science Department?')">
                             <i class="fa-solid fa-user-tie"></i> HOD of CSE
                         </button>
                         <button class="suggest-btn" onclick="askPreset('When do the mid-term exams start?')">
@@ -91,7 +97,8 @@
                         <i class="fa-solid fa-robot"></i>
                     </div>
                     <div class="message-bubble">
-                        <p>Welcome to NNRG College! 🎓 I am <strong>CampusNavigator</strong>, your dedicated campus companion.</p>
+                        <p>Welcome to NNRG College! 🎓 I am <strong>CampusNavigator</strong>, your dedicated campus
+                            companion.</p>
                         <p>How can I help you today? You can ask me questions like:</p>
                         <ul>
                             <li>What is on the canteen breakfast menu?</li>
@@ -105,7 +112,8 @@
             <!-- Chat Input Area -->
             <div class="chat-input-container">
                 <form id="chat-form" onsubmit="handleSendMessage(event)">
-                    <input type="text" id="chat-input" placeholder="Type your NNRG campus query here..." autocomplete="off" required>
+                    <input type="text" id="chat-input" placeholder="Type your NNRG campus query here..."
+                        autocomplete="off" required>
                     <button type="submit" class="send-btn" id="send-btn" aria-label="Send message">
                         <i class="fa-solid fa-paper-plane"></i>
                     </button>
@@ -124,4 +132,5 @@
     <!-- Custom JS -->
     <script src="app.js"></script>
 </body>
+
 </html>

@@ -6,6 +6,7 @@ Overview
 The Central Library at NNRG provides support for teaching, learning and research. It is computerised with KOHA LMS and OPAC. Digital library systems and DELNET access are provided.
 
 Collection (summary)
+- Location: 2nd Floor of the college building
 - Books: 30,000 volumes (about 5,000 titles)
 - CD/DVDs: 500
 - Project Reports: 400
