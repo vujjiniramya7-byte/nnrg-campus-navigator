@@ -2,10 +2,10 @@
 :root {
     --bg-primary: background: linear-gradient(135deg, #EFF6FF, #EDE9FE);
     --bg-secondary: background: #F1F5F9;
-    --bg-sidebar: background: #EFF6FF;
-    --text-primary: #1e293b;
-    --text-secondary: #64748b;
-    --text-light: #f8fafc;
+    --bg-sidebar:background: #1E1B4B;
+    --text-primary: color: #F8FAFC;
+    --text-secondary: color: #94A3B8;
+    --text-light: color: #475569;
     --accent-color: #4f46e5;
     --accent-hover: #4338ca;
     --accent-light: #e0e7ff;
