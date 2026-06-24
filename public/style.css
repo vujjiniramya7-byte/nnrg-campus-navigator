@@ -1,11 +1,11 @@
 /* Variables & Themes */
 :root {
-    --bg-primary: background: linear-gradient(135deg, #EFF6FF, #EDE9FE);
-    --bg-secondary: background: #F1F5F9;
-    --bg-sidebar:background: #1E1B4B;
-    --text-primary: color: #F8FAFC;
-    --text-secondary: color: #94A3B8;
-    --text-light: color: #475569;
+    --bg-primary: linear-gradient(135deg, #EFF6FF, #EDE9FE);
+    --bg-secondary: #F1F5F9;
+    --bg-sidebar: #1E1B4B;
+    --text-primary: #0F172A;
+    --text-secondary: #475569;
+    --text-light: #94A3B8;
     --accent-color: #4f46e5;
     --accent-hover: #4338ca;
     --accent-light: #e0e7ff;
@@ -605,7 +605,7 @@ body {
 /* Responsive Styles */
 @media (max-width: 900px) {
     .sidebar {
-        display: none; /* Handled via drawer in full production, or simple toggle */
+        display: none;
     }
     .chat-feed {
         padding: 20px;
