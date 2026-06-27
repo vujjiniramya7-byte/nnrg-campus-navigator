@@ -1,0 +1,11 @@
+{
+  "name": "nnrg-ds",
+  "version": "1.0.0",
+  "description": "NNRG Data Science College Website with Anti-Gravity floating elements",
+  "main": "server.js",
+  "scripts": {
+    "dev": "bun run server.js",
+    "start": "bun run server.js"
+  },
+  "dependencies": {}
+}

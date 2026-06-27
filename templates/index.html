@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NNRG - Home / About | Data Science</title>
+    <!-- Modern Sans-serif Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+    <!-- FontAwesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom stylesheet -->
+    <link rel="stylesheet" href="static/css/styles.css">
+</head>
+<body>
+    <!-- Navigation Header -->
+    <header class="header">
+        <div class="container nav-container">
+            <a href="#" class="logo">
+                <span class="logo-accent">NNRG</span>
+                <span class="logo-text">DATA SCIENCE</span>
+            </a>
+            <nav class="nav">
+                <a href="#about" class="nav-link">About Us</a>
+                <a href="#why-choose" class="nav-link">Why Choose Us</a>
+                <a href="#placements" class="nav-link">Placements</a>
+                <a href="#courses" class="nav-link">Courses</a>
+                <a href="#achievements" class="nav-link">Faculty</a>
+                <a href="#campus-life" class="nav-link">Campus Life</a>
+                <a href="#faq" class="nav-link">FAQ</a>
+                <a href="#contact" class="nav-link">Contact</a>
+            </nav>
+            <button class="menu-toggle" aria-label="Toggle Menu">
+                <i class="fa-solid fa-bars"></i>
+            </button>
+        </div>
+    </header>
+
+    <!-- Interactive Hero Section -->
+    <section class="hero" id="hero">
+        <!-- Three.js 3D Canvas Background -->
+        <div class="canvas-container" id="canvas-container"></div>
+        
+        <!-- HTML overlay labels that will track the 3D planes -->
+        <div class="plane-labels-container" id="plane-labels-container"></div>
+
+        <div class="hero-content">
+            <div class="badge">Nalla Narasimha Reddy Group of Institutions</div>
+            <h1 class="hero-title">Shape the Future with <span class="cyan-text">Data Science</span></h1>
+            <p class="hero-subtitle">
+                AI-Powered Learning | Industry Placements | 53 LPA Avg
+            </p>
+            <div class="hero-actions">
+                <a href="#contact" class="btn btn-primary">Apply Now</a>
+                <a href="#why-choose" class="btn btn-secondary">Learn More</a>
+            </div>
+
+            <!-- Floating Semi-Transparent Cards with Key Metrics -->
+            <div class="floating-metrics">
+                <div class="metric-card glass-card">
+                    <div class="metric-icon"><i class="fa-solid fa-users"></i></div>
+                    <div class="metric-value counter" data-target="2500">0</div>
+                    <div class="metric-label">Students Enrolled</div>
+                </div>
+                <div class="metric-card glass-card">
+                    <div class="metric-icon"><i class="fa-solid fa-briefcase"></i></div>
+                    <div class="metric-value counter-rate" data-target="95">0</div>
+                    <div class="metric-label">Placement Rate</div>
+                </div>
+                <div class="metric-card glass-card">
+                    <div class="metric-icon"><i class="fa-solid fa-money-bill-trend-up"></i></div>
+                    <div class="metric-value">₹53 LPA</div>
+                    <div class="metric-label">Average Package</div>
+                </div>
+                <div class="metric-card glass-card">
+                    <div class="metric-icon"><i class="fa-solid fa-handshake"></i></div>
+                    <div class="metric-value counter" data-target="50">0</div>
+                    <div class="metric-label">Industry Partners</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="scroll-down">
+            <span>Scroll to Explore</span>
+            <i class="fa-solid fa-chevron-down animated-bounce"></i>
+        </div>
+    </section>
+
+    <main>
+        <!-- About Us (Standard content from URL sources) -->
+        <section class="section about" id="about">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">About NNRG</h2>
+                    <div class="section-divider"></div>
+                    <p class="section-desc">An integrated multi-disciplinary campus established in 2009, affiliated to JNTU Hyderabad and approved by AICTE.</p>
+                </div>
+                
+                <div class="about-grid">
+                    <div class="about-card glass-card">
+                        <h3>Vision & Mission</h3>
+                        <div class="vm-block">
+                            <h4 class="cyan-text"><i class="fa-solid fa-eye"></i> Vision</h4>
+                            <p>To be a premier institution ensuring globally competent and ethically strong professionals.</p>
+                        </div>
+                        <div class="vm-block">
+                            <h4 class="cyan-text"><i class="fa-solid fa-bullseye"></i> Mission</h4>
+                            <ul>
+                                <li>Refinement of traditional methods of teaching to make globally competent professionals.</li>
+                                <li>State-of-the-art infrastructure and innovative research facilities.</li>
+                                <li>High standards of professional ethics, transparency, and accountability.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="about-card glass-card">
+                        <h3>Research & Incubation</h3>
+                        <div class="ri-item">
+                            <h4><i class="fa-solid fa-lightbulb gold-text"></i> Incubation Center</h4>
+                            <p>Provides incubators, technical training, and personality development for students to foster engineering startups and entrepreneurship.</p>
+                        </div>
+                        <div class="ri-item">
+                            <h4><i class="fa-solid fa-robot cyan-text"></i> Robotics Development Centre</h4>
+                            <p>Provides students with practical application challenges, microcontroller coding, and real-world system problem-solving tasks.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 1: Why Choose Us (3D Stat Cards) -->
+        <section class="section why-choose" id="why-choose">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Why Choose Us</h2>
+                    <div class="section-divider"></div>
+                    <p class="section-desc">Empowering careers through integrated engineering and management education.</p>
+                </div>
+
+                <div class="choose-grid">
+                    <div class="choose-card glass-card 3d-effect">
+                        <div class="card-icon"><i class="fa-solid fa-network-wired"></i></div>
+                        <h3>Integrated Campus</h3>
+                        <p>Combining Schools of Engineering, Pharmacy, and Management Sciences in one unified, collaborative academic zone.</p>
+                        <div class="card-badge gold-badge">Estd 2009</div>
+                    </div>
+
+                    <div class="choose-card glass-card 3d-effect">
+                        <div class="card-icon"><i class="fa-solid fa-graduation-cap"></i></div>
+                        <h3>University Affiliated</h3>
+                        <p>Affiliated to JNTU Hyderabad, offering industry-aligned curriculums that meet AICTE approvals and NBA parameters.</p>
+                        <div class="card-badge cyan-badge">JNTUH Code: 7Z</div>
+                    </div>
+
+                    <div class="choose-card glass-card 3d-effect">
+                        <div class="card-icon"><i class="fa-solid fa-chart-line"></i></div>
+                        <h3>Placement Record</h3>
+                        <p>Strong placement cell driving active drives with national and multinational giants like TCS, ICICI, and Cognizant.</p>
+                        <div class="card-badge gold-badge">53 LPA Max</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 2: Placements & Rankings (Animated Graphs) -->
+        <section class="section placements" id="placements">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Placements & Rankings</h2>
+                    <div class="section-divider"></div>
+                    <p class="section-desc">Consistent placement success and academic excellence benchmarks.</p>
+                </div>
+
+                <div class="placements-layout">
+                    <!-- Metrics grid -->
+                    <div class="placement-stats">
+                        <div class="stat-box glass-card">
+                            <span class="stat-number">₹53 LPA</span>
+                            <span class="stat-title">Highest Package Offered</span>
+                            <p class="stat-sub">Secured by Data Science student in global tech placement drive.</p>
+                        </div>
+                        <div class="stat-box glass-card">
+                            <span class="stat-number">95%</span>
+                            <span class="stat-title">Placement Percentage</span>
+                            <p class="stat-sub">Consistent placement track record across SOE, SOP, and SOMS schools.</p>
+                        </div>
+                    </div>
+
+                    <!-- Live placement trends visual chart -->
+                    <div class="placement-chart-container glass-card">
+                        <h3>Placement Packages Trend (LPA)</h3>
+                        <div class="chart-y-axis">
+                            <span>60 LPA</span>
+                            <span>40 LPA</span>
+                            <span>20 LPA</span>
+                            <span>0 LPA</span>
+                        </div>
+                        <div class="bar-chart">
+                            <div class="bar-group">
+                                <div class="bar bar-cyan" style="--height: 35%">
+                                    <span class="bar-value">18 LPA</span>
+                                </div>
+                                <span class="bar-year">2023</span>
+                            </div>
+                            <div class="bar-group">
+                                <div class="bar bar-blue" style="--height: 60%">
+                                    <span class="bar-value">32 LPA</span>
+                                </div>
+                                <span class="bar-year">2024</span>
+                            </div>
+                            <div class="bar-group">
+                                <div class="bar bar-gold" style="--height: 95%">
+                                    <span class="bar-value">53 LPA</span>
+                                </div>
+                                <span class="bar-year">2025-26</span>
+                            </div>
+                        </div>
+                        <div class="chart-legend">
+                            <span class="legend-item"><span class="dot cyan-dot"></span> Average Package</span>
+                            <span class="legend-item"><span class="dot blue-dot"></span> Tier 2 Maximum</span>
+                            <span class="legend-item"><span class="dot gold-dot"></span> Highest Offer</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 3: Course Highlights (Cards with Icons) -->
+        <section class="section courses" id="courses">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Course Highlights</h2>
+                    <div class="section-divider"></div>
+                    <p class="section-desc">Specialized academic tracks designed for the modern analytics and computational landscape.</p>
+                </div>
+
+                <div class="courses-grid">
+                    <div class="course-card glass-card">
+                        <div class="course-icon"><i class="fa-solid fa-brain"></i></div>
+                        <h3>Artificial Intelligence & Machine Learning</h3>
+                        <p>Neural networks, natural language processing, advanced deep learning models, and computer vision implementation.</p>
+                        <div class="course-tag cyan-tag">AI/ML Core</div>
+                    </div>
+
+                    <div class="course-card glass-card">
+                        <div class="course-icon"><i class="fa-solid fa-chart-pie"></i></div>
+                        <h3>Advanced Data Analytics</h3>
+                        <p>Big Data platforms, predictive modeling, statistical computational engines, and quantitative business diagnostics.</p>
+                        <div class="course-tag blue-tag">Data Track</div>
+                    </div>
+
+                    <div class="course-card glass-card">
+                        <div class="course-icon"><i class="fa-solid fa-cloud"></i></div>
+                        <h3>Cloud Computing & Infrastructure</h3>
+                        <p>AWS/Azure cloud architecture, model pipelines deployment, distributed data networks, and scalable algorithms.</p>
+                        <div class="course-tag gold-tag">Cloud Cert</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 4: Faculty & Achievements (Team Grid) -->
+        <section class="section achievements" id="achievements">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Faculty & Achievements</h2>
+                    <div class="section-divider"></div>
+                    <p class="section-desc">Guided by doctoral researchers and distinguished industry experts.</p>
+                </div>
+
+                <div class="faculty-grid">
+                    <div class="faculty-card glass-card">
+                        <div class="fac-avatar"><i class="fa-solid fa-user-tie"></i></div>
+                        <h3>Dr. S. K. Murthy</h3>
+                        <span class="fac-role">Professor & HOD, Data Science</span>
+                        <p>Ph.D. in Machine Learning, 18+ years research experience in neural network design and pattern recognition models.</p>
+                    </div>
+
+                    <div class="faculty-card glass-card">
+                        <div class="fac-avatar"><i class="fa-solid fa-user-nurse"></i></div>
+                        <h3>Dr. P. S. Lakshmi</h3>
+                        <span class="fac-role">Associate Professor, Analytics</span>
+                        <p>Ph.D. in Applied Statistics, researcher in Big Data algorithms and predictive healthcare intelligence pipelines.</p>
+                    </div>
+
+                    <div class="faculty-card glass-card">
+                        <div class="fac-avatar"><i class="fa-solid fa-user-doctor"></i></div>
+                        <h3>Prof. R. Sharma</h3>
+                        <span class="fac-role">Assistant Professor, Cloud Architect</span>
+                        <p>M.Tech in CSE, Cloud Solutions Architect. Ex-TCS Consultant specializing in cloud deployments and IoT endpoints.</p>
+                    </div>
+                </div>
+
+                <div class="achievements-highlights glass-card">
+                    <h3>Department Achievements</h3>
+                    <div class="ach-grid">
+                        <div class="ach-item">
+                            <span class="ach-num">12+</span>
+                            <p>Research Papers Published in IEEE</p>
+                        </div>
+                        <div class="ach-item">
+                            <span class="ach-num">5+</span>
+                            <p>Patents Registered in Smart Systems</p>
+                        </div>
+                        <div class="ach-item">
+                            <span class="ach-num">₹25L+</span>
+                            <p>External Research Grants Received</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 5: Campus Life (Image Gallery with 3D Transitions) -->
+        <section class="section campus-life" id="campus-life">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Campus Life & Facilities</h2>
+                    <div class="section-divider"></div>
+                    <p class="section-desc">State-of-the-art infrastructure designed to support a robust academic and social student life.</p>
+                </div>
+
+                <div class="gallery-grid">
+                    <div class="gallery-item glass-card card-3d">
+                        <div class="gi-icon"><i class="fa-solid fa-book-open"></i></div>
+                        <h3>Central Library</h3>
+                        <p>1,000 sqm floor area featuring lending, reading, and digital hubs housing 20,000+ volumes.</p>
+                    </div>
+
+                    <div class="gallery-item glass-card card-3d">
+                        <div class="gi-icon"><i class="fa-solid fa-hotel"></i></div>
+                        <h3>Hostel Facilities</h3>
+                        <p>Girls campus hostel with spacious rooms, hot water access, and hygienic cafeteria food.</p>
+                    </div>
+
+                    <div class="gallery-item glass-card card-3d">
+                        <div class="gi-icon"><i class="fa-solid fa-bus-simple"></i></div>
+                        <h3>Transport Network</h3>
+                        <p>Large fleet of buses covering city routes along with direct RTC bus connectivity.</p>
+                    </div>
+
+                    <div class="gallery-item glass-card card-3d">
+                        <div class="gi-icon"><i class="fa-solid fa-microscope"></i></div>
+                        <h3>Advanced Labs</h3>
+                        <p>State-of-the-art department laboratories outfitted with computational rigs for hands-on ML tasks.</p>
+                    </div>
+
+                    <div class="gallery-item glass-card card-3d">
+                        <div class="gi-icon"><i class="fa-solid fa-table-tennis-paddle-ball"></i></div>
+                        <h3>Sports Arena</h3>
+                        <p>Outdoor Basketball, Cricket fields, Volleyball courts, and dedicated indoor games setup.</p>
+                    </div>
+
+                    <div class="gallery-item glass-card card-3d">
+                        <div class="gi-icon"><i class="fa-solid fa-burger"></i></div>
+                        <h3>Cafeteria & Store</h3>
+                        <p>Multi-cuisine dining hall and the "READERS" stationery store for on-campus student needs.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 6: Testimonials (Carousel with Smooth Scroll) -->
+        <section class="section testimonials" id="testimonials">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Student Testimonials</h2>
+                    <div class="section-divider"></div>
+                    <p class="section-desc">Hear from our alumni and current students about their NNRG experience.</p>
+                </div>
+
+                <div class="testimonial-wrapper">
+                    <div class="testimonial-track">
+                        <div class="testimonial-card glass-card">
+                            <p class="test-text">"The Data Science program at NNRG gave me the coding and analytical foundation to secure a cloud engineer role at TCS. The hands-on labs were key."</p>
+                            <div class="test-author">
+                                <span class="author-name">Anusha Reddy</span>
+                                <span class="author-info">Class of 2024 | TCS Engineer</span>
+                            </div>
+                        </div>
+
+                        <div class="testimonial-card glass-card">
+                            <p class="test-text">"Working at the Robotics Development Centre allowed me to connect sensor networks directly into ML models. It's a great environment for builder students."</p>
+                            <div class="test-author">
+                                <span class="author-name">K. Sai Kumar</span>
+                                <span class="author-info">Class of 2025 | ML Intern</span>
+                            </div>
+                        </div>
+
+                        <div class="testimonial-card glass-card">
+                            <p class="test-text">"Thanks to NNRG's placement drives, I secured an analyst job before my final exams. The trainers did mock interviews that built our confidence."</p>
+                            <div class="test-author">
+                                <span class="author-name">P. Priyadarshini</span>
+                                <span class="author-info">Class of 2024 | Data Analyst</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 7: FAQ Accordion -->
+        <section class="section faq" id="faq">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Frequently Asked Questions</h2>
+                    <div class="section-divider"></div>
+                    <p class="section-desc">Common enquiries regarding admissions, syllabus, and campus facilities.</p>
+                </div>
+
+                <div class="faq-accordion">
+                    <div class="accordion-item glass-card">
+                        <button class="accordion-header">
+                            <span>What are the accreditation stats of NNRG?</span>
+                            <i class="fa-solid fa-chevron-down"></i>
+                        </button>
+                        <div class="accordion-body">
+                            <p>NNRG was established in 2009. The School of Engineering is affiliated with JNTU Hyderabad, approved by AICTE, and meets NBA/NAAC SSR parameters. You can download the accreditation documents under our resources section.</p>
+                        </div>
+                    </div>
+
+                    <div class="accordion-item glass-card">
+                        <button class="accordion-header">
+                            <span>How do I secure admissions under Category-B / Management seats?</span>
+                            <i class="fa-solid fa-chevron-down"></i>
+                        </button>
+                        <div class="accordion-body">
+                            <p>Admissions calls are released annually for Management (Category-B / NRI) seats. Applicants can submit their online inquiries via the form below or visit the campus administrative office directly.</p>
+                        </div>
+                    </div>
+
+                    <div class="accordion-item glass-card">
+                        <button class="accordion-header">
+                            <span>What facilities does the on-campus hostel provide?</span>
+                            <div class="fa-solid fa-chevron-down"></div>
+                        </button>
+                        <div class="accordion-body">
+                            <p>The Girls Hostel is located on-campus and offers spacious study rooms, 24/7 hot water supply, hygienic multi-cuisine dining, and round-the-clock security infrastructure.</p>
+                        </div>
+                    </div>
+
+                    <div class="accordion-item glass-card">
+                        <button class="accordion-header">
+                            <span>Are there transport facilities available for students?</span>
+                            <i class="fa-solid fa-chevron-down"></i>
+                        </button>
+                        <div class="accordion-body">
+                            <p>Yes, NNRG runs a large fleet of college buses connecting all major city routes. Additionally, regular state RTC bus services run directly to the campus gate.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Resources Section (Links and Downloads) -->
+        <section class="section resources" id="resources">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Notable Documents & Resources</h2>
+                    <div class="section-divider"></div>
+                    <p class="section-desc">Download handbook and accreditation records directly.</p>
+                </div>
+
+                <div class="resources-grid">
+                    <a href="https://nnrg.edu.in/PDF/FIRST_NNRG_HAND_BOOK_2025-26.pdf" target="_blank" class="resource-card glass-card">
+                        <i class="fa-solid fa-file-pdf pdf-icon"></i>
+                        <div class="rc-info">
+                            <h4>First Year Hand Book (2025-26)</h4>
+                            <p>Academic handbook for B.Tech freshman students.</p>
+                        </div>
+                    </a>
+                    <a href="https://nnrg.edu.in/PDF/DCP_NNRG_ECE.pdf" target="_blank" class="resource-card glass-card">
+                        <i class="fa-solid fa-file-pdf pdf-icon"></i>
+                        <div class="rc-info">
+                            <h4>NBA ECE Document</h4>
+                            <p>Department accreditation details and status.</p>
+                        </div>
+                    </a>
+                    <a href="https://nnrg.edu.in/PDF/NNRG-SSR.pdf" target="_blank" class="resource-card glass-card">
+                        <i class="fa-solid fa-file-pdf pdf-icon"></i>
+                        <div class="rc-info">
+                            <h4>NAAC SSR Document</h4>
+                            <p>Institutional Self Study Report submission.</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 8: Footer & Contact Section -->
+        <section class="section contact" id="contact">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Admissions & Contact</h2>
+                    <div class="section-divider"></div>
+                    <p class="section-desc">Connect with our support team or apply for the Data Science program.</p>
+                </div>
+
+                <div class="contact-grid">
+                    <!-- Details card -->
+                    <div class="contact-details glass-card">
+                        <h3>Campus Admissions Office</h3>
+                        <p class="cad">Chowdariguda (Village), Korremula 'X' Roads, Ghatkesar (Mandal), Medchal (District), Hyderabad, Telangana – 500088.</p>
+                        
+                        <div class="cd-item">
+                            <span class="cd-label">EAMCET / ICET Code:</span>
+                            <span class="cd-val">NNRG</span>
+                        </div>
+                        <div class="cd-item">
+                            <span class="cd-label">JNTUH College Code:</span>
+                            <span class="cd-val">7Z</span>
+                        </div>
+                        <div class="cd-item">
+                            <span class="cd-label">General Enquiries:</span>
+                            <span class="cd-val">9985311109 | 9885294405</span>
+                        </div>
+                        <div class="cd-item">
+                            <span class="cd-label">Admissions Hotline:</span>
+                            <span class="cd-val">+91 9985311103</span>
+                        </div>
+                        <div class="cd-item">
+                            <span class="cd-label">Email Contacts:</span>
+                            <span class="cd-val">admin@nnrg.edu.in | nnrgadmission@nnrg.edu.in</span>
+                        </div>
+                    </div>
+
+                    <!-- Application / Enquiry Form -->
+                    <div class="contact-form-container glass-card">
+                        <h3>Apply Now / Submit Enquiry</h3>
+                        <form onsubmit="event.preventDefault(); alert('Inquiry submitted successfully! Our Admissions Advisor will contact you within 24 hours.'); this.reset();">
+                            <div class="form-group">
+                                <label for="form-name">Applicant Name</label>
+                                <input type="text" id="form-name" required placeholder="Enter student name">
+                            </div>
+                            <div class="form-group">
+                                <label for="form-email">Email Address</label>
+                                <input type="email" id="form-email" required placeholder="Enter active email address">
+                            </div>
+                            <div class="form-group">
+                                <label for="form-course">Academic Program</label>
+                                <select id="form-course">
+                                    <option value="btech-ds">B.Tech - Data Science & AI</option>
+                                    <option value="btech-cse">B.Tech - Computer Science & Engineering</option>
+                                    <option value="pharmacy">B.Pharmacy / M.Pharmacy</option>
+                                    <option value="management">MBA - Management Sciences</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="form-msg">Brief Message</label>
+                                <textarea id="form-msg" rows="3" placeholder="Enter queries regarding Category-B seats, fees structure, or eligibility..."></textarea>
+                            </div>
+                            <div class="form-group">
+                                <label for="form-msg">Brief Message</label>
+                                <textarea id="form-msg" rows="3" placeholder="Enter queries regarding Category-B seats, fees structure, or eligibility..."></textarea>
+                            </div>
+                            <button type="submit" class="btn btn-primary btn-block">Apply / Submit Inquiry</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container footer-content">
+            <div class="footer-logo">
+                <span class="la">NNRG</span>
+                <span class="lt">Data Science Program</span>
+            </div>
+            <p>&copy; 2026 Nalla Narasimha Reddy Group of Institutions. All rights reserved.</p>
+            <div class="footer-links">
+                <a href="https://nnrg.edu.in/" target="_blank">Official Portal</a>
+                <a href="#about">About</a>
+                <a href="#faq">FAQ</a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Three.js Library CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <!-- GSAP CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <!-- Custom Script -->
+    <script src="static/js/app.js"></script>
+</body>
+</html>
